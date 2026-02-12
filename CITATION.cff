@@ -1,0 +1,14 @@
+### Optional: Combined / unified entry (if you prefer one citation for the project)
+
+```bibtex
+@techreport{Kaminov2026_CRSSCP,
+  author       = {Sergey Kaminov},
+  title        = {Coherence-Regulated Self-Sustaining Cognitive Process (CR-SSCP) — Versions 3.0 & 3.1},
+  year         = {2026},
+  month        = feb,
+  institution  = {Independent Research},
+  note         = {Persistent, self-regulating cognitive architecture approximating functional consciousness},
+  url          = {https://github.com/yourusername/cr-sscp},
+  keywords     = {cognitive architecture, functional consciousness, coherence regulation, persistent AI, active inference, global workspace, phenomenal buffer},
+  abstract     = {Detailed design specification for a persistent agent system with continuous dynamics, functional unity via Phenomenal Buffer, intrinsic drives, Long-Term Coherence Framework, strict memory hygiene, sleep cycles, and consciousness-like layers including attention, meta-cognition, temporal binding, affect, narrative self, agency tracking, and phenomenal transparency. Implemented as a research prototype to evaluate emergent properties.}
+}
