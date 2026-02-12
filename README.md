@@ -23,8 +23,8 @@ If you see “Invalid Notebook”, remove `metadata.widgets` from the `.ipynb` J
 
 ## Repository layout (recommended)
 - `notebooks/` — main Colab notebooks
-- `logs/` — example logs from runs (optional)
-- `src/` — extracted python modules (future refactor)
+- `logs/` — example logs from runs 
+- `docs/` — results 
 - `README.md` — this file
 
 ## License
