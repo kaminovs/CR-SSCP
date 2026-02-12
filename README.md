@@ -29,3 +29,12 @@ If you see “Invalid Notebook”, remove `metadata.widgets` from the `.ipynb` J
 
 ## License
 MIT
+
+## Citations
+
+If you use or reference this work, please cite:
+
+```bibtex
+@techreport{Kaminov2026_CRSSCPv30,
+  ...
+}
