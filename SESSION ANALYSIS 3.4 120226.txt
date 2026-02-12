@@ -1,0 +1,49 @@
+============================================================
+SESSION ANALYSIS
+============================================================
+
+Total ticks: 340
+Sleep cycles: 17
+
+Final Metrics:
+  Coherence (C_total): 0.917
+  - Evidence (Ce): 0.964
+  - Historical (Ch): 1.000
+  - Structural (Cs): 1.000
+  - Identity (Ci): 0.888
+  - Predictive (Cp): 0.500
+
+Drive States:
+  coherence: 0.77
+  uncertainty: 0.10
+  prediction_error: 0.82
+  novelty: 0.00
+  energy: 1.00
+  social_commitment: 0.10
+
+Affective State:
+  Emotion: frustrated
+  Mood: 0.50
+
+Memory:
+  Grounded facts: 217
+  Ungrounded notes: 7
+  Quarantined: 0
+
+Agency:
+  Self-caused actions: 340/340
+  Causal Closure Ratio: 100.00%
+
+Claim Ledger:
+  Total claims: 100
+  Verified claims: 45
+
+Narrative:
+  Current arc: exploration
+  Theme: discovering capabilities
+
+============================================================
+State saved to: /content/drive/MyDrive/crsscp_state.json
+Logs saved to: /content/drive/MyDrive/crsscp_logs.txt
+============================================================
+

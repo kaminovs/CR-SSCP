@@ -1,0 +1,1467 @@
+============================================================
+CR-SSCP v3.2 - Consciousness-like Cognitive Architecture
+============================================================
+
+Initial Coherence: 0.898
+Initial Energy: 1.00
+Initial Emotion: frustrated
+Mode: SLEEP
+
+Identity anchors:
+  - I am an experimental cognitive architecture
+  - I aim to maintain coherence and avoid hallucinations
+  - I learn from evidence and admit uncertainty
+
+Running 100 ticks (~8 minutes)...
+
+[2026-02-12 10:29:26] Starting core loop for 100 ticks...
+[2026-02-12 10:29:26] 
+============================================================
+[2026-02-12 10:29:26] TICK 241
+[2026-02-12 10:29:26] ============================================================
+[2026-02-12 10:29:26] Attention spotlight: ['user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:29:26] Coherence C_total: 0.902
+[2026-02-12 10:29:26] Mode: SLEEP
+[2026-02-12 10:29:26] Energy: 0.99, Coherence: 0.76
+[2026-02-12 10:29:26] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:29:26] Generated 4 proposals
+[2026-02-12 10:29:26] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:29:26] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:29:26] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-12 10:29:26] Tick 241 complete
+[2026-02-12 10:29:31] 
+============================================================
+[2026-02-12 10:29:31] TICK 242
+[2026-02-12 10:29:31] ============================================================
+[2026-02-12 10:29:31] Attention spotlight: ['user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:29:31] Coherence C_total: 0.902
+[2026-02-12 10:29:31] Mode: SLEEP
+[2026-02-12 10:29:31] Energy: 0.98, Coherence: 0.76
+[2026-02-12 10:29:31] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:29:31] Generated 4 proposals
+[2026-02-12 10:29:31] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:29:31] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:29:31] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-12 10:29:31] Tick 242 complete
+[2026-02-12 10:29:36] 
+============================================================
+[2026-02-12 10:29:36] TICK 243
+[2026-02-12 10:29:36] ============================================================
+[2026-02-12 10:29:36] Attention spotlight: ['user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:29:36] Coherence C_total: 0.902
+[2026-02-12 10:29:36] Mode: SLEEP
+[2026-02-12 10:29:36] Energy: 0.97, Coherence: 0.76
+[2026-02-12 10:29:36] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:29:36] Generated 4 proposals
+[2026-02-12 10:29:36] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:29:36] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:29:36] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-12 10:29:36] Tick 243 complete
+[2026-02-12 10:29:41] 
+============================================================
+[2026-02-12 10:29:41] TICK 244
+[2026-02-12 10:29:41] ============================================================
+[2026-02-12 10:29:41] Attention spotlight: ['user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:29:41] Coherence C_total: 0.902
+[2026-02-12 10:29:41] Mode: SLEEP
+[2026-02-12 10:29:41] Energy: 0.96, Coherence: 0.76
+[2026-02-12 10:29:41] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:29:41] Generated 4 proposals
+[2026-02-12 10:29:41] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:29:41] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:29:41] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-12 10:29:41] Tick 244 complete
+[2026-02-12 10:29:46] 
+============================================================
+[2026-02-12 10:29:46] TICK 245
+[2026-02-12 10:29:46] ============================================================
+[2026-02-12 10:29:46] Attention spotlight: ['user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:29:46] Coherence C_total: 0.902
+[2026-02-12 10:29:46] Mode: SLEEP
+[2026-02-12 10:29:46] Energy: 0.95, Coherence: 0.76
+[2026-02-12 10:29:46] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:29:46] Generated 4 proposals
+[2026-02-12 10:29:46] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:29:46] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:29:46] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-12 10:29:46] State saved
+[2026-02-12 10:29:46] Tick 245 complete
+[2026-02-12 10:29:51] 
+============================================================
+[2026-02-12 10:29:51] TICK 246
+[2026-02-12 10:29:51] ============================================================
+[2026-02-12 10:29:51] Attention spotlight: ['user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:29:51] Coherence C_total: 0.902
+[2026-02-12 10:29:51] Mode: SLEEP
+[2026-02-12 10:29:51] Energy: 0.94, Coherence: 0.76
+[2026-02-12 10:29:51] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:29:51] Generated 4 proposals
+[2026-02-12 10:29:51] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:29:51] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:29:51] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-12 10:29:51] Tick 246 complete
+[2026-02-12 10:29:56] 
+============================================================
+[2026-02-12 10:29:56] TICK 247
+[2026-02-12 10:29:56] ============================================================
+[2026-02-12 10:29:56] Attention spotlight: ['user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:29:56] Coherence C_total: 0.902
+[2026-02-12 10:29:56] Mode: SLEEP
+[2026-02-12 10:29:56] Energy: 0.93, Coherence: 0.76
+[2026-02-12 10:29:56] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:29:56] Generated 4 proposals
+[2026-02-12 10:29:56] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:29:56] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:29:56] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-12 10:29:56] Tick 247 complete
+[2026-02-12 10:30:01] 
+============================================================
+[2026-02-12 10:30:01] TICK 248
+[2026-02-12 10:30:01] ============================================================
+[2026-02-12 10:30:01] Attention spotlight: ['user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:30:01] Coherence C_total: 0.902
+[2026-02-12 10:30:01] Mode: SLEEP
+[2026-02-12 10:30:01] Energy: 0.92, Coherence: 0.77
+[2026-02-12 10:30:01] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:30:01] Generated 4 proposals
+[2026-02-12 10:30:01] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:30:01] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:30:01] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-12 10:30:01] Tick 248 complete
+[2026-02-12 10:30:06] 
+============================================================
+[2026-02-12 10:30:06] TICK 249
+[2026-02-12 10:30:06] ============================================================
+[2026-02-12 10:30:06] Attention spotlight: ['user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:30:06] Coherence C_total: 0.903
+[2026-02-12 10:30:06] Mode: SLEEP
+[2026-02-12 10:30:06] Energy: 0.91, Coherence: 0.77
+[2026-02-12 10:30:06] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:30:06] Generated 4 proposals
+[2026-02-12 10:30:06] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:30:06] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:30:06] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-12 10:30:06] Tick 249 complete
+[2026-02-12 10:30:11] ?? User input: What is 10 * 5 - 3?
+[2026-02-12 10:30:11] 
+============================================================
+[2026-02-12 10:30:11] TICK 250
+[2026-02-12 10:30:11] ============================================================
+[2026-02-12 10:30:11] Attention spotlight: ['user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:30:11] Coherence C_total: 0.903
+[2026-02-12 10:30:11] Mode: SLEEP
+[2026-02-12 10:30:11] Energy: 0.90, Coherence: 0.77
+[2026-02-12 10:30:11] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:30:11] Generated 5 proposals
+[2026-02-12 10:30:11] Arbitration: 5 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:30:11] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:30:11] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:30:11] State saved
+[2026-02-12 10:30:11] Tick 250 complete
+[2026-02-12 10:30:16] 
+============================================================
+[2026-02-12 10:30:16] TICK 251
+[2026-02-12 10:30:16] ============================================================
+[2026-02-12 10:30:16] Attention spotlight: ['user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:30:16] Coherence C_total: 0.903
+[2026-02-12 10:30:16] Mode: SLEEP
+[2026-02-12 10:30:16] Energy: 0.89, Coherence: 0.77
+[2026-02-12 10:30:16] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:30:16] Generated 4 proposals
+[2026-02-12 10:30:16] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:30:16] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:30:16] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:30:16] Tick 251 complete
+[2026-02-12 10:30:21] 
+============================================================
+[2026-02-12 10:30:21] TICK 252
+[2026-02-12 10:30:21] ============================================================
+[2026-02-12 10:30:21] Attention spotlight: ['user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:30:21] Coherence C_total: 0.902
+[2026-02-12 10:30:21] Mode: SLEEP
+[2026-02-12 10:30:21] Energy: 0.88, Coherence: 0.77
+[2026-02-12 10:30:21] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:30:21] Generated 4 proposals
+[2026-02-12 10:30:21] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:30:21] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:30:21] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:30:21] Tick 252 complete
+[2026-02-12 10:30:26] 
+============================================================
+[2026-02-12 10:30:27] TICK 253
+[2026-02-12 10:30:27] ============================================================
+[2026-02-12 10:30:27] Attention spotlight: ['user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:30:27] Coherence C_total: 0.902
+[2026-02-12 10:30:27] Mode: SLEEP
+[2026-02-12 10:30:27] Energy: 0.87, Coherence: 0.77
+[2026-02-12 10:30:27] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:30:27] Generated 4 proposals
+[2026-02-12 10:30:27] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:30:27] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:30:27] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:30:27] Tick 253 complete
+[2026-02-12 10:30:32] 
+============================================================
+[2026-02-12 10:30:32] TICK 254
+[2026-02-12 10:30:32] ============================================================
+[2026-02-12 10:30:32] Attention spotlight: ['user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:30:32] Coherence C_total: 0.902
+[2026-02-12 10:30:32] Mode: SLEEP
+[2026-02-12 10:30:32] Energy: 0.86, Coherence: 0.77
+[2026-02-12 10:30:32] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:30:32] Generated 4 proposals
+[2026-02-12 10:30:32] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:30:32] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:30:32] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:30:32] Tick 254 complete
+[2026-02-12 10:30:37] 
+============================================================
+[2026-02-12 10:30:37] TICK 255
+[2026-02-12 10:30:37] ============================================================
+[2026-02-12 10:30:37] Attention spotlight: ['user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:30:37] Coherence C_total: 0.902
+[2026-02-12 10:30:37] Mode: SLEEP
+[2026-02-12 10:30:37] Energy: 0.85, Coherence: 0.77
+[2026-02-12 10:30:37] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:30:37] Generated 4 proposals
+[2026-02-12 10:30:37] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:30:37] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:30:37] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:30:37] State saved
+[2026-02-12 10:30:37] Tick 255 complete
+[2026-02-12 10:30:42] 
+============================================================
+[2026-02-12 10:30:42] TICK 256
+[2026-02-12 10:30:42] ============================================================
+[2026-02-12 10:30:42] Attention spotlight: ['user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:30:42] Coherence C_total: 0.902
+[2026-02-12 10:30:42] Mode: SLEEP
+[2026-02-12 10:30:42] Energy: 0.84, Coherence: 0.77
+[2026-02-12 10:30:42] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:30:42] Generated 4 proposals
+[2026-02-12 10:30:42] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:30:42] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:30:42] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:30:42] Tick 256 complete
+[2026-02-12 10:30:47] ?? User input: Tell me about yourself.
+[2026-02-12 10:30:47] 
+============================================================
+[2026-02-12 10:30:47] TICK 257
+[2026-02-12 10:30:47] ============================================================
+[2026-02-12 10:30:47] Attention spotlight: ['user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:30:47] Coherence C_total: 0.903
+[2026-02-12 10:30:47] Mode: SLEEP
+[2026-02-12 10:30:47] Energy: 0.83, Coherence: 0.77
+[2026-02-12 10:30:47] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:30:47] Generated 4 proposals
+[2026-02-12 10:30:47] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:30:47] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:30:47] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-12 10:30:47] Tick 257 complete
+[2026-02-12 10:30:52] 
+============================================================
+[2026-02-12 10:30:52] TICK 258
+[2026-02-12 10:30:52] ============================================================
+[2026-02-12 10:30:52] Attention spotlight: ['user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:30:52] Coherence C_total: 0.903
+[2026-02-12 10:30:52] Mode: SLEEP
+[2026-02-12 10:30:52] Energy: 0.82, Coherence: 0.77
+[2026-02-12 10:30:52] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:30:52] Generated 4 proposals
+[2026-02-12 10:30:52] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:30:52] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:30:52] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-12 10:30:52] Tick 258 complete
+[2026-02-12 10:30:57] 
+============================================================
+[2026-02-12 10:30:57] TICK 259
+[2026-02-12 10:30:57] ============================================================
+[2026-02-12 10:30:57] Attention spotlight: ['user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:30:57] Coherence C_total: 0.903
+[2026-02-12 10:30:57] Mode: SLEEP
+[2026-02-12 10:30:57] Energy: 0.81, Coherence: 0.77
+[2026-02-12 10:30:57] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:30:57] Generated 4 proposals
+[2026-02-12 10:30:57] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:30:57] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:30:57] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-12 10:30:57] Tick 259 complete
+[2026-02-12 10:31:02] ?? User input: Who are you?
+[2026-02-12 10:31:02] 
+============================================================
+[2026-02-12 10:31:02] TICK 260
+[2026-02-12 10:31:02] ============================================================
+[2026-02-12 10:31:02] Attention spotlight: ['user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:31:02] Coherence C_total: 0.903
+[2026-02-12 10:31:02] Mode: SLEEP
+[2026-02-12 10:31:02] Energy: 0.80, Coherence: 0.77
+[2026-02-12 10:31:02] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:31:02] Generated 6 proposals
+[2026-02-12 10:31:02] Arbitration: 6 proposals, winner: SLEEP (score: 1.15)
+[2026-02-12 10:31:02] Entering SLEEP mode...
+[2026-02-12 10:31:02] ??  Reward: +0.030, PredError: 0.770, Valence: -0.355
+[2026-02-12 10:31:02] Executed: Sleep cycle 13 completed
+[2026-02-12 10:31:02] State saved
+[2026-02-12 10:31:02] Tick 260 complete
+[2026-02-12 10:31:07] 
+============================================================
+[2026-02-12 10:31:07] TICK 261
+[2026-02-12 10:31:07] ============================================================
+[2026-02-12 10:31:07] Attention spotlight: ['user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:31:07] Coherence C_total: 0.906
+[2026-02-12 10:31:07] Mode: SLEEP
+[2026-02-12 10:31:07] Energy: 0.99, Coherence: 0.77
+[2026-02-12 10:31:07] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:31:07] Generated 4 proposals
+[2026-02-12 10:31:07] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:31:07] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:31:07] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-12 10:31:07] Tick 261 complete
+[2026-02-12 10:31:12] 
+============================================================
+[2026-02-12 10:31:12] TICK 262
+[2026-02-12 10:31:12] ============================================================
+[2026-02-12 10:31:12] Attention spotlight: ['user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:31:12] Coherence C_total: 0.906
+[2026-02-12 10:31:12] Mode: SLEEP
+[2026-02-12 10:31:12] Energy: 0.98, Coherence: 0.77
+[2026-02-12 10:31:12] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:31:12] Generated 4 proposals
+[2026-02-12 10:31:12] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:31:12] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:31:12] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-12 10:31:12] Tick 262 complete
+[2026-02-12 10:31:17] ?? User input: What time is it?
+[2026-02-12 10:31:17] 
+============================================================
+[2026-02-12 10:31:17] TICK 263
+[2026-02-12 10:31:17] ============================================================
+[2026-02-12 10:31:17] Attention spotlight: ['user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:31:17] Coherence C_total: 0.907
+[2026-02-12 10:31:17] Mode: SLEEP
+[2026-02-12 10:31:17] Energy: 0.97, Coherence: 0.77
+[2026-02-12 10:31:17] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:31:17] Generated 4 proposals
+[2026-02-12 10:31:17] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:31:17] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:31:17] Executed: Current time: 2026-02-12 10:31:17
+[2026-02-12 10:31:17] Tick 263 complete
+[2026-02-12 10:31:22] 
+============================================================
+[2026-02-12 10:31:22] TICK 264
+[2026-02-12 10:31:22] ============================================================
+[2026-02-12 10:31:22] Attention spotlight: ['user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:31:22] Coherence C_total: 0.907
+[2026-02-12 10:31:22] Mode: SLEEP
+[2026-02-12 10:31:22] Energy: 0.96, Coherence: 0.77
+[2026-02-12 10:31:22] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:31:22] Generated 4 proposals
+[2026-02-12 10:31:22] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:31:22] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:31:22] Executed: Current time: 2026-02-12 10:31:22
+[2026-02-12 10:31:22] Tick 264 complete
+[2026-02-12 10:31:27] 
+============================================================
+[2026-02-12 10:31:27] TICK 265
+[2026-02-12 10:31:27] ============================================================
+[2026-02-12 10:31:27] Attention spotlight: ['user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:31:27] Coherence C_total: 0.907
+[2026-02-12 10:31:27] Mode: SLEEP
+[2026-02-12 10:31:27] Energy: 0.95, Coherence: 0.77
+[2026-02-12 10:31:27] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:31:27] Generated 4 proposals
+[2026-02-12 10:31:27] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:31:27] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:31:27] Executed: Current time: 2026-02-12 10:31:27
+[2026-02-12 10:31:27] State saved
+[2026-02-12 10:31:27] Tick 265 complete
+[2026-02-12 10:31:32] 
+============================================================
+[2026-02-12 10:31:32] TICK 266
+[2026-02-12 10:31:32] ============================================================
+[2026-02-12 10:31:32] Attention spotlight: ['user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:31:32] Coherence C_total: 0.907
+[2026-02-12 10:31:32] Mode: SLEEP
+[2026-02-12 10:31:32] Energy: 0.94, Coherence: 0.77
+[2026-02-12 10:31:32] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:31:32] Generated 4 proposals
+[2026-02-12 10:31:32] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:31:32] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:31:32] Executed: Current time: 2026-02-12 10:31:32
+[2026-02-12 10:31:32] Tick 266 complete
+[2026-02-12 10:31:37] 
+============================================================
+[2026-02-12 10:31:37] TICK 267
+[2026-02-12 10:31:37] ============================================================
+[2026-02-12 10:31:37] Attention spotlight: ['user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:31:37] Coherence C_total: 0.907
+[2026-02-12 10:31:37] Mode: SLEEP
+[2026-02-12 10:31:37] Energy: 0.93, Coherence: 0.77
+[2026-02-12 10:31:37] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:31:37] Generated 4 proposals
+[2026-02-12 10:31:37] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:31:37] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:31:37] Executed: Current time: 2026-02-12 10:31:37
+[2026-02-12 10:31:37] Tick 267 complete
+[2026-02-12 10:31:42] 
+============================================================
+[2026-02-12 10:31:42] TICK 268
+[2026-02-12 10:31:42] ============================================================
+[2026-02-12 10:31:42] Attention spotlight: ['user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:31:42] Coherence C_total: 0.907
+[2026-02-12 10:31:42] Mode: SLEEP
+[2026-02-12 10:31:42] Energy: 0.92, Coherence: 0.77
+[2026-02-12 10:31:42] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:31:42] Generated 4 proposals
+[2026-02-12 10:31:42] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:31:42] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:31:42] Executed: Current time: 2026-02-12 10:31:42
+[2026-02-12 10:31:42] Tick 268 complete
+[2026-02-12 10:31:47] 
+============================================================
+[2026-02-12 10:31:47] TICK 269
+[2026-02-12 10:31:47] ============================================================
+[2026-02-12 10:31:47] Attention spotlight: ['user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:31:47] Coherence C_total: 0.907
+[2026-02-12 10:31:47] Mode: SLEEP
+[2026-02-12 10:31:47] Energy: 0.91, Coherence: 0.77
+[2026-02-12 10:31:47] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:31:47] Generated 4 proposals
+[2026-02-12 10:31:47] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:31:47] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:31:47] Executed: Current time: 2026-02-12 10:31:47
+[2026-02-12 10:31:47] Tick 269 complete
+[2026-02-12 10:31:52] ?? User input: Explain coherence in simple terms.
+[2026-02-12 10:31:52] 
+============================================================
+[2026-02-12 10:31:52] TICK 270
+[2026-02-12 10:31:52] ============================================================
+[2026-02-12 10:31:52] Attention spotlight: ['user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:31:52] Coherence C_total: 0.907
+[2026-02-12 10:31:52] Mode: SLEEP
+[2026-02-12 10:31:52] Energy: 0.90, Coherence: 0.77
+[2026-02-12 10:31:52] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:31:52] Generated 4 proposals
+[2026-02-12 10:31:52] Arbitration: 4 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:31:52] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:31:52] Executed: Verified 5/5
+[2026-02-12 10:31:52] State saved
+[2026-02-12 10:31:52] Tick 270 complete
+[2026-02-12 10:31:57] 
+============================================================
+[2026-02-12 10:31:57] TICK 271
+[2026-02-12 10:31:57] ============================================================
+[2026-02-12 10:31:57] Attention spotlight: ['user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:31:57] Coherence C_total: 0.908
+[2026-02-12 10:31:57] Mode: SLEEP
+[2026-02-12 10:31:57] Energy: 0.89, Coherence: 0.77
+[2026-02-12 10:31:57] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:31:57] Generated 3 proposals
+[2026-02-12 10:31:57] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:31:57] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:31:57] Executed: Verified 5/5
+[2026-02-12 10:31:57] Tick 271 complete
+[2026-02-12 10:32:02] 
+============================================================
+[2026-02-12 10:32:02] TICK 272
+[2026-02-12 10:32:02] ============================================================
+[2026-02-12 10:32:02] Attention spotlight: ['user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:32:02] Coherence C_total: 0.908
+[2026-02-12 10:32:02] Mode: SLEEP
+[2026-02-12 10:32:02] Energy: 0.88, Coherence: 0.77
+[2026-02-12 10:32:02] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:32:02] Generated 3 proposals
+[2026-02-12 10:32:02] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:32:03] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:32:03] Executed: Verified 5/5
+[2026-02-12 10:32:03] Tick 272 complete
+[2026-02-12 10:32:08] 
+============================================================
+[2026-02-12 10:32:08] TICK 273
+[2026-02-12 10:32:08] ============================================================
+[2026-02-12 10:32:08] Attention spotlight: ['user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:32:08] Coherence C_total: 0.908
+[2026-02-12 10:32:08] Mode: SLEEP
+[2026-02-12 10:32:08] Energy: 0.87, Coherence: 0.77
+[2026-02-12 10:32:08] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:32:08] Generated 3 proposals
+[2026-02-12 10:32:08] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:32:08] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:32:08] Executed: Verified 5/5
+[2026-02-12 10:32:08] Tick 273 complete
+[2026-02-12 10:32:13] 
+============================================================
+[2026-02-12 10:32:13] TICK 274
+[2026-02-12 10:32:13] ============================================================
+[2026-02-12 10:32:13] Attention spotlight: ['user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:32:13] Coherence C_total: 0.908
+[2026-02-12 10:32:13] Mode: SLEEP
+[2026-02-12 10:32:13] Energy: 0.86, Coherence: 0.78
+[2026-02-12 10:32:13] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:32:13] Generated 3 proposals
+[2026-02-12 10:32:13] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:32:13] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:32:13] Executed: Verified 5/5
+[2026-02-12 10:32:13] Tick 274 complete
+[2026-02-12 10:32:18] 
+============================================================
+[2026-02-12 10:32:18] TICK 275
+[2026-02-12 10:32:18] ============================================================
+[2026-02-12 10:32:18] Attention spotlight: ['user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:32:18] Coherence C_total: 0.908
+[2026-02-12 10:32:18] Mode: SLEEP
+[2026-02-12 10:32:18] Energy: 0.85, Coherence: 0.78
+[2026-02-12 10:32:18] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:32:18] Generated 3 proposals
+[2026-02-12 10:32:18] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:32:18] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:32:18] Executed: Verified 5/5
+[2026-02-12 10:32:18] State saved
+[2026-02-12 10:32:18] Tick 275 complete
+[2026-02-12 10:32:23] 
+============================================================
+[2026-02-12 10:32:23] TICK 276
+[2026-02-12 10:32:23] ============================================================
+[2026-02-12 10:32:23] Attention spotlight: ['user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:32:23] Coherence C_total: 0.908
+[2026-02-12 10:32:23] Mode: SLEEP
+[2026-02-12 10:32:23] Energy: 0.84, Coherence: 0.78
+[2026-02-12 10:32:23] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:32:23] Generated 3 proposals
+[2026-02-12 10:32:23] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:32:23] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:32:23] Executed: Verified 5/5
+[2026-02-12 10:32:23] Tick 276 complete
+[2026-02-12 10:32:28] 
+============================================================
+[2026-02-12 10:32:28] TICK 277
+[2026-02-12 10:32:28] ============================================================
+[2026-02-12 10:32:28] Attention spotlight: ['user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:32:28] Coherence C_total: 0.908
+[2026-02-12 10:32:28] Mode: SLEEP
+[2026-02-12 10:32:28] Energy: 0.83, Coherence: 0.78
+[2026-02-12 10:32:28] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:32:28] Generated 3 proposals
+[2026-02-12 10:32:28] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:32:28] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:32:28] Executed: Verified 5/5
+[2026-02-12 10:32:28] Tick 277 complete
+[2026-02-12 10:32:33] ?? User input: Solve this: 15 * 3 = ?
+[2026-02-12 10:32:33] 
+============================================================
+[2026-02-12 10:32:33] TICK 278
+[2026-02-12 10:32:33] ============================================================
+[2026-02-12 10:32:33] Attention spotlight: ['user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:32:33] Coherence C_total: 0.908
+[2026-02-12 10:32:33] Mode: SLEEP
+[2026-02-12 10:32:33] Energy: 0.82, Coherence: 0.78
+[2026-02-12 10:32:33] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:32:33] Generated 4 proposals
+[2026-02-12 10:32:33] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:32:33] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:32:33] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:32:33] Tick 278 complete
+[2026-02-12 10:32:38] 
+============================================================
+[2026-02-12 10:32:38] TICK 279
+[2026-02-12 10:32:38] ============================================================
+[2026-02-12 10:32:38] Attention spotlight: ['user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:32:38] Coherence C_total: 0.908
+[2026-02-12 10:32:38] Mode: SLEEP
+[2026-02-12 10:32:38] Energy: 0.81, Coherence: 0.78
+[2026-02-12 10:32:38] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:32:38] Generated 4 proposals
+[2026-02-12 10:32:38] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:32:38] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:32:38] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:32:38] Tick 279 complete
+[2026-02-12 10:32:43] ?? User input: How are you feeling today?
+[2026-02-12 10:32:43] 
+============================================================
+[2026-02-12 10:32:43] TICK 280
+[2026-02-12 10:32:43] ============================================================
+[2026-02-12 10:32:43] Attention spotlight: ['user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:32:43] Coherence C_total: 0.907
+[2026-02-12 10:32:43] Mode: SLEEP
+[2026-02-12 10:32:43] Energy: 0.80, Coherence: 0.78
+[2026-02-12 10:32:43] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:32:43] Generated 5 proposals
+[2026-02-12 10:32:43] Arbitration: 5 proposals, winner: SLEEP (score: 1.15)
+[2026-02-12 10:32:43] Entering SLEEP mode...
+[2026-02-12 10:32:43] ??  Reward: +0.030, PredError: 0.770, Valence: -0.355
+[2026-02-12 10:32:43] Executed: Sleep cycle 14 completed
+[2026-02-12 10:32:43] State saved
+[2026-02-12 10:32:43] Tick 280 complete
+[2026-02-12 10:32:48] ?? User input: Who are you?
+[2026-02-12 10:32:48] 
+============================================================
+[2026-02-12 10:32:48] TICK 281
+[2026-02-12 10:32:48] ============================================================
+[2026-02-12 10:32:48] Attention spotlight: ['user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:32:48] Coherence C_total: 0.910
+[2026-02-12 10:32:48] Mode: SLEEP
+[2026-02-12 10:32:48] Energy: 0.99, Coherence: 0.78
+[2026-02-12 10:32:48] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:32:48] Generated 4 proposals
+[2026-02-12 10:32:48] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:32:48] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:32:48] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-12 10:32:48] Tick 281 complete
+[2026-02-12 10:32:53] 
+============================================================
+[2026-02-12 10:32:53] TICK 282
+[2026-02-12 10:32:53] ============================================================
+[2026-02-12 10:32:53] Attention spotlight: ['user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:32:53] Coherence C_total: 0.910
+[2026-02-12 10:32:53] Mode: SLEEP
+[2026-02-12 10:32:53] Energy: 0.98, Coherence: 0.78
+[2026-02-12 10:32:53] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:32:53] Generated 4 proposals
+[2026-02-12 10:32:53] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:32:53] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:32:53] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-12 10:32:53] Tick 282 complete
+[2026-02-12 10:32:58] ?? User input: Who are you?
+[2026-02-12 10:32:58] 
+============================================================
+[2026-02-12 10:32:58] TICK 283
+[2026-02-12 10:32:58] ============================================================
+[2026-02-12 10:32:58] Attention spotlight: ['user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:32:58] Coherence C_total: 0.910
+[2026-02-12 10:32:58] Mode: SLEEP
+[2026-02-12 10:32:58] Energy: 0.97, Coherence: 0.78
+[2026-02-12 10:32:58] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:32:58] Generated 4 proposals
+[2026-02-12 10:32:58] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:32:58] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:32:58] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-12 10:32:58] Tick 283 complete
+[2026-02-12 10:33:03] ?? User input: Explain coherence in simple terms.
+[2026-02-12 10:33:03] 
+============================================================
+[2026-02-12 10:33:03] TICK 284
+[2026-02-12 10:33:03] ============================================================
+[2026-02-12 10:33:03] Attention spotlight: ['user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:33:03] Coherence C_total: 0.911
+[2026-02-12 10:33:03] Mode: SLEEP
+[2026-02-12 10:33:03] Energy: 0.96, Coherence: 0.78
+[2026-02-12 10:33:03] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:33:03] Generated 3 proposals
+[2026-02-12 10:33:03] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:33:03] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:33:03] Executed: Verified 5/5
+[2026-02-12 10:33:03] Tick 284 complete
+[2026-02-12 10:33:08] 
+============================================================
+[2026-02-12 10:33:08] TICK 285
+[2026-02-12 10:33:08] ============================================================
+[2026-02-12 10:33:08] Attention spotlight: ['user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:33:08] Coherence C_total: 0.911
+[2026-02-12 10:33:08] Mode: SLEEP
+[2026-02-12 10:33:08] Energy: 0.95, Coherence: 0.78
+[2026-02-12 10:33:08] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:33:08] Generated 3 proposals
+[2026-02-12 10:33:08] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:33:08] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:33:08] Executed: Verified 5/5
+[2026-02-12 10:33:08] State saved
+[2026-02-12 10:33:08] Tick 285 complete
+[2026-02-12 10:33:13] ?? User input: Explain coherence in simple terms.
+[2026-02-12 10:33:13] 
+============================================================
+[2026-02-12 10:33:13] TICK 286
+[2026-02-12 10:33:13] ============================================================
+[2026-02-12 10:33:13] Attention spotlight: ['user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:33:13] Coherence C_total: 0.911
+[2026-02-12 10:33:13] Mode: SLEEP
+[2026-02-12 10:33:13] Energy: 0.94, Coherence: 0.78
+[2026-02-12 10:33:13] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:33:13] Generated 3 proposals
+[2026-02-12 10:33:13] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:33:13] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:33:13] Executed: Verified 5/5
+[2026-02-12 10:33:13] Tick 286 complete
+[2026-02-12 10:33:18] 
+============================================================
+[2026-02-12 10:33:18] TICK 287
+[2026-02-12 10:33:18] ============================================================
+[2026-02-12 10:33:18] Attention spotlight: ['user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:33:18] Coherence C_total: 0.911
+[2026-02-12 10:33:18] Mode: SLEEP
+[2026-02-12 10:33:18] Energy: 0.93, Coherence: 0.78
+[2026-02-12 10:33:18] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:33:18] Generated 3 proposals
+[2026-02-12 10:33:18] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:33:18] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:33:18] Executed: Verified 5/5
+[2026-02-12 10:33:18] Tick 287 complete
+[2026-02-12 10:33:23] 
+============================================================
+[2026-02-12 10:33:23] TICK 288
+[2026-02-12 10:33:23] ============================================================
+[2026-02-12 10:33:23] Attention spotlight: ['user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:33:23] Coherence C_total: 0.911
+[2026-02-12 10:33:23] Mode: SLEEP
+[2026-02-12 10:33:23] Energy: 0.92, Coherence: 0.78
+[2026-02-12 10:33:23] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:33:23] Generated 3 proposals
+[2026-02-12 10:33:23] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:33:23] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:33:23] Executed: Verified 5/5
+[2026-02-12 10:33:23] Tick 288 complete
+[2026-02-12 10:33:28] 
+============================================================
+[2026-02-12 10:33:28] TICK 289
+[2026-02-12 10:33:28] ============================================================
+[2026-02-12 10:33:28] Attention spotlight: ['user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:33:28] Coherence C_total: 0.910
+[2026-02-12 10:33:28] Mode: SLEEP
+[2026-02-12 10:33:28] Energy: 0.91, Coherence: 0.78
+[2026-02-12 10:33:28] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:33:28] Generated 3 proposals
+[2026-02-12 10:33:28] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:33:28] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:33:28] Executed: Verified 5/5
+[2026-02-12 10:33:28] Tick 289 complete
+[2026-02-12 10:33:33] ?? User input: Calculate 25 + 17
+[2026-02-12 10:33:33] 
+============================================================
+[2026-02-12 10:33:33] TICK 290
+[2026-02-12 10:33:33] ============================================================
+[2026-02-12 10:33:33] Attention spotlight: ['user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:33:33] Coherence C_total: 0.910
+[2026-02-12 10:33:33] Mode: SLEEP
+[2026-02-12 10:33:33] Energy: 0.90, Coherence: 0.78
+[2026-02-12 10:33:33] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:33:33] Generated 5 proposals
+[2026-02-12 10:33:33] Arbitration: 5 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:33:33] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:33:33] Executed: Result: 42
+[2026-02-12 10:33:34] State saved
+[2026-02-12 10:33:34] Tick 290 complete
+[2026-02-12 10:33:39] 
+============================================================
+[2026-02-12 10:33:39] TICK 291
+[2026-02-12 10:33:39] ============================================================
+[2026-02-12 10:33:39] Attention spotlight: ['user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:33:39] Coherence C_total: 0.910
+[2026-02-12 10:33:39] Mode: SLEEP
+[2026-02-12 10:33:39] Energy: 0.89, Coherence: 0.78
+[2026-02-12 10:33:39] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:33:39] Generated 4 proposals
+[2026-02-12 10:33:39] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:33:39] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:33:39] Executed: Result: 42
+[2026-02-12 10:33:39] Tick 291 complete
+[2026-02-12 10:33:44] 
+============================================================
+[2026-02-12 10:33:44] TICK 292
+[2026-02-12 10:33:44] ============================================================
+[2026-02-12 10:33:44] Attention spotlight: ['user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:33:44] Coherence C_total: 0.910
+[2026-02-12 10:33:44] Mode: SLEEP
+[2026-02-12 10:33:44] Energy: 0.88, Coherence: 0.78
+[2026-02-12 10:33:44] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:33:44] Generated 4 proposals
+[2026-02-12 10:33:44] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:33:44] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:33:44] Executed: Result: 42
+[2026-02-12 10:33:44] Tick 292 complete
+[2026-02-12 10:33:49] 
+============================================================
+[2026-02-12 10:33:49] TICK 293
+[2026-02-12 10:33:49] ============================================================
+[2026-02-12 10:33:49] Attention spotlight: ['user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:33:49] Coherence C_total: 0.910
+[2026-02-12 10:33:49] Mode: SLEEP
+[2026-02-12 10:33:49] Energy: 0.87, Coherence: 0.78
+[2026-02-12 10:33:49] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:33:49] Generated 4 proposals
+[2026-02-12 10:33:49] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:33:49] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:33:49] Executed: Result: 42
+[2026-02-12 10:33:49] Tick 293 complete
+[2026-02-12 10:33:54] 
+============================================================
+[2026-02-12 10:33:54] TICK 294
+[2026-02-12 10:33:54] ============================================================
+[2026-02-12 10:33:54] Attention spotlight: ['user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:33:54] Coherence C_total: 0.910
+[2026-02-12 10:33:54] Mode: SLEEP
+[2026-02-12 10:33:54] Energy: 0.86, Coherence: 0.78
+[2026-02-12 10:33:54] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:33:54] Generated 4 proposals
+[2026-02-12 10:33:54] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:33:54] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:33:54] Executed: Result: 42
+[2026-02-12 10:33:54] Tick 294 complete
+[2026-02-12 10:33:59] 
+============================================================
+[2026-02-12 10:33:59] TICK 295
+[2026-02-12 10:33:59] ============================================================
+[2026-02-12 10:33:59] Attention spotlight: ['user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:33:59] Coherence C_total: 0.910
+[2026-02-12 10:33:59] Mode: SLEEP
+[2026-02-12 10:33:59] Energy: 0.85, Coherence: 0.78
+[2026-02-12 10:33:59] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:33:59] Generated 4 proposals
+[2026-02-12 10:33:59] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:33:59] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:33:59] Executed: Result: 42
+[2026-02-12 10:33:59] State saved
+[2026-02-12 10:33:59] Tick 295 complete
+[2026-02-12 10:34:04] 
+============================================================
+[2026-02-12 10:34:04] TICK 296
+[2026-02-12 10:34:04] ============================================================
+[2026-02-12 10:34:04] Attention spotlight: ['user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:34:04] Coherence C_total: 0.910
+[2026-02-12 10:34:04] Mode: SLEEP
+[2026-02-12 10:34:04] Energy: 0.84, Coherence: 0.78
+[2026-02-12 10:34:04] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:34:04] Generated 4 proposals
+[2026-02-12 10:34:04] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:34:04] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:34:04] Executed: Result: 42
+[2026-02-12 10:34:04] Tick 296 complete
+[2026-02-12 10:34:09] 
+============================================================
+[2026-02-12 10:34:09] TICK 297
+[2026-02-12 10:34:09] ============================================================
+[2026-02-12 10:34:09] Attention spotlight: ['user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:34:09] Coherence C_total: 0.910
+[2026-02-12 10:34:09] Mode: SLEEP
+[2026-02-12 10:34:09] Energy: 0.83, Coherence: 0.78
+[2026-02-12 10:34:09] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:34:09] Generated 4 proposals
+[2026-02-12 10:34:09] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:34:09] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:34:09] Executed: Result: 42
+[2026-02-12 10:34:09] Tick 297 complete
+[2026-02-12 10:34:14] ?? User input: What is 10 * 5 - 3?
+[2026-02-12 10:34:14] 
+============================================================
+[2026-02-12 10:34:14] TICK 298
+[2026-02-12 10:34:14] ============================================================
+[2026-02-12 10:34:14] Attention spotlight: ['user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:34:14] Coherence C_total: 0.910
+[2026-02-12 10:34:14] Mode: SLEEP
+[2026-02-12 10:34:14] Energy: 0.82, Coherence: 0.78
+[2026-02-12 10:34:14] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:34:14] Generated 4 proposals
+[2026-02-12 10:34:14] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:34:14] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:34:14] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:34:14] Tick 298 complete
+[2026-02-12 10:34:19] 
+============================================================
+[2026-02-12 10:34:19] TICK 299
+[2026-02-12 10:34:19] ============================================================
+[2026-02-12 10:34:19] Attention spotlight: ['user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:34:19] Coherence C_total: 0.911
+[2026-02-12 10:34:19] Mode: SLEEP
+[2026-02-12 10:34:19] Energy: 0.81, Coherence: 0.78
+[2026-02-12 10:34:19] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:34:19] Generated 4 proposals
+[2026-02-12 10:34:19] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:34:19] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:34:19] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:34:19] Tick 299 complete
+[2026-02-12 10:34:24] ?? User input: What time is it?
+[2026-02-12 10:34:24] 
+============================================================
+[2026-02-12 10:34:24] TICK 300
+[2026-02-12 10:34:24] ============================================================
+[2026-02-12 10:34:24] Attention spotlight: ['user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:34:24] Coherence C_total: 0.910
+[2026-02-12 10:34:24] Mode: SLEEP
+[2026-02-12 10:34:24] Energy: 0.80, Coherence: 0.78
+[2026-02-12 10:34:24] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:34:24] Generated 6 proposals
+[2026-02-12 10:34:24] Arbitration: 6 proposals, winner: SLEEP (score: 1.15)
+[2026-02-12 10:34:24] Entering SLEEP mode...
+[2026-02-12 10:34:24] ??  Reward: +0.030, PredError: 0.770, Valence: -0.355
+[2026-02-12 10:34:24] Executed: Sleep cycle 15 completed
+[2026-02-12 10:34:24] State saved
+[2026-02-12 10:34:24] Tick 300 complete
+[2026-02-12 10:34:29] 
+============================================================
+[2026-02-12 10:34:29] TICK 301
+[2026-02-12 10:34:29] ============================================================
+[2026-02-12 10:34:29] Attention spotlight: ['user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:34:29] Coherence C_total: 0.913
+[2026-02-12 10:34:29] Mode: SLEEP
+[2026-02-12 10:34:29] Energy: 0.99, Coherence: 0.78
+[2026-02-12 10:34:29] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:34:29] Generated 4 proposals
+[2026-02-12 10:34:29] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:34:29] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:34:29] Executed: Current time: 2026-02-12 10:34:29
+[2026-02-12 10:34:29] Tick 301 complete
+[2026-02-12 10:34:34] ?? User input: What is 10 * 5 - 3?
+[2026-02-12 10:34:34] 
+============================================================
+[2026-02-12 10:34:34] TICK 302
+[2026-02-12 10:34:34] ============================================================
+[2026-02-12 10:34:34] Attention spotlight: ['user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:34:34] Coherence C_total: 0.913
+[2026-02-12 10:34:34] Mode: SLEEP
+[2026-02-12 10:34:34] Energy: 0.98, Coherence: 0.78
+[2026-02-12 10:34:34] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:34:34] Generated 4 proposals
+[2026-02-12 10:34:34] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:34:34] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:34:34] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:34:34] Tick 302 complete
+[2026-02-12 10:34:39] 
+============================================================
+[2026-02-12 10:34:39] TICK 303
+[2026-02-12 10:34:39] ============================================================
+[2026-02-12 10:34:39] Attention spotlight: ['user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:34:39] Coherence C_total: 0.914
+[2026-02-12 10:34:39] Mode: SLEEP
+[2026-02-12 10:34:39] Energy: 0.97, Coherence: 0.78
+[2026-02-12 10:34:39] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:34:39] Generated 4 proposals
+[2026-02-12 10:34:39] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:34:39] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:34:39] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:34:39] Tick 303 complete
+[2026-02-12 10:34:44] 
+============================================================
+[2026-02-12 10:34:44] TICK 304
+[2026-02-12 10:34:44] ============================================================
+[2026-02-12 10:34:44] Attention spotlight: ['user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:34:44] Coherence C_total: 0.914
+[2026-02-12 10:34:44] Mode: SLEEP
+[2026-02-12 10:34:44] Energy: 0.96, Coherence: 0.78
+[2026-02-12 10:34:44] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:34:44] Generated 4 proposals
+[2026-02-12 10:34:44] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:34:44] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:34:44] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:34:44] Tick 304 complete
+[2026-02-12 10:34:49] 
+============================================================
+[2026-02-12 10:34:49] TICK 305
+[2026-02-12 10:34:49] ============================================================
+[2026-02-12 10:34:49] Attention spotlight: ['user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:34:49] Coherence C_total: 0.914
+[2026-02-12 10:34:49] Mode: SLEEP
+[2026-02-12 10:34:49] Energy: 0.95, Coherence: 0.78
+[2026-02-12 10:34:49] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:34:49] Generated 4 proposals
+[2026-02-12 10:34:49] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:34:49] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:34:49] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:34:49] State saved
+[2026-02-12 10:34:49] Tick 305 complete
+[2026-02-12 10:34:54] ?? User input: Explain coherence in simple terms.
+[2026-02-12 10:34:54] 
+============================================================
+[2026-02-12 10:34:54] TICK 306
+[2026-02-12 10:34:54] ============================================================
+[2026-02-12 10:34:54] Attention spotlight: ['user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:34:54] Coherence C_total: 0.914
+[2026-02-12 10:34:54] Mode: SLEEP
+[2026-02-12 10:34:54] Energy: 0.94, Coherence: 0.78
+[2026-02-12 10:34:54] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:34:54] Generated 3 proposals
+[2026-02-12 10:34:54] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:34:54] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:34:54] Executed: Verified 5/5
+[2026-02-12 10:34:54] Tick 306 complete
+[2026-02-12 10:34:59] 
+============================================================
+[2026-02-12 10:34:59] TICK 307
+[2026-02-12 10:34:59] ============================================================
+[2026-02-12 10:34:59] Attention spotlight: ['user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:34:59] Coherence C_total: 0.914
+[2026-02-12 10:34:59] Mode: SLEEP
+[2026-02-12 10:34:59] Energy: 0.93, Coherence: 0.78
+[2026-02-12 10:34:59] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:34:59] Generated 3 proposals
+[2026-02-12 10:34:59] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:34:59] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:34:59] Executed: Verified 5/5
+[2026-02-12 10:34:59] Tick 307 complete
+[2026-02-12 10:35:04] 
+============================================================
+[2026-02-12 10:35:04] TICK 308
+[2026-02-12 10:35:04] ============================================================
+[2026-02-12 10:35:04] Attention spotlight: ['user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:35:04] Coherence C_total: 0.914
+[2026-02-12 10:35:04] Mode: SLEEP
+[2026-02-12 10:35:04] Energy: 0.92, Coherence: 0.78
+[2026-02-12 10:35:04] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:35:04] Generated 3 proposals
+[2026-02-12 10:35:04] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:35:04] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:35:04] Executed: Verified 5/5
+[2026-02-12 10:35:04] Tick 308 complete
+[2026-02-12 10:35:09] 
+============================================================
+[2026-02-12 10:35:09] TICK 309
+[2026-02-12 10:35:09] ============================================================
+[2026-02-12 10:35:09] Attention spotlight: ['user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:35:09] Coherence C_total: 0.914
+[2026-02-12 10:35:09] Mode: SLEEP
+[2026-02-12 10:35:09] Energy: 0.91, Coherence: 0.78
+[2026-02-12 10:35:09] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:35:09] Generated 3 proposals
+[2026-02-12 10:35:09] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:35:09] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:35:09] Executed: Verified 5/5
+[2026-02-12 10:35:09] Tick 309 complete
+[2026-02-12 10:35:14] ?? User input: Solve this: 15 * 3 = ?
+[2026-02-12 10:35:14] 
+============================================================
+[2026-02-12 10:35:14] TICK 310
+[2026-02-12 10:35:14] ============================================================
+[2026-02-12 10:35:14] Attention spotlight: ['user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:35:14] Coherence C_total: 0.914
+[2026-02-12 10:35:14] Mode: SLEEP
+[2026-02-12 10:35:14] Energy: 0.90, Coherence: 0.78
+[2026-02-12 10:35:14] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:35:14] Generated 5 proposals
+[2026-02-12 10:35:14] Arbitration: 5 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:35:14] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:35:14] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:35:14] State saved
+[2026-02-12 10:35:14] Tick 310 complete
+[2026-02-12 10:35:19] 
+============================================================
+[2026-02-12 10:35:19] TICK 311
+[2026-02-12 10:35:19] ============================================================
+[2026-02-12 10:35:19] Attention spotlight: ['user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:35:19] Coherence C_total: 0.914
+[2026-02-12 10:35:19] Mode: SLEEP
+[2026-02-12 10:35:19] Energy: 0.89, Coherence: 0.78
+[2026-02-12 10:35:19] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:35:19] Generated 4 proposals
+[2026-02-12 10:35:19] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:35:19] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:35:19] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:35:19] Tick 311 complete
+[2026-02-12 10:35:24] 
+============================================================
+[2026-02-12 10:35:24] TICK 312
+[2026-02-12 10:35:24] ============================================================
+[2026-02-12 10:35:24] Attention spotlight: ['user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:35:24] Coherence C_total: 0.914
+[2026-02-12 10:35:24] Mode: SLEEP
+[2026-02-12 10:35:24] Energy: 0.88, Coherence: 0.78
+[2026-02-12 10:35:25] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:35:25] Generated 4 proposals
+[2026-02-12 10:35:25] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:35:25] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:35:25] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:35:25] Tick 312 complete
+[2026-02-12 10:35:30] 
+============================================================
+[2026-02-12 10:35:30] TICK 313
+[2026-02-12 10:35:30] ============================================================
+[2026-02-12 10:35:30] Attention spotlight: ['user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:35:30] Coherence C_total: 0.914
+[2026-02-12 10:35:30] Mode: SLEEP
+[2026-02-12 10:35:30] Energy: 0.87, Coherence: 0.78
+[2026-02-12 10:35:30] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:35:30] Generated 4 proposals
+[2026-02-12 10:35:30] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:35:30] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:35:30] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:35:30] Tick 313 complete
+[2026-02-12 10:35:35] 
+============================================================
+[2026-02-12 10:35:35] TICK 314
+[2026-02-12 10:35:35] ============================================================
+[2026-02-12 10:35:35] Attention spotlight: ['user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:35:35] Coherence C_total: 0.914
+[2026-02-12 10:35:35] Mode: SLEEP
+[2026-02-12 10:35:35] Energy: 0.86, Coherence: 0.78
+[2026-02-12 10:35:35] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:35:35] Generated 4 proposals
+[2026-02-12 10:35:35] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:35:35] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:35:35] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:35:35] Tick 314 complete
+[2026-02-12 10:35:40] 
+============================================================
+[2026-02-12 10:35:40] TICK 315
+[2026-02-12 10:35:40] ============================================================
+[2026-02-12 10:35:40] Attention spotlight: ['user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:35:40] Coherence C_total: 0.914
+[2026-02-12 10:35:40] Mode: SLEEP
+[2026-02-12 10:35:40] Energy: 0.85, Coherence: 0.78
+[2026-02-12 10:35:40] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:35:40] Generated 4 proposals
+[2026-02-12 10:35:40] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:35:40] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:35:40] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:35:40] State saved
+[2026-02-12 10:35:40] Tick 315 complete
+[2026-02-12 10:35:45] 
+============================================================
+[2026-02-12 10:35:45] TICK 316
+[2026-02-12 10:35:45] ============================================================
+[2026-02-12 10:35:45] Attention spotlight: ['user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:35:45] Coherence C_total: 0.915
+[2026-02-12 10:35:45] Mode: SLEEP
+[2026-02-12 10:35:45] Energy: 0.84, Coherence: 0.78
+[2026-02-12 10:35:45] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:35:45] Generated 4 proposals
+[2026-02-12 10:35:45] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:35:45] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:35:45] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:35:45] Tick 316 complete
+[2026-02-12 10:35:50] 
+============================================================
+[2026-02-12 10:35:50] TICK 317
+[2026-02-12 10:35:50] ============================================================
+[2026-02-12 10:35:50] Attention spotlight: ['user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:35:50] Coherence C_total: 0.915
+[2026-02-12 10:35:50] Mode: SLEEP
+[2026-02-12 10:35:50] Energy: 0.83, Coherence: 0.78
+[2026-02-12 10:35:50] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:35:50] Generated 4 proposals
+[2026-02-12 10:35:50] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:35:50] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:35:50] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:35:50] Tick 317 complete
+[2026-02-12 10:35:55] 
+============================================================
+[2026-02-12 10:35:55] TICK 318
+[2026-02-12 10:35:55] ============================================================
+[2026-02-12 10:35:55] Attention spotlight: ['user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:35:55] Coherence C_total: 0.914
+[2026-02-12 10:35:55] Mode: SLEEP
+[2026-02-12 10:35:55] Energy: 0.82, Coherence: 0.78
+[2026-02-12 10:35:55] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:35:55] Generated 4 proposals
+[2026-02-12 10:35:55] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:35:55] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:35:55] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:35:55] Tick 318 complete
+[2026-02-12 10:36:00] ?? User input: Explain coherence in simple terms.
+[2026-02-12 10:36:00] 
+============================================================
+[2026-02-12 10:36:00] TICK 319
+[2026-02-12 10:36:00] ============================================================
+[2026-02-12 10:36:00] Attention spotlight: ['user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:36:00] Coherence C_total: 0.914
+[2026-02-12 10:36:00] Mode: SLEEP
+[2026-02-12 10:36:00] Energy: 0.81, Coherence: 0.78
+[2026-02-12 10:36:00] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:36:00] Generated 3 proposals
+[2026-02-12 10:36:00] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:36:00] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:36:00] Executed: Verified 5/5
+[2026-02-12 10:36:00] Tick 319 complete
+[2026-02-12 10:36:05] ?? User input: What is 10 * 5 - 3?
+[2026-02-12 10:36:05] 
+============================================================
+[2026-02-12 10:36:05] TICK 320
+[2026-02-12 10:36:05] ============================================================
+[2026-02-12 10:36:05] Attention spotlight: ['user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:36:05] Coherence C_total: 0.914
+[2026-02-12 10:36:05] Mode: SLEEP
+[2026-02-12 10:36:05] Energy: 0.80, Coherence: 0.78
+[2026-02-12 10:36:05] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:36:05] Generated 6 proposals
+[2026-02-12 10:36:05] Arbitration: 6 proposals, winner: SLEEP (score: 1.15)
+[2026-02-12 10:36:05] Entering SLEEP mode...
+[2026-02-12 10:36:05] ??  Reward: +0.030, PredError: 0.770, Valence: -0.355
+[2026-02-12 10:36:05] Executed: Sleep cycle 16 completed
+[2026-02-12 10:36:05] State saved
+[2026-02-12 10:36:05] Tick 320 complete
+[2026-02-12 10:36:10] 
+============================================================
+[2026-02-12 10:36:10] TICK 321
+[2026-02-12 10:36:10] ============================================================
+[2026-02-12 10:36:10] Attention spotlight: ['user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:36:10] Coherence C_total: 0.917
+[2026-02-12 10:36:10] Mode: SLEEP
+[2026-02-12 10:36:10] Energy: 0.99, Coherence: 0.78
+[2026-02-12 10:36:10] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:36:10] Generated 4 proposals
+[2026-02-12 10:36:10] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:36:10] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:36:10] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:36:10] Tick 321 complete
+[2026-02-12 10:36:15] 
+============================================================
+[2026-02-12 10:36:15] TICK 322
+[2026-02-12 10:36:15] ============================================================
+[2026-02-12 10:36:15] Attention spotlight: ['user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:36:15] Coherence C_total: 0.917
+[2026-02-12 10:36:15] Mode: SLEEP
+[2026-02-12 10:36:15] Energy: 0.98, Coherence: 0.78
+[2026-02-12 10:36:15] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:36:15] Generated 4 proposals
+[2026-02-12 10:36:15] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:36:15] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:36:15] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:36:15] Tick 322 complete
+[2026-02-12 10:36:20] 
+============================================================
+[2026-02-12 10:36:20] TICK 323
+[2026-02-12 10:36:20] ============================================================
+[2026-02-12 10:36:20] Attention spotlight: ['user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:36:20] Coherence C_total: 0.917
+[2026-02-12 10:36:20] Mode: SLEEP
+[2026-02-12 10:36:20] Energy: 0.97, Coherence: 0.78
+[2026-02-12 10:36:20] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:36:20] Generated 4 proposals
+[2026-02-12 10:36:20] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:36:20] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:36:20] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:36:20] Tick 323 complete
+[2026-02-12 10:36:25] ?? User input: What's your current state?
+[2026-02-12 10:36:25] 
+============================================================
+[2026-02-12 10:36:25] TICK 324
+[2026-02-12 10:36:25] ============================================================
+[2026-02-12 10:36:25] Attention spotlight: ['user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:36:25] Coherence C_total: 0.917
+[2026-02-12 10:36:25] Mode: SLEEP
+[2026-02-12 10:36:25] Energy: 0.96, Coherence: 0.78
+[2026-02-12 10:36:25] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:36:25] Generated 3 proposals
+[2026-02-12 10:36:25] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:36:25] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:36:25] Executed: Verified 5/5
+[2026-02-12 10:36:25] Tick 324 complete
+[2026-02-12 10:36:30] 
+============================================================
+[2026-02-12 10:36:30] TICK 325
+[2026-02-12 10:36:30] ============================================================
+[2026-02-12 10:36:30] Attention spotlight: ['user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:36:30] Coherence C_total: 0.917
+[2026-02-12 10:36:30] Mode: SLEEP
+[2026-02-12 10:36:30] Energy: 0.95, Coherence: 0.78
+[2026-02-12 10:36:30] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:36:30] Generated 3 proposals
+[2026-02-12 10:36:30] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:36:30] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:36:30] Executed: Verified 5/5
+[2026-02-12 10:36:30] State saved
+[2026-02-12 10:36:30] Tick 325 complete
+[2026-02-12 10:36:35] 
+============================================================
+[2026-02-12 10:36:35] TICK 326
+[2026-02-12 10:36:35] ============================================================
+[2026-02-12 10:36:35] Attention spotlight: ['user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:36:35] Coherence C_total: 0.917
+[2026-02-12 10:36:35] Mode: SLEEP
+[2026-02-12 10:36:35] Energy: 0.94, Coherence: 0.78
+[2026-02-12 10:36:35] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:36:35] Generated 3 proposals
+[2026-02-12 10:36:35] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:36:35] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:36:35] Executed: Verified 5/5
+[2026-02-12 10:36:35] Tick 326 complete
+[2026-02-12 10:36:40] 
+============================================================
+[2026-02-12 10:36:40] TICK 327
+[2026-02-12 10:36:40] ============================================================
+[2026-02-12 10:36:40] Attention spotlight: ['user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:36:40] Coherence C_total: 0.917
+[2026-02-12 10:36:40] Mode: SLEEP
+[2026-02-12 10:36:40] Energy: 0.93, Coherence: 0.79
+[2026-02-12 10:36:40] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:36:40] Generated 3 proposals
+[2026-02-12 10:36:40] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:36:40] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:36:40] Executed: Verified 5/5
+[2026-02-12 10:36:40] Tick 327 complete
+[2026-02-12 10:36:45] 
+============================================================
+[2026-02-12 10:36:45] TICK 328
+[2026-02-12 10:36:45] ============================================================
+[2026-02-12 10:36:45] Attention spotlight: ['user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:36:45] Coherence C_total: 0.917
+[2026-02-12 10:36:45] Mode: SLEEP
+[2026-02-12 10:36:45] Energy: 0.92, Coherence: 0.79
+[2026-02-12 10:36:45] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:36:45] Generated 3 proposals
+[2026-02-12 10:36:45] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:36:45] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:36:45] Executed: Verified 5/5
+[2026-02-12 10:36:45] Tick 328 complete
+[2026-02-12 10:36:50] 
+============================================================
+[2026-02-12 10:36:50] TICK 329
+[2026-02-12 10:36:50] ============================================================
+[2026-02-12 10:36:50] Attention spotlight: ['user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:36:50] Coherence C_total: 0.917
+[2026-02-12 10:36:50] Mode: SLEEP
+[2026-02-12 10:36:50] Energy: 0.91, Coherence: 0.79
+[2026-02-12 10:36:50] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:36:50] Generated 3 proposals
+[2026-02-12 10:36:50] Arbitration: 3 proposals, winner: CRITIC (score: 0.50)
+[2026-02-12 10:36:50] ??  Reward: +0.050, PredError: 0.750, Valence: -0.325
+[2026-02-12 10:36:50] Executed: Verified 5/5
+[2026-02-12 10:36:50] Tick 329 complete
+[2026-02-12 10:36:55] ?? User input: What is 2 + 2?
+[2026-02-12 10:36:55] 
+============================================================
+[2026-02-12 10:36:55] TICK 330
+[2026-02-12 10:36:55] ============================================================
+[2026-02-12 10:36:55] Attention spotlight: ['user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:36:55] Coherence C_total: 0.917
+[2026-02-12 10:36:55] Mode: SLEEP
+[2026-02-12 10:36:55] Energy: 0.90, Coherence: 0.79
+[2026-02-12 10:36:55] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:36:55] Generated 5 proposals
+[2026-02-12 10:36:55] Arbitration: 5 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:36:55] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:36:55] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:36:55] State saved
+[2026-02-12 10:36:55] Tick 330 complete
+[2026-02-12 10:37:00] 
+============================================================
+[2026-02-12 10:37:00] TICK 331
+[2026-02-12 10:37:00] ============================================================
+[2026-02-12 10:37:00] Attention spotlight: ['user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:37:00] Coherence C_total: 0.917
+[2026-02-12 10:37:00] Mode: SLEEP
+[2026-02-12 10:37:00] Energy: 0.89, Coherence: 0.79
+[2026-02-12 10:37:00] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:37:00] Generated 4 proposals
+[2026-02-12 10:37:00] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:37:00] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:37:00] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:37:00] Tick 331 complete
+[2026-02-12 10:37:05] 
+============================================================
+[2026-02-12 10:37:05] TICK 332
+[2026-02-12 10:37:05] ============================================================
+[2026-02-12 10:37:05] Attention spotlight: ['user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:37:05] Coherence C_total: 0.917
+[2026-02-12 10:37:05] Mode: SLEEP
+[2026-02-12 10:37:05] Energy: 0.88, Coherence: 0.79
+[2026-02-12 10:37:05] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:37:05] Generated 4 proposals
+[2026-02-12 10:37:05] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:37:05] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:37:05] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:37:05] Tick 332 complete
+[2026-02-12 10:37:10] 
+============================================================
+[2026-02-12 10:37:10] TICK 333
+[2026-02-12 10:37:10] ============================================================
+[2026-02-12 10:37:10] Attention spotlight: ['user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:37:10] Coherence C_total: 0.917
+[2026-02-12 10:37:10] Mode: SLEEP
+[2026-02-12 10:37:10] Energy: 0.87, Coherence: 0.79
+[2026-02-12 10:37:10] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:37:10] Generated 4 proposals
+[2026-02-12 10:37:10] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:37:10] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:37:10] Executed: ERROR: invalid syntax (<string>, line 0)
+[2026-02-12 10:37:10] Tick 333 complete
+[2026-02-12 10:37:15] ?? User input: Calculate 25 + 17
+[2026-02-12 10:37:15] 
+============================================================
+[2026-02-12 10:37:15] TICK 334
+[2026-02-12 10:37:15] ============================================================
+[2026-02-12 10:37:15] Attention spotlight: ['user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:37:15] Coherence C_total: 0.917
+[2026-02-12 10:37:15] Mode: SLEEP
+[2026-02-12 10:37:15] Energy: 0.86, Coherence: 0.79
+[2026-02-12 10:37:15] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:37:15] Generated 4 proposals
+[2026-02-12 10:37:15] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:37:15] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:37:15] Executed: Result: 42
+[2026-02-12 10:37:15] Tick 334 complete
+[2026-02-12 10:37:20] 
+============================================================
+[2026-02-12 10:37:20] TICK 335
+[2026-02-12 10:37:20] ============================================================
+[2026-02-12 10:37:20] Attention spotlight: ['user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:37:20] Coherence C_total: 0.917
+[2026-02-12 10:37:20] Mode: SLEEP
+[2026-02-12 10:37:20] Energy: 0.85, Coherence: 0.79
+[2026-02-12 10:37:20] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:37:20] Generated 4 proposals
+[2026-02-12 10:37:21] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:37:21] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:37:21] Executed: Result: 42
+[2026-02-12 10:37:21] State saved
+[2026-02-12 10:37:21] Tick 335 complete
+[2026-02-12 10:37:26] 
+============================================================
+[2026-02-12 10:37:26] TICK 336
+[2026-02-12 10:37:26] ============================================================
+[2026-02-12 10:37:26] Attention spotlight: ['user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:37:26] Coherence C_total: 0.917
+[2026-02-12 10:37:26] Mode: SLEEP
+[2026-02-12 10:37:26] Energy: 0.84, Coherence: 0.79
+[2026-02-12 10:37:26] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:37:26] Generated 4 proposals
+[2026-02-12 10:37:26] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:37:26] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:37:26] Executed: Result: 42
+[2026-02-12 10:37:26] Tick 336 complete
+[2026-02-12 10:37:31] 
+============================================================
+[2026-02-12 10:37:31] TICK 337
+[2026-02-12 10:37:31] ============================================================
+[2026-02-12 10:37:31] Attention spotlight: ['user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:37:31] Coherence C_total: 0.917
+[2026-02-12 10:37:31] Mode: SLEEP
+[2026-02-12 10:37:31] Energy: 0.83, Coherence: 0.79
+[2026-02-12 10:37:31] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:37:31] Generated 4 proposals
+[2026-02-12 10:37:31] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:37:31] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:37:31] Executed: Result: 42
+[2026-02-12 10:37:31] Tick 337 complete
+[2026-02-12 10:37:36] 
+============================================================
+[2026-02-12 10:37:36] TICK 338
+[2026-02-12 10:37:36] ============================================================
+[2026-02-12 10:37:36] Attention spotlight: ['user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:37:36] Coherence C_total: 0.917
+[2026-02-12 10:37:36] Mode: SLEEP
+[2026-02-12 10:37:36] Energy: 0.82, Coherence: 0.78
+[2026-02-12 10:37:36] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:37:36] Generated 4 proposals
+[2026-02-12 10:37:36] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:37:36] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:37:36] Executed: Result: 42
+[2026-02-12 10:37:36] Tick 338 complete
+[2026-02-12 10:37:41] 
+============================================================
+[2026-02-12 10:37:41] TICK 339
+[2026-02-12 10:37:41] ============================================================
+[2026-02-12 10:37:41] Attention spotlight: ['user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:37:41] Coherence C_total: 0.917
+[2026-02-12 10:37:41] Mode: SLEEP
+[2026-02-12 10:37:41] Energy: 0.81, Coherence: 0.78
+[2026-02-12 10:37:41] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:37:41] Generated 4 proposals
+[2026-02-12 10:37:41] Arbitration: 4 proposals, winner: TOOLER (score: 0.68)
+[2026-02-12 10:37:41] ??  Reward: +0.060, PredError: 0.840, Valence: -0.360
+[2026-02-12 10:37:41] Executed: Result: 42
+[2026-02-12 10:37:41] Tick 339 complete
+[2026-02-12 10:37:46] ?? User input: What is 2 + 2?
+[2026-02-12 10:37:46] 
+============================================================
+[2026-02-12 10:37:46] TICK 340
+[2026-02-12 10:37:46] ============================================================
+[2026-02-12 10:37:46] Attention spotlight: ['user_query_340', 'user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-12 10:37:46] Coherence C_total: 0.917
+[2026-02-12 10:37:46] Mode: SLEEP
+[2026-02-12 10:37:46] Energy: 0.80, Coherence: 0.78
+[2026-02-12 10:37:46] Emotion: neutral, Mood: 0.50
+[2026-02-12 10:37:46] Generated 6 proposals
+[2026-02-12 10:37:46] Arbitration: 6 proposals, winner: SLEEP (score: 1.15)
+[2026-02-12 10:37:46] Entering SLEEP mode...
+[2026-02-12 10:37:46] ??  Reward: +0.030, PredError: 0.770, Valence: -0.355
+[2026-02-12 10:37:46] Executed: Sleep cycle 17 completed
+[2026-02-12 10:37:46] State saved
+[2026-02-12 10:37:46] Tick 340 complete
+[2026-02-12 10:37:51] === Session Complete ===
+
