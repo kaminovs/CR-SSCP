@@ -34,7 +34,10 @@ MIT
 
 If you use or reference this work, please cite:
 
-```bibtex
-@techreport{Kaminov2026_CRSSCPv30,
-  ...
+@software{kaminovs2026crsscp,
+  author       = {Sergejs Kaminovs},
+  title        = {CR-SSCP: Coherence-Regulated Self-Sustaining Cognitive Process},
+  year         = 2026,
+  url          = {https://github.com/kaminovs/CR-SSCP},
+  note         = {Research prototype for persistent coherence-regulated AI systems}
 }
