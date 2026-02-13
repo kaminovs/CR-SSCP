@@ -1,0 +1,332 @@
+============================================================
+CR-SSCP v3.5 - Consciousness-like Cognitive Architecture (Orchestrated Run)
+============================================================
+
+Initial Coherence: 0.935
+Initial Energy: 0.81
+Initial Emotion: frustrated
+Mode: REFLECT
+
+Identity anchors:
+  - I am an experimental cognitive architecture
+  - I aim to maintain coherence and avoid hallucinations
+  - I learn from evidence and admit uncertainty
+
+Running 100 ticks (~5 minutes)...
+
+[2026-02-13 12:02:19] Starting core loop for 100 ticks...
+[2026-02-13 12:02:19] 
+============================================================
+TICK 643
+============================================================
+[2026-02-13 12:02:19] Attention spotlight: ['user_query_640', 'user_query_634', 'user_query_630', 'user_query_627', 'user_query_620', 'user_query_610', 'user_query_602', 'user_query_600', 'user_query_594', 'user_query_590', 'user_query_582', 'user_query_580', 'user_query_572', 'user_query_570', 'user_query_568', 'user_query_560', 'user_query_557', 'user_query_555', 'user_query_550', 'user_query_540', 'user_query_530', 'user_query_525', 'user_query_520', 'user_query_517', 'user_query_510', 'user_query_500', 'user_query_494', 'user_query_491', 'user_query_490', 'user_query_480', 'user_query_474', 'user_query_470', 'user_query_465', 'user_query_460', 'user_query_450', 'user_query_440', 'user_query_430', 'user_query_429', 'user_query_428', 'user_query_425', 'user_query_424', 'user_query_420', 'user_query_417', 'user_query_413', 'user_query_410', 'user_query_402', 'user_query_400', 'user_query_390', 'user_query_383', 'user_query_380', 'user_query_379', 'user_query_371', 'user_query_370', 'user_query_369', 'user_query_362', 'user_query_360', 'user_query_358', 'user_query_354', 'user_query_351', 'user_query_350', 'user_query_348', 'user_query_340', 'user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-13 12:02:19] Coherence C_total: 0.934
+[2026-02-13 12:02:19] Mode: SLEEP
+[2026-02-13 12:02:19] Energy: 0.79, Coherence: 0.89, Novelty: 0.94
+[2026-02-13 12:02:19] Emotion: curious, Mood: 0.60
+[2026-02-13 12:02:19] Generated 6 proposals
+[2026-02-13 12:02:19] Arbitration: 6 proposals, winner: TOOLER (score: 0.68)
+[2026-02-13 12:02:19] Tool attempt: self_reflect(raw='', sanitized='')
+[2026-02-13 12:02:19] Tool result: self_reflect -> Self-reflection: Systems operational, coherence maintained
+[2026-02-13 12:02:19] ??  Reward: +0.160, PredError: 0.720, Valence: -0.200, MatchScore: 0.30
+[2026-02-13 12:02:19] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-13 12:02:19] Tick 643 complete
+[2026-02-13 12:02:22] 
+============================================================
+TICK 644
+============================================================
+[2026-02-13 12:02:22] Attention spotlight: ['user_query_640', 'user_query_634', 'user_query_630', 'user_query_627', 'user_query_620', 'user_query_610', 'user_query_602', 'user_query_600', 'user_query_594', 'user_query_590', 'user_query_582', 'user_query_580', 'user_query_572', 'user_query_570', 'user_query_568', 'user_query_560', 'user_query_557', 'user_query_555', 'user_query_550', 'user_query_540', 'user_query_530', 'user_query_525', 'user_query_520', 'user_query_517', 'user_query_510', 'user_query_500', 'user_query_494', 'user_query_491', 'user_query_490', 'user_query_480', 'user_query_474', 'user_query_470', 'user_query_465', 'user_query_460', 'user_query_450', 'user_query_440', 'user_query_430', 'user_query_429', 'user_query_428', 'user_query_425', 'user_query_424', 'user_query_420', 'user_query_417', 'user_query_413', 'user_query_410', 'user_query_402', 'user_query_400', 'user_query_390', 'user_query_383', 'user_query_380', 'user_query_379', 'user_query_371', 'user_query_370', 'user_query_369', 'user_query_362', 'user_query_360', 'user_query_358', 'user_query_354', 'user_query_351', 'user_query_350', 'user_query_348', 'user_query_340', 'user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-13 12:02:22] Coherence C_total: 0.933
+[2026-02-13 12:02:22] Mode: SLEEP
+[2026-02-13 12:02:22] Energy: 0.79, Coherence: 0.88, Novelty: 0.92
+[2026-02-13 12:02:22] Emotion: curious, Mood: 0.60
+[2026-02-13 12:02:22] Generated 6 proposals
+[2026-02-13 12:02:22] Arbitration: 6 proposals, winner: TOOLER (score: 0.68)
+[2026-02-13 12:02:22] Tool attempt: self_reflect(raw='', sanitized='')
+[2026-02-13 12:02:22] Tool result: self_reflect -> Self-reflection: Systems operational, coherence maintained
+[2026-02-13 12:02:22] ??  Reward: +0.160, PredError: 0.720, Valence: -0.200, MatchScore: 0.30
+[2026-02-13 12:02:22] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-13 12:02:22] Tick 644 complete
+[2026-02-13 12:02:25] 
+============================================================
+TICK 645
+============================================================
+[2026-02-13 12:02:25] Attention spotlight: ['user_query_640', 'user_query_634', 'user_query_630', 'user_query_627', 'user_query_620', 'user_query_610', 'user_query_602', 'user_query_600', 'user_query_594', 'user_query_590', 'user_query_582', 'user_query_580', 'user_query_572', 'user_query_570', 'user_query_568', 'user_query_560', 'user_query_557', 'user_query_555', 'user_query_550', 'user_query_540', 'user_query_530', 'user_query_525', 'user_query_520', 'user_query_517', 'user_query_510', 'user_query_500', 'user_query_494', 'user_query_491', 'user_query_490', 'user_query_480', 'user_query_474', 'user_query_470', 'user_query_465', 'user_query_460', 'user_query_450', 'user_query_440', 'user_query_430', 'user_query_429', 'user_query_428', 'user_query_425', 'user_query_424', 'user_query_420', 'user_query_417', 'user_query_413', 'user_query_410', 'user_query_402', 'user_query_400', 'user_query_390', 'user_query_383', 'user_query_380', 'user_query_379', 'user_query_371', 'user_query_370', 'user_query_369', 'user_query_362', 'user_query_360', 'user_query_358', 'user_query_354', 'user_query_351', 'user_query_350', 'user_query_348', 'user_query_340', 'user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-13 12:02:25] Coherence C_total: 0.933
+[2026-02-13 12:02:25] Mode: SLEEP
+[2026-02-13 12:02:25] Energy: 0.79, Coherence: 0.88, Novelty: 0.90
+[2026-02-13 12:02:25] Emotion: curious, Mood: 0.60
+[2026-02-13 12:02:25] Generated 6 proposals
+[2026-02-13 12:02:25] Arbitration: 6 proposals, winner: TOOLER (score: 0.68)
+[2026-02-13 12:02:25] Tool attempt: self_reflect(raw='', sanitized='')
+[2026-02-13 12:02:25] Tool result: self_reflect -> Self-reflection: Systems operational, coherence maintained
+[2026-02-13 12:02:25] ??  Reward: +0.160, PredError: 0.720, Valence: -0.200, MatchScore: 0.30
+[2026-02-13 12:02:25] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-13 12:02:25] Memory Hygiene: Deleted ungrounded fact tool_result_634 due to TTL.
+[2026-02-13 12:02:25] State saved
+[2026-02-13 12:02:25] Tick 645 complete
+[2026-02-13 12:02:28] 
+============================================================
+TICK 646
+============================================================
+[2026-02-13 12:02:28] Attention spotlight: ['user_query_640', 'user_query_634', 'user_query_630', 'user_query_627', 'user_query_620', 'user_query_610', 'user_query_602', 'user_query_600', 'user_query_594', 'user_query_590', 'user_query_582', 'user_query_580', 'user_query_572', 'user_query_570', 'user_query_568', 'user_query_560', 'user_query_557', 'user_query_555', 'user_query_550', 'user_query_540', 'user_query_530', 'user_query_525', 'user_query_520', 'user_query_517', 'user_query_510', 'user_query_500', 'user_query_494', 'user_query_491', 'user_query_490', 'user_query_480', 'user_query_474', 'user_query_470', 'user_query_465', 'user_query_460', 'user_query_450', 'user_query_440', 'user_query_430', 'user_query_429', 'user_query_428', 'user_query_425', 'user_query_424', 'user_query_420', 'user_query_417', 'user_query_413', 'user_query_410', 'user_query_402', 'user_query_400', 'user_query_390', 'user_query_383', 'user_query_380', 'user_query_379', 'user_query_371', 'user_query_370', 'user_query_369', 'user_query_362', 'user_query_360', 'user_query_358', 'user_query_354', 'user_query_351', 'user_query_350', 'user_query_348', 'user_query_340', 'user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-13 12:02:28] Coherence C_total: 0.933
+[2026-02-13 12:02:28] Mode: SLEEP
+[2026-02-13 12:02:28] Energy: 0.79, Coherence: 0.87, Novelty: 0.89
+[2026-02-13 12:02:28] Emotion: curious, Mood: 0.60
+[2026-02-13 12:02:28] Generated 6 proposals
+[2026-02-13 12:02:28] Arbitration: 6 proposals, winner: TOOLER (score: 0.68)
+[2026-02-13 12:02:28] Tool attempt: self_reflect(raw='', sanitized='')
+[2026-02-13 12:02:28] Tool result: self_reflect -> Self-reflection: Systems operational, coherence maintained
+[2026-02-13 12:02:28] ??  Reward: +0.160, PredError: 0.720, Valence: -0.200, MatchScore: 0.30
+[2026-02-13 12:02:28] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-13 12:02:28] Memory Hygiene: Deleted ungrounded fact tool_result_635 due to TTL.
+[2026-02-13 12:02:28] Tick 646 complete
+[2026-02-13 12:02:31] 
+============================================================
+TICK 647
+============================================================
+[2026-02-13 12:02:31] Attention spotlight: ['user_query_640', 'user_query_634', 'user_query_630', 'user_query_627', 'user_query_620', 'user_query_610', 'user_query_602', 'user_query_600', 'user_query_594', 'user_query_590', 'user_query_582', 'user_query_580', 'user_query_572', 'user_query_570', 'user_query_568', 'user_query_560', 'user_query_557', 'user_query_555', 'user_query_550', 'user_query_540', 'user_query_530', 'user_query_525', 'user_query_520', 'user_query_517', 'user_query_510', 'user_query_500', 'user_query_494', 'user_query_491', 'user_query_490', 'user_query_480', 'user_query_474', 'user_query_470', 'user_query_465', 'user_query_460', 'user_query_450', 'user_query_440', 'user_query_430', 'user_query_429', 'user_query_428', 'user_query_425', 'user_query_424', 'user_query_420', 'user_query_417', 'user_query_413', 'user_query_410', 'user_query_402', 'user_query_400', 'user_query_390', 'user_query_383', 'user_query_380', 'user_query_379', 'user_query_371', 'user_query_370', 'user_query_369', 'user_query_362', 'user_query_360', 'user_query_358', 'user_query_354', 'user_query_351', 'user_query_350', 'user_query_348', 'user_query_340', 'user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-13 12:02:31] Coherence C_total: 0.933
+[2026-02-13 12:02:31] Mode: SLEEP
+[2026-02-13 12:02:31] Energy: 0.79, Coherence: 0.87, Novelty: 0.87
+[2026-02-13 12:02:31] Emotion: curious, Mood: 0.60
+[2026-02-13 12:02:31] Generated 6 proposals
+[2026-02-13 12:02:31] Arbitration: 6 proposals, winner: TOOLER (score: 0.68)
+[2026-02-13 12:02:31] Tool attempt: self_reflect(raw='', sanitized='')
+[2026-02-13 12:02:31] Tool result: self_reflect -> Self-reflection: Systems operational, coherence maintained
+[2026-02-13 12:02:31] ??  Reward: +0.160, PredError: 0.720, Valence: -0.200, MatchScore: 0.30
+[2026-02-13 12:02:31] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-13 12:02:31] Memory Hygiene: Deleted ungrounded fact tool_result_636 due to TTL.
+[2026-02-13 12:02:31] Tick 647 complete
+[2026-02-13 12:02:34] 
+============================================================
+TICK 648
+============================================================
+[2026-02-13 12:02:34] Attention spotlight: ['user_query_640', 'user_query_634', 'user_query_630', 'user_query_627', 'user_query_620', 'user_query_610', 'user_query_602', 'user_query_600', 'user_query_594', 'user_query_590', 'user_query_582', 'user_query_580', 'user_query_572', 'user_query_570', 'user_query_568', 'user_query_560', 'user_query_557', 'user_query_555', 'user_query_550', 'user_query_540', 'user_query_530', 'user_query_525', 'user_query_520', 'user_query_517', 'user_query_510', 'user_query_500', 'user_query_494', 'user_query_491', 'user_query_490', 'user_query_480', 'user_query_474', 'user_query_470', 'user_query_465', 'user_query_460', 'user_query_450', 'user_query_440', 'user_query_430', 'user_query_429', 'user_query_428', 'user_query_425', 'user_query_424', 'user_query_420', 'user_query_417', 'user_query_413', 'user_query_410', 'user_query_402', 'user_query_400', 'user_query_390', 'user_query_383', 'user_query_380', 'user_query_379', 'user_query_371', 'user_query_370', 'user_query_369', 'user_query_362', 'user_query_360', 'user_query_358', 'user_query_354', 'user_query_351', 'user_query_350', 'user_query_348', 'user_query_340', 'user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-13 12:02:34] Coherence C_total: 0.932
+[2026-02-13 12:02:34] Mode: SLEEP
+[2026-02-13 12:02:34] Energy: 0.79, Coherence: 0.87, Novelty: 0.85
+[2026-02-13 12:02:34] Emotion: curious, Mood: 0.60
+[2026-02-13 12:02:34] Generated 6 proposals
+[2026-02-13 12:02:34] Arbitration: 6 proposals, winner: TOOLER (score: 0.68)
+[2026-02-13 12:02:34] Tool attempt: self_reflect(raw='', sanitized='')
+[2026-02-13 12:02:34] Tool result: self_reflect -> Self-reflection: Systems operational, coherence maintained
+[2026-02-13 12:02:34] ??  Reward: +0.160, PredError: 0.720, Valence: -0.200, MatchScore: 0.30
+[2026-02-13 12:02:34] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-13 12:02:34] Memory Hygiene: Deleted ungrounded fact tool_result_637 due to TTL.
+[2026-02-13 12:02:34] Tick 648 complete
+[2026-02-13 12:02:37] 
+============================================================
+TICK 649
+============================================================
+[2026-02-13 12:02:37] Attention spotlight: ['user_query_640', 'user_query_634', 'user_query_630', 'user_query_627', 'user_query_620', 'user_query_610', 'user_query_602', 'user_query_600', 'user_query_594', 'user_query_590', 'user_query_582', 'user_query_580', 'user_query_572', 'user_query_570', 'user_query_568', 'user_query_560', 'user_query_557', 'user_query_555', 'user_query_550', 'user_query_540', 'user_query_530', 'user_query_525', 'user_query_520', 'user_query_517', 'user_query_510', 'user_query_500', 'user_query_494', 'user_query_491', 'user_query_490', 'user_query_480', 'user_query_474', 'user_query_470', 'user_query_465', 'user_query_460', 'user_query_450', 'user_query_440', 'user_query_430', 'user_query_429', 'user_query_428', 'user_query_425', 'user_query_424', 'user_query_420', 'user_query_417', 'user_query_413', 'user_query_410', 'user_query_402', 'user_query_400', 'user_query_390', 'user_query_383', 'user_query_380', 'user_query_379', 'user_query_371', 'user_query_370', 'user_query_369', 'user_query_362', 'user_query_360', 'user_query_358', 'user_query_354', 'user_query_351', 'user_query_350', 'user_query_348', 'user_query_340', 'user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-13 12:02:37] Coherence C_total: 0.932
+[2026-02-13 12:02:37] Mode: SLEEP
+[2026-02-13 12:02:37] Energy: 0.80, Coherence: 0.87, Novelty: 0.83
+[2026-02-13 12:02:37] Emotion: curious, Mood: 0.60
+[2026-02-13 12:02:37] Generated 6 proposals
+[2026-02-13 12:02:37] Arbitration: 6 proposals, winner: TOOLER (score: 0.68)
+[2026-02-13 12:02:37] Tool attempt: self_reflect(raw='', sanitized='')
+[2026-02-13 12:02:37] Tool result: self_reflect -> Self-reflection: Systems operational, coherence maintained
+[2026-02-13 12:02:37] ??  Reward: +0.160, PredError: 0.720, Valence: -0.200, MatchScore: 0.30
+[2026-02-13 12:02:37] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-13 12:02:37] Memory Hygiene: Deleted ungrounded fact tool_result_638 due to TTL.
+[2026-02-13 12:02:37] Tick 649 complete
+[2026-02-13 12:02:40] 
+============================================================
+TICK 650
+============================================================
+[2026-02-13 12:02:40] ?? User input: How are you feeling today?
+[2026-02-13 12:02:40] Attention spotlight: ['user_query_650', 'user_query_640', 'user_query_634', 'user_query_630', 'user_query_627', 'user_query_620', 'user_query_610', 'user_query_602', 'user_query_600', 'user_query_594', 'user_query_590', 'user_query_582', 'user_query_580', 'user_query_572', 'user_query_570', 'user_query_568', 'user_query_560', 'user_query_557', 'user_query_555', 'user_query_550', 'user_query_540', 'user_query_530', 'user_query_525', 'user_query_520', 'user_query_517', 'user_query_510', 'user_query_500', 'user_query_494', 'user_query_491', 'user_query_490', 'user_query_480', 'user_query_474', 'user_query_470', 'user_query_465', 'user_query_460', 'user_query_450', 'user_query_440', 'user_query_430', 'user_query_429', 'user_query_428', 'user_query_425', 'user_query_424', 'user_query_420', 'user_query_417', 'user_query_413', 'user_query_410', 'user_query_402', 'user_query_400', 'user_query_390', 'user_query_383', 'user_query_380', 'user_query_379', 'user_query_371', 'user_query_370', 'user_query_369', 'user_query_362', 'user_query_360', 'user_query_358', 'user_query_354', 'user_query_351', 'user_query_350', 'user_query_348', 'user_query_340', 'user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-13 12:02:40] Coherence C_total: 0.932
+[2026-02-13 12:02:40] Mode: ANSWER
+[2026-02-13 12:02:40] Energy: 0.80, Coherence: 0.86, Novelty: 0.97
+[2026-02-13 12:02:40] Emotion: curious, Mood: 0.60
+[2026-02-13 12:02:40] Generated 6 proposals
+[2026-02-13 12:02:40] Arbitration: 6 proposals, winner: WORLD (score: 0.60)
+[2026-02-13 12:02:40] ??  World Action Reward: +0.376, PE: 0.004, Valence: +0.374
+[2026-02-13 12:02:40] Executed: ?? mitigate: {'hazard': -0.06312423514953365, 'energy_supply': -0.023777621785362888}, R=0.38, PE=0.00
+[2026-02-13 12:02:40] Memory Hygiene: Deleted ungrounded fact tool_result_639 due to TTL.
+[2026-02-13 12:02:40] State saved
+[2026-02-13 12:02:40] Tick 650 complete
+[2026-02-13 12:02:43] 
+============================================================
+TICK 651
+============================================================
+[2026-02-13 12:02:43] Attention spotlight: ['user_query_650', 'user_query_640', 'user_query_634', 'user_query_630', 'user_query_627', 'user_query_620', 'user_query_610', 'user_query_602', 'user_query_600', 'user_query_594', 'user_query_590', 'user_query_582', 'user_query_580', 'user_query_572', 'user_query_570', 'user_query_568', 'user_query_560', 'user_query_557', 'user_query_555', 'user_query_550', 'user_query_540', 'user_query_530', 'user_query_525', 'user_query_520', 'user_query_517', 'user_query_510', 'user_query_500', 'user_query_494', 'user_query_491', 'user_query_490', 'user_query_480', 'user_query_474', 'user_query_470', 'user_query_465', 'user_query_460', 'user_query_450', 'user_query_440', 'user_query_430', 'user_query_429', 'user_query_428', 'user_query_425', 'user_query_424', 'user_query_420', 'user_query_417', 'user_query_413', 'user_query_410', 'user_query_402', 'user_query_400', 'user_query_390', 'user_query_383', 'user_query_380', 'user_query_379', 'user_query_371', 'user_query_370', 'user_query_369', 'user_query_362', 'user_query_360', 'user_query_358', 'user_query_354', 'user_query_351', 'user_query_350', 'user_query_348', 'user_query_340', 'user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-13 12:02:43] Coherence C_total: 0.933
+[2026-02-13 12:02:43] Mode: SLEEP
+[2026-02-13 12:02:43] Energy: 0.79, Coherence: 0.87, Novelty: 0.95
+[2026-02-13 12:02:43] Emotion: curious, Mood: 0.60
+[2026-02-13 12:02:43] Generated 5 proposals
+[2026-02-13 12:02:43] Arbitration: 5 proposals, winner: WORLD (score: 0.60)
+[2026-02-13 12:02:43] ??  World Action Reward: +0.432, PE: 0.011, Valence: +0.426
+[2026-02-13 12:02:43] Executed: ?? mitigate: {'hazard': -0.09086841319304684, 'energy_supply': -0.025244523671461693}, R=0.43, PE=0.01
+[2026-02-13 12:02:43] Tick 651 complete
+[2026-02-13 12:02:46] 
+============================================================
+TICK 652
+============================================================
+[2026-02-13 12:02:46] Attention spotlight: ['user_query_650', 'user_query_640', 'user_query_634', 'user_query_630', 'user_query_627', 'user_query_620', 'user_query_610', 'user_query_602', 'user_query_600', 'user_query_594', 'user_query_590', 'user_query_582', 'user_query_580', 'user_query_572', 'user_query_570', 'user_query_568', 'user_query_560', 'user_query_557', 'user_query_555', 'user_query_550', 'user_query_540', 'user_query_530', 'user_query_525', 'user_query_520', 'user_query_517', 'user_query_510', 'user_query_500', 'user_query_494', 'user_query_491', 'user_query_490', 'user_query_480', 'user_query_474', 'user_query_470', 'user_query_465', 'user_query_460', 'user_query_450', 'user_query_440', 'user_query_430', 'user_query_429', 'user_query_428', 'user_query_425', 'user_query_424', 'user_query_420', 'user_query_417', 'user_query_413', 'user_query_410', 'user_query_402', 'user_query_400', 'user_query_390', 'user_query_383', 'user_query_380', 'user_query_379', 'user_query_371', 'user_query_370', 'user_query_369', 'user_query_362', 'user_query_360', 'user_query_358', 'user_query_354', 'user_query_351', 'user_query_350', 'user_query_348', 'user_query_340', 'user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-13 12:02:46] Coherence C_total: 0.933
+[2026-02-13 12:02:46] Mode: SLEEP
+[2026-02-13 12:02:46] Energy: 0.77, Coherence: 0.88, Novelty: 0.93
+[2026-02-13 12:02:46] Emotion: curious, Mood: 0.60
+[2026-02-13 12:02:46] Generated 5 proposals
+[2026-02-13 12:02:46] Arbitration: 5 proposals, winner: WORLD (score: 0.60)
+[2026-02-13 12:02:46] ??  World Action Reward: +0.422, PE: 0.010, Valence: +0.418
+[2026-02-13 12:02:46] Executed: ?? mitigate: {'hazard': -0.08622434251058816, 'energy_supply': -0.028380624930877608}, R=0.42, PE=0.01
+[2026-02-13 12:02:46] Memory Hygiene: Deleted ungrounded fact tool_result_641 due to TTL.
+[2026-02-13 12:02:46] Tick 652 complete
+[2026-02-13 12:02:49] 
+============================================================
+TICK 653
+============================================================
+[2026-02-13 12:02:49] Attention spotlight: ['user_query_650', 'user_query_640', 'user_query_634', 'user_query_630', 'user_query_627', 'user_query_620', 'user_query_610', 'user_query_602', 'user_query_600', 'user_query_594', 'user_query_590', 'user_query_582', 'user_query_580', 'user_query_572', 'user_query_570', 'user_query_568', 'user_query_560', 'user_query_557', 'user_query_555', 'user_query_550', 'user_query_540', 'user_query_530', 'user_query_525', 'user_query_520', 'user_query_517', 'user_query_510', 'user_query_500', 'user_query_494', 'user_query_491', 'user_query_490', 'user_query_480', 'user_query_474', 'user_query_470', 'user_query_465', 'user_query_460', 'user_query_450', 'user_query_440', 'user_query_430', 'user_query_429', 'user_query_428', 'user_query_425', 'user_query_424', 'user_query_420', 'user_query_417', 'user_query_413', 'user_query_410', 'user_query_402', 'user_query_400', 'user_query_390', 'user_query_383', 'user_query_380', 'user_query_379', 'user_query_371', 'user_query_370', 'user_query_369', 'user_query_362', 'user_query_360', 'user_query_358', 'user_query_354', 'user_query_351', 'user_query_350', 'user_query_348', 'user_query_340', 'user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-13 12:02:49] Coherence C_total: 0.934
+[2026-02-13 12:02:49] Mode: SLEEP
+[2026-02-13 12:02:49] Energy: 0.75, Coherence: 0.88, Novelty: 0.91
+[2026-02-13 12:02:49] Emotion: curious, Mood: 0.60
+[2026-02-13 12:02:49] Generated 5 proposals
+[2026-02-13 12:02:49] Arbitration: 5 proposals, winner: WORLD (score: 0.60)
+[2026-02-13 12:02:49] ??  World Action Reward: +0.367, PE: 0.007, Valence: +0.364
+[2026-02-13 12:02:49] Executed: ?? mitigate: {'hazard': -0.05854734167796145, 'energy_supply': -0.023414464356416264}, R=0.37, PE=0.01
+[2026-02-13 12:02:49] Memory Hygiene: Deleted ungrounded fact tool_result_642 due to TTL.
+[2026-02-13 12:02:49] Tick 653 complete
+[2026-02-13 12:02:52] 
+============================================================
+TICK 654
+============================================================
+[2026-02-13 12:02:52] Attention spotlight: ['user_query_650', 'user_query_640', 'user_query_634', 'user_query_630', 'user_query_627', 'user_query_620', 'user_query_610', 'user_query_602', 'user_query_600', 'user_query_594', 'user_query_590', 'user_query_582', 'user_query_580', 'user_query_572', 'user_query_570', 'user_query_568', 'user_query_560', 'user_query_557', 'user_query_555', 'user_query_550', 'user_query_540', 'user_query_530', 'user_query_525', 'user_query_520', 'user_query_517', 'user_query_510', 'user_query_500', 'user_query_494', 'user_query_491', 'user_query_490', 'user_query_480', 'user_query_474', 'user_query_470', 'user_query_465', 'user_query_460', 'user_query_450', 'user_query_440', 'user_query_430', 'user_query_429', 'user_query_428', 'user_query_425', 'user_query_424', 'user_query_420', 'user_query_417', 'user_query_413', 'user_query_410', 'user_query_402', 'user_query_400', 'user_query_390', 'user_query_383', 'user_query_380', 'user_query_379', 'user_query_371', 'user_query_370', 'user_query_369', 'user_query_362', 'user_query_360', 'user_query_358', 'user_query_354', 'user_query_351', 'user_query_350', 'user_query_348', 'user_query_340', 'user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-13 12:02:52] Coherence C_total: 0.935
+[2026-02-13 12:02:52] Mode: SLEEP
+[2026-02-13 12:02:52] Energy: 0.73, Coherence: 0.89, Novelty: 0.89
+[2026-02-13 12:02:52] Emotion: curious, Mood: 0.60
+[2026-02-13 12:02:52] Generated 5 proposals
+[2026-02-13 12:02:52] Arbitration: 5 proposals, winner: WORLD (score: 0.60)
+[2026-02-13 12:02:52] ??  World Action Reward: +0.429, PE: 0.011, Valence: +0.424
+[2026-02-13 12:02:52] Executed: ?? mitigate: {'hazard': -0.08956327832686342, 'energy_supply': -0.0271822447432638}, R=0.43, PE=0.01
+[2026-02-13 12:02:52] Memory Hygiene: Deleted ungrounded fact tool_result_643 due to TTL.
+[2026-02-13 12:02:52] Tick 654 complete
+[2026-02-13 12:02:55] 
+============================================================
+TICK 655
+============================================================
+[2026-02-13 12:02:55] Attention spotlight: ['user_query_650', 'user_query_640', 'user_query_634', 'user_query_630', 'user_query_627', 'user_query_620', 'user_query_610', 'user_query_602', 'user_query_600', 'user_query_594', 'user_query_590', 'user_query_582', 'user_query_580', 'user_query_572', 'user_query_570', 'user_query_568', 'user_query_560', 'user_query_557', 'user_query_555', 'user_query_550', 'user_query_540', 'user_query_530', 'user_query_525', 'user_query_520', 'user_query_517', 'user_query_510', 'user_query_500', 'user_query_494', 'user_query_491', 'user_query_490', 'user_query_480', 'user_query_474', 'user_query_470', 'user_query_465', 'user_query_460', 'user_query_450', 'user_query_440', 'user_query_430', 'user_query_429', 'user_query_428', 'user_query_425', 'user_query_424', 'user_query_420', 'user_query_417', 'user_query_413', 'user_query_410', 'user_query_402', 'user_query_400', 'user_query_390', 'user_query_383', 'user_query_380', 'user_query_379', 'user_query_371', 'user_query_370', 'user_query_369', 'user_query_362', 'user_query_360', 'user_query_358', 'user_query_354', 'user_query_351', 'user_query_350', 'user_query_348', 'user_query_340', 'user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-13 12:02:55] Coherence C_total: 0.936
+[2026-02-13 12:02:55] Mode: SLEEP
+[2026-02-13 12:02:55] Energy: 0.70, Coherence: 0.89, Novelty: 0.87
+[2026-02-13 12:02:55] Emotion: curious, Mood: 0.60
+[2026-02-13 12:02:55] Generated 5 proposals
+[2026-02-13 12:02:55] Arbitration: 5 proposals, winner: WORLD (score: 0.60)
+[2026-02-13 12:02:55] ??  World Action Reward: +0.391, PE: 0.002, Valence: +0.390
+[2026-02-13 12:02:55] Executed: ?? mitigate: {'hazard': -0.0703816259261337, 'energy_supply': -0.028940522703116586}, R=0.39, PE=0.00
+[2026-02-13 12:02:55] Memory Hygiene: Deleted ungrounded fact tool_result_644 due to TTL.
+[2026-02-13 12:02:55] State saved
+[2026-02-13 12:02:55] Tick 655 complete
+[2026-02-13 12:02:58] 
+============================================================
+TICK 656
+============================================================
+[2026-02-13 12:02:58] Attention spotlight: ['user_query_650', 'user_query_640', 'user_query_634', 'user_query_630', 'user_query_627', 'user_query_620', 'user_query_610', 'user_query_602', 'user_query_600', 'user_query_594', 'user_query_590', 'user_query_582', 'user_query_580', 'user_query_572', 'user_query_570', 'user_query_568', 'user_query_560', 'user_query_557', 'user_query_555', 'user_query_550', 'user_query_540', 'user_query_530', 'user_query_525', 'user_query_520', 'user_query_517', 'user_query_510', 'user_query_500', 'user_query_494', 'user_query_491', 'user_query_490', 'user_query_480', 'user_query_474', 'user_query_470', 'user_query_465', 'user_query_460', 'user_query_450', 'user_query_440', 'user_query_430', 'user_query_429', 'user_query_428', 'user_query_425', 'user_query_424', 'user_query_420', 'user_query_417', 'user_query_413', 'user_query_410', 'user_query_402', 'user_query_400', 'user_query_390', 'user_query_383', 'user_query_380', 'user_query_379', 'user_query_371', 'user_query_370', 'user_query_369', 'user_query_362', 'user_query_360', 'user_query_358', 'user_query_354', 'user_query_351', 'user_query_350', 'user_query_348', 'user_query_340', 'user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-13 12:02:58] Coherence C_total: 0.937
+[2026-02-13 12:02:58] Mode: SLEEP
+[2026-02-13 12:02:58] Energy: 0.68, Coherence: 0.90, Novelty: 0.86
+[2026-02-13 12:02:58] Emotion: curious, Mood: 0.60
+[2026-02-13 12:02:58] Generated 5 proposals
+[2026-02-13 12:02:58] Arbitration: 5 proposals, winner: CRITIC (score: 0.50)
+[2026-02-13 12:02:58] ??  Reward: +0.150, PredError: 0.425, Valence: -0.062, MatchScore: 0.80
+[2026-02-13 12:02:58] Executed: Verified and grounded 5 facts. Quarantined 0 facts.
+[2026-02-13 12:02:58] Tick 656 complete
+[2026-02-13 12:03:01] 
+============================================================
+TICK 657
+============================================================
+[2026-02-13 12:03:01] Attention spotlight: ['user_query_650', 'user_query_640', 'user_query_634', 'user_query_630', 'user_query_627', 'user_query_620', 'user_query_610', 'user_query_602', 'user_query_600', 'user_query_594', 'user_query_590', 'user_query_582', 'user_query_580', 'user_query_572', 'user_query_570', 'user_query_568', 'user_query_560', 'user_query_557', 'user_query_555', 'user_query_550', 'user_query_540', 'user_query_530', 'user_query_525', 'user_query_520', 'user_query_517', 'user_query_510', 'user_query_500', 'user_query_494', 'user_query_491', 'user_query_490', 'user_query_480', 'user_query_474', 'user_query_470', 'user_query_465', 'user_query_460', 'user_query_450', 'user_query_440', 'user_query_430', 'user_query_429', 'user_query_428', 'user_query_425', 'user_query_424', 'user_query_420', 'user_query_417', 'user_query_413', 'user_query_410', 'user_query_402', 'user_query_400', 'user_query_390', 'user_query_383', 'user_query_380', 'user_query_379', 'user_query_371', 'user_query_370', 'user_query_369', 'user_query_362', 'user_query_360', 'user_query_358', 'user_query_354', 'user_query_351', 'user_query_350', 'user_query_348', 'user_query_340', 'user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-13 12:03:01] Coherence C_total: 0.942
+[2026-02-13 12:03:01] Mode: SLEEP
+[2026-02-13 12:03:01] Energy: 0.67, Coherence: 0.90, Novelty: 0.84
+[2026-02-13 12:03:01] Emotion: curious, Mood: 0.60
+[2026-02-13 12:03:01] Generated 5 proposals
+[2026-02-13 12:03:01] Arbitration: 5 proposals, winner: WORLD (score: 0.60)
+[2026-02-13 12:03:01] ??  World Action Reward: +0.432, PE: 0.012, Valence: +0.426
+[2026-02-13 12:03:01] Executed: ?? mitigate: {'hazard': -0.09111404966905311, 'energy_supply': -0.02704369735097817}, R=0.43, PE=0.01
+[2026-02-13 12:03:01] Tick 657 complete
+[2026-02-13 12:03:04] 
+============================================================
+TICK 658
+============================================================
+[2026-02-13 12:03:04] Attention spotlight: ['user_query_650', 'user_query_640', 'user_query_634', 'user_query_630', 'user_query_627', 'user_query_620', 'user_query_610', 'user_query_602', 'user_query_600', 'user_query_594', 'user_query_590', 'user_query_582', 'user_query_580', 'user_query_572', 'user_query_570', 'user_query_568', 'user_query_560', 'user_query_557', 'user_query_555', 'user_query_550', 'user_query_540', 'user_query_530', 'user_query_525', 'user_query_520', 'user_query_517', 'user_query_510', 'user_query_500', 'user_query_494', 'user_query_491', 'user_query_490', 'user_query_480', 'user_query_474', 'user_query_470', 'user_query_465', 'user_query_460', 'user_query_450', 'user_query_440', 'user_query_430', 'user_query_429', 'user_query_428', 'user_query_425', 'user_query_424', 'user_query_420', 'user_query_417', 'user_query_413', 'user_query_410', 'user_query_402', 'user_query_400', 'user_query_390', 'user_query_383', 'user_query_380', 'user_query_379', 'user_query_371', 'user_query_370', 'user_query_369', 'user_query_362', 'user_query_360', 'user_query_358', 'user_query_354', 'user_query_351', 'user_query_350', 'user_query_348', 'user_query_340', 'user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-13 12:03:04] Coherence C_total: 0.942
+[2026-02-13 12:03:04] Mode: SLEEP
+[2026-02-13 12:03:04] Energy: 0.65, Coherence: 0.90, Novelty: 0.82
+[2026-02-13 12:03:04] Emotion: curious, Mood: 0.60
+[2026-02-13 12:03:04] Generated 5 proposals
+[2026-02-13 12:03:04] Arbitration: 5 proposals, winner: CRITIC (score: 0.50)
+[2026-02-13 12:03:04] ??  Reward: +0.150, PredError: 0.425, Valence: -0.062, MatchScore: 0.80
+[2026-02-13 12:03:04] Executed: No ungrounded facts to verify
+[2026-02-13 12:03:04] Tick 658 complete
+[2026-02-13 12:03:07] 
+============================================================
+TICK 659
+============================================================
+[2026-02-13 12:03:07] Attention spotlight: ['user_query_650', 'user_query_640', 'user_query_634', 'user_query_630', 'user_query_627', 'user_query_620', 'user_query_610', 'user_query_602', 'user_query_600', 'user_query_594', 'user_query_590', 'user_query_582', 'user_query_580', 'user_query_572', 'user_query_570', 'user_query_568', 'user_query_560', 'user_query_557', 'user_query_555', 'user_query_550', 'user_query_540', 'user_query_530', 'user_query_525', 'user_query_520', 'user_query_517', 'user_query_510', 'user_query_500', 'user_query_494', 'user_query_491', 'user_query_490', 'user_query_480', 'user_query_474', 'user_query_470', 'user_query_465', 'user_query_460', 'user_query_450', 'user_query_440', 'user_query_430', 'user_query_429', 'user_query_428', 'user_query_425', 'user_query_424', 'user_query_420', 'user_query_417', 'user_query_413', 'user_query_410', 'user_query_402', 'user_query_400', 'user_query_390', 'user_query_383', 'user_query_380', 'user_query_379', 'user_query_371', 'user_query_370', 'user_query_369', 'user_query_362', 'user_query_360', 'user_query_358', 'user_query_354', 'user_query_351', 'user_query_350', 'user_query_348', 'user_query_340', 'user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-13 12:03:07] Coherence C_total: 0.942
+[2026-02-13 12:03:07] Mode: SLEEP
+[2026-02-13 12:03:07] Energy: 0.65, Coherence: 0.90, Novelty: 0.81
+[2026-02-13 12:03:07] Emotion: curious, Mood: 0.60
+[2026-02-13 12:03:07] Generated 5 proposals
+[2026-02-13 12:03:07] Arbitration: 5 proposals, winner: CRITIC (score: 0.50)
+[2026-02-13 12:03:07] ??  Reward: +0.150, PredError: 0.425, Valence: -0.062, MatchScore: 0.80
+[2026-02-13 12:03:07] Executed: No ungrounded facts to verify
+[2026-02-13 12:03:07] Tick 659 complete
+[2026-02-13 12:03:10] 
+============================================================
+TICK 660
+============================================================
+[2026-02-13 12:03:10] ?? User input: Calculate 25 + 17
+[2026-02-13 12:03:10] Attention spotlight: ['user_query_660', 'user_query_650', 'user_query_640', 'user_query_634', 'user_query_630', 'user_query_627', 'user_query_620', 'user_query_610', 'user_query_602', 'user_query_600', 'user_query_594', 'user_query_590', 'user_query_582', 'user_query_580', 'user_query_572', 'user_query_570', 'user_query_568', 'user_query_560', 'user_query_557', 'user_query_555', 'user_query_550', 'user_query_540', 'user_query_530', 'user_query_525', 'user_query_520', 'user_query_517', 'user_query_510', 'user_query_500', 'user_query_494', 'user_query_491', 'user_query_490', 'user_query_480', 'user_query_474', 'user_query_470', 'user_query_465', 'user_query_460', 'user_query_450', 'user_query_440', 'user_query_430', 'user_query_429', 'user_query_428', 'user_query_425', 'user_query_424', 'user_query_420', 'user_query_417', 'user_query_413', 'user_query_410', 'user_query_402', 'user_query_400', 'user_query_390', 'user_query_383', 'user_query_380', 'user_query_379', 'user_query_371', 'user_query_370', 'user_query_369', 'user_query_362', 'user_query_360', 'user_query_358', 'user_query_354', 'user_query_351', 'user_query_350', 'user_query_348', 'user_query_340', 'user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-13 12:03:10] Coherence C_total: 0.943
+[2026-02-13 12:03:10] Mode: ANSWER
+[2026-02-13 12:03:10] Energy: 0.65, Coherence: 0.90, Novelty: 0.94
+[2026-02-13 12:03:10] Emotion: curious, Mood: 0.60
+[2026-02-13 12:03:10] Generated 8 proposals
+[2026-02-13 12:03:10] Arbitration: 8 proposals, winner: SLEEP (score: 1.15)
+[2026-02-13 12:03:10] Entering SLEEP mode...
+[2026-02-13 12:03:10] ??  Reward: +0.120, PredError: 0.640, Valence: -0.200, MatchScore: 0.40
+[2026-02-13 12:03:10] Executed: Sleep cycle 33 completed
+[2026-02-13 12:03:10] State saved
+[2026-02-13 12:03:10] Tick 660 complete
+[2026-02-13 12:03:13] 
+============================================================
+TICK 661
+============================================================
+[2026-02-13 12:03:13] Attention spotlight: ['user_query_660', 'user_query_650', 'user_query_640', 'user_query_634', 'user_query_630', 'user_query_627', 'user_query_620', 'user_query_610', 'user_query_602', 'user_query_600', 'user_query_594', 'user_query_590', 'user_query_582', 'user_query_580', 'user_query_572', 'user_query_570', 'user_query_568', 'user_query_560', 'user_query_557', 'user_query_555', 'user_query_550', 'user_query_540', 'user_query_530', 'user_query_525', 'user_query_520', 'user_query_517', 'user_query_510', 'user_query_500', 'user_query_494', 'user_query_491', 'user_query_490', 'user_query_480', 'user_query_474', 'user_query_470', 'user_query_465', 'user_query_460', 'user_query_450', 'user_query_440', 'user_query_430', 'user_query_429', 'user_query_428', 'user_query_425', 'user_query_424', 'user_query_420', 'user_query_417', 'user_query_413', 'user_query_410', 'user_query_402', 'user_query_400', 'user_query_390', 'user_query_383', 'user_query_380', 'user_query_379', 'user_query_371', 'user_query_370', 'user_query_369', 'user_query_362', 'user_query_360', 'user_query_358', 'user_query_354', 'user_query_351', 'user_query_350', 'user_query_348', 'user_query_340', 'user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-13 12:03:13] Coherence C_total: 0.943
+[2026-02-13 12:03:13] Mode: REFLECT
+[2026-02-13 12:03:13] Energy: 0.79, Coherence: 0.90, Novelty: 0.92
+[2026-02-13 12:03:13] Emotion: curious, Mood: 0.60
+[2026-02-13 12:03:13] Generated 6 proposals
+[2026-02-13 12:03:13] Arbitration: 6 proposals, winner: TOOLER (score: 0.68)
+[2026-02-13 12:03:13] Tool attempt: math_calc(raw='25 + 17', sanitized='25 + 17')
+[2026-02-13 12:03:13] Tool result: math_calc -> Result: 42
+[2026-02-13 12:03:13] ??  Reward: +0.160, PredError: 0.420, Valence: -0.050, MatchScore: 0.90
+[2026-02-13 12:03:13] Executed: Result: 42
+[2026-02-13 12:03:13] Tick 661 complete
+[2026-02-13 12:03:16] 
+============================================================
+TICK 662
+============================================================
+[2026-02-13 12:03:16] ?? User input: How are you feeling today?
+[2026-02-13 12:03:16] Attention spotlight: ['user_query_662', 'user_query_660', 'user_query_650', 'user_query_640', 'user_query_634', 'user_query_630', 'user_query_627', 'user_query_620', 'user_query_610', 'user_query_602', 'user_query_600', 'user_query_594', 'user_query_590', 'user_query_582', 'user_query_580', 'user_query_572', 'user_query_570', 'user_query_568', 'user_query_560', 'user_query_557', 'user_query_555', 'user_query_550', 'user_query_540', 'user_query_530', 'user_query_525', 'user_query_520', 'user_query_517', 'user_query_510', 'user_query_500', 'user_query_494', 'user_query_491', 'user_query_490', 'user_query_480', 'user_query_474', 'user_query_470', 'user_query_465', 'user_query_460', 'user_query_450', 'user_query_440', 'user_query_430', 'user_query_429', 'user_query_428', 'user_query_425', 'user_query_424', 'user_query_420', 'user_query_417', 'user_query_413', 'user_query_410', 'user_query_402', 'user_query_400', 'user_query_390', 'user_query_383', 'user_query_380', 'user_query_379', 'user_query_371', 'user_query_370', 'user_query_369', 'user_query_362', 'user_query_360', 'user_query_358', 'user_query_354', 'user_query_351', 'user_query_350', 'user_query_348', 'user_query_340', 'user_query_334', 'user_query_330', 'user_query_324', 'user_query_320', 'user_query_319', 'user_query_310', 'user_query_306', 'user_query_302', 'user_query_300', 'user_query_298', 'user_query_290', 'user_query_286', 'user_query_284', 'user_query_283', 'user_query_281', 'user_query_280', 'user_query_278', 'user_query_270', 'user_query_263', 'user_query_260', 'user_query_257', 'user_query_250', 'user_query_240', 'user_query_230', 'user_query_228', 'user_query_220', 'user_query_210', 'user_query_201', 'user_query_200', 'user_query_190', 'user_query_180', 'user_query_176', 'user_query_170', 'user_query_162', 'user_query_160', 'user_query_150', 'user_query_142', 'user_query_140', 'user_query_138', 'user_query_130', 'user_query_120', 'user_query_110', 'user_query_100', 'user_query_92', 'user_query_90', 'user_query_89', 'user_query_80', 'user_query_70', 'user_query_60', 'user_query_59', 'user_query_56', 'user_query_50']
+[2026-02-13 12:03:16] Coherence C_total: 0.942
+[2026-02-13 12:03:16] Mode: ANSWER
+[2026-02-13 12:03:16] Energy: 0.71, Coherence: 0.90, Novelty: 1.00
+[2026-02-13 12:03:16] Emotion: curious, Mood: 0.60
+[2026-02-13 12:03:16] Generated 5 proposals
+[2026-02-13 12:03:16] Arbitration: 5 proposals, winner: CRITIC (score: 0.50)
+[2026-02-13 12:03:16] ??  Reward: +0.150, PredError: 0.425, Valence: -0.062, MatchScore: 0.80
+[2026-02-13 12:03:16] Executed: Verified and grounded 1 facts. Quarantined 0 facts.
+[2026-02-13 12:03:16] Tick 662 complete
+
