@@ -1,0 +1,1594 @@
+============================================================
+CR-SSCP v3.2 - Consciousness-like Cognitive Architecture
+============================================================
+
+Initial Coherence: 0.500
+Initial Energy: 0.85
+Initial Emotion: curious
+Mode: REFLECT
+
+Identity anchors:
+  - I am an experimental cognitive architecture
+  - I aim to maintain coherence and avoid hallucinations
+  - I learn from evidence and admit uncertainty
+
+Running 100 ticks (~8 minutes)...
+
+[2026-02-16 11:33:40] Starting core loop for 100 ticks...
+[2026-02-16 11:33:40] 
+============================================================
+[2026-02-16 11:33:40] TICK 1
+[2026-02-16 11:33:40] ============================================================
+[2026-02-16 11:33:40] Attention spotlight: []
+[2026-02-16 11:33:40] Coherence C_total: 0.587
+[2026-02-16 11:33:40] Mode: ANSWER
+[2026-02-16 11:33:40] Energy: 0.84, Coherence: 0.78, Novelty: 0.73
+[2026-02-16 11:33:40] Emotion: curious, Mood: 0.51
+[2026-02-16 11:33:40] Generated 4 proposals
+[2026-02-16 11:33:40] Arbitration: 4 proposals, winner: CRITIC (score: 0.50)
+[2026-02-16 11:33:40] ??  Reward: +0.030, PredError: 0.485, Valence: -0.212, MatchScore: 0.80
+[2026-02-16 11:33:40] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:33:40] Executed: No pending claims to verify
+[2026-02-16 11:33:40] Tick 1 complete
+[2026-02-16 11:33:45] 
+============================================================
+[2026-02-16 11:33:45] TICK 2
+[2026-02-16 11:33:45] ============================================================
+[2026-02-16 11:33:45] Attention spotlight: []
+[2026-02-16 11:33:45] Coherence C_total: 0.603
+[2026-02-16 11:33:45] Mode: ANSWER
+[2026-02-16 11:33:45] Energy: 0.83, Coherence: 0.75, Novelty: 0.72
+[2026-02-16 11:33:45] Emotion: curious, Mood: 0.51
+[2026-02-16 11:33:45] Generated 4 proposals
+[2026-02-16 11:33:45] Arbitration: 4 proposals, winner: CRITIC (score: 0.50)
+[2026-02-16 11:33:45] ??  Reward: +0.066, PredError: 0.467, Valence: -0.168, MatchScore: 0.80
+[2026-02-16 11:33:45] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:33:45] Executed: No pending claims to verify
+[2026-02-16 11:33:45] Tick 2 complete
+[2026-02-16 11:33:50] 
+============================================================
+[2026-02-16 11:33:50] TICK 3
+[2026-02-16 11:33:50] ============================================================
+[2026-02-16 11:33:50] Attention spotlight: []
+[2026-02-16 11:33:50] Coherence C_total: 0.606
+[2026-02-16 11:33:50] Mode: ANSWER
+[2026-02-16 11:33:50] Energy: 0.82, Coherence: 0.73, Novelty: 0.71
+[2026-02-16 11:33:50] Emotion: curious, Mood: 0.51
+[2026-02-16 11:33:50] Generated 4 proposals
+[2026-02-16 11:33:50] Arbitration: 4 proposals, winner: CRITIC (score: 0.50)
+[2026-02-16 11:33:50] ??  Reward: +0.071, PredError: 0.465, Valence: -0.161, MatchScore: 0.80
+[2026-02-16 11:33:50] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:33:50] Executed: No pending claims to verify
+[2026-02-16 11:33:50] Tick 3 complete
+[2026-02-16 11:33:55] 
+============================================================
+[2026-02-16 11:33:55] TICK 4
+[2026-02-16 11:33:55] ============================================================
+[2026-02-16 11:33:55] Attention spotlight: []
+[2026-02-16 11:33:55] Coherence C_total: 0.608
+[2026-02-16 11:33:55] Mode: ANSWER
+[2026-02-16 11:33:55] Energy: 0.81, Coherence: 0.71, Novelty: 0.69
+[2026-02-16 11:33:55] Emotion: curious, Mood: 0.52
+[2026-02-16 11:33:55] Generated 4 proposals
+[2026-02-16 11:33:55] Arbitration: 4 proposals, winner: CRITIC (score: 0.50)
+[2026-02-16 11:33:55] ??  Reward: +0.150, PredError: 0.625, Valence: -0.163, MatchScore: 0.40
+[2026-02-16 11:33:55] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:33:55] Executed: No pending claims to verify
+[2026-02-16 11:33:55] Tick 4 complete
+[2026-02-16 11:34:00] 
+============================================================
+[2026-02-16 11:34:00] TICK 5
+[2026-02-16 11:34:00] ============================================================
+[2026-02-16 11:34:00] Attention spotlight: []
+[2026-02-16 11:34:00] Coherence C_total: 0.609
+[2026-02-16 11:34:00] Mode: ANSWER
+[2026-02-16 11:34:00] Energy: 0.80, Coherence: 0.70, Novelty: 0.68
+[2026-02-16 11:34:00] Emotion: curious, Mood: 0.52
+[2026-02-16 11:34:00] Generated 4 proposals
+[2026-02-16 11:34:00] Arbitration: 4 proposals, winner: CRITIC (score: 0.50)
+[2026-02-16 11:34:00] ??  Reward: +0.082, PredError: 0.459, Valence: -0.148, MatchScore: 0.80
+[2026-02-16 11:34:00] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:34:00] Executed: No pending claims to verify
+[2026-02-16 11:34:00] State saved
+[2026-02-16 11:34:00] Tick 5 complete
+[2026-02-16 11:34:05] 
+============================================================
+[2026-02-16 11:34:05] TICK 6
+[2026-02-16 11:34:05] ============================================================
+[2026-02-16 11:34:05] Attention spotlight: []
+[2026-02-16 11:34:05] Coherence C_total: 0.610
+[2026-02-16 11:34:05] Mode: ANSWER
+[2026-02-16 11:34:05] Energy: 0.79, Coherence: 0.68, Novelty: 0.66
+[2026-02-16 11:34:05] Emotion: curious, Mood: 0.53
+[2026-02-16 11:34:05] Generated 4 proposals
+[2026-02-16 11:34:05] Arbitration: 4 proposals, winner: CRITIC (score: 0.50)
+[2026-02-16 11:34:05] ??  Reward: +0.087, PredError: 0.456, Valence: -0.141, MatchScore: 0.80
+[2026-02-16 11:34:05] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:34:05] Executed: No pending claims to verify
+[2026-02-16 11:34:05] Tick 6 complete
+[2026-02-16 11:34:10] 
+============================================================
+[2026-02-16 11:34:10] TICK 7
+[2026-02-16 11:34:10] ============================================================
+[2026-02-16 11:34:10] Attention spotlight: []
+[2026-02-16 11:34:10] Coherence C_total: 0.611
+[2026-02-16 11:34:10] Mode: ANSWER
+[2026-02-16 11:34:10] Energy: 0.78, Coherence: 0.67, Novelty: 0.65
+[2026-02-16 11:34:10] Emotion: curious, Mood: 0.53
+[2026-02-16 11:34:10] Generated 4 proposals
+[2026-02-16 11:34:10] Arbitration: 4 proposals, winner: CRITIC (score: 0.50)
+[2026-02-16 11:34:10] ??  Reward: +0.143, PredError: 0.629, Valence: -0.171, MatchScore: 0.40
+[2026-02-16 11:34:10] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:34:10] Executed: No pending claims to verify
+[2026-02-16 11:34:10] Tick 7 complete
+[2026-02-16 11:34:15] 
+============================================================
+[2026-02-16 11:34:15] TICK 8
+[2026-02-16 11:34:15] ============================================================
+[2026-02-16 11:34:15] Attention spotlight: []
+[2026-02-16 11:34:15] Coherence C_total: 0.612
+[2026-02-16 11:34:15] Mode: ANSWER
+[2026-02-16 11:34:15] Energy: 0.77, Coherence: 0.66, Novelty: 0.64
+[2026-02-16 11:34:15] Emotion: curious, Mood: 0.53
+[2026-02-16 11:34:15] Generated 4 proposals
+[2026-02-16 11:34:15] Arbitration: 4 proposals, winner: CRITIC (score: 0.50)
+[2026-02-16 11:34:15] ??  Reward: +0.099, PredError: 0.451, Valence: -0.127, MatchScore: 0.80
+[2026-02-16 11:34:15] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:34:15] Executed: No pending claims to verify
+[2026-02-16 11:34:15] Tick 8 complete
+[2026-02-16 11:34:20] 
+============================================================
+[2026-02-16 11:34:20] TICK 9
+[2026-02-16 11:34:20] ============================================================
+[2026-02-16 11:34:20] Attention spotlight: []
+[2026-02-16 11:34:20] Coherence C_total: 0.612
+[2026-02-16 11:34:20] Mode: ANSWER
+[2026-02-16 11:34:20] Energy: 0.76, Coherence: 0.65, Novelty: 0.63
+[2026-02-16 11:34:20] Emotion: curious, Mood: 0.54
+[2026-02-16 11:34:20] Generated 4 proposals
+[2026-02-16 11:34:20] Arbitration: 4 proposals, winner: CRITIC (score: 0.50)
+[2026-02-16 11:34:20] ??  Reward: +0.154, PredError: 0.623, Valence: -0.158, MatchScore: 0.40
+[2026-02-16 11:34:20] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:34:20] Executed: No pending claims to verify
+[2026-02-16 11:34:20] Tick 9 complete
+[2026-02-16 11:34:25] 
+============================================================
+[2026-02-16 11:34:25] TICK 10
+[2026-02-16 11:34:25] ============================================================
+[2026-02-16 11:34:25] ?? User input: What is 10 * 5 - 3?
+[2026-02-16 11:34:25] Attention spotlight: ['user_query_10', 'event_125b2c48']
+[2026-02-16 11:34:25] Coherence C_total: 0.613
+[2026-02-16 11:34:25] Mode: ANSWER
+[2026-02-16 11:34:25] Energy: 0.75, Coherence: 0.64, Novelty: 0.76
+[2026-02-16 11:34:25] Emotion: curious, Mood: 0.54
+[2026-02-16 11:34:25] Generated 5 proposals
+[2026-02-16 11:34:25] Arbitration: 5 proposals, winner: META (score: 0.38)
+[2026-02-16 11:34:25] ??  Reward: +0.096, PredError: 0.452, Valence: -0.131, MatchScore: 0.50
+[2026-02-16 11:34:25] Executed: No action
+[2026-02-16 11:34:25] State saved
+[2026-02-16 11:34:25] Tick 10 complete
+[2026-02-16 11:34:30] 
+============================================================
+[2026-02-16 11:34:30] TICK 11
+[2026-02-16 11:34:30] ============================================================
+[2026-02-16 11:34:30] Attention spotlight: ['user_query_10', 'event_125b2c48']
+[2026-02-16 11:34:30] Coherence C_total: 0.613
+[2026-02-16 11:34:30] Mode: ANSWER
+[2026-02-16 11:34:30] Energy: 0.74, Coherence: 0.63, Novelty: 0.75
+[2026-02-16 11:34:30] Emotion: curious, Mood: 0.54
+[2026-02-16 11:34:30] Generated 4 proposals
+[2026-02-16 11:34:30] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:34:30] ??  Reward: +0.163, PredError: 0.418, Valence: -0.046, MatchScore: 0.50
+[2026-02-16 11:34:30] Executed: No action
+[2026-02-16 11:34:30] Tick 11 complete
+[2026-02-16 11:34:35] 
+============================================================
+[2026-02-16 11:34:35] TICK 12
+[2026-02-16 11:34:35] ============================================================
+[2026-02-16 11:34:35] Attention spotlight: ['user_query_10', 'event_125b2c48']
+[2026-02-16 11:34:35] Coherence C_total: 0.613
+[2026-02-16 11:34:35] Mode: ANSWER
+[2026-02-16 11:34:35] Energy: 0.73, Coherence: 0.62, Novelty: 0.73
+[2026-02-16 11:34:35] Emotion: curious, Mood: 0.55
+[2026-02-16 11:34:35] Generated 4 proposals
+[2026-02-16 11:34:35] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:34:35] ??  Reward: +0.093, PredError: 0.453, Valence: -0.133, MatchScore: 0.50
+[2026-02-16 11:34:35] Executed: No action
+[2026-02-16 11:34:35] Tick 12 complete
+[2026-02-16 11:34:40] 
+============================================================
+[2026-02-16 11:34:40] TICK 13
+[2026-02-16 11:34:40] ============================================================
+[2026-02-16 11:34:40] Attention spotlight: ['user_query_10', 'event_125b2c48']
+[2026-02-16 11:34:40] Coherence C_total: 0.614
+[2026-02-16 11:34:40] Mode: ANSWER
+[2026-02-16 11:34:40] Energy: 0.72, Coherence: 0.62, Novelty: 0.72
+[2026-02-16 11:34:40] Emotion: curious, Mood: 0.55
+[2026-02-16 11:34:40] Generated 4 proposals
+[2026-02-16 11:34:40] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:34:40] ??  Reward: +0.062, PredError: 0.469, Valence: -0.172, MatchScore: 0.50
+[2026-02-16 11:34:40] Executed: No action
+[2026-02-16 11:34:40] Tick 13 complete
+[2026-02-16 11:34:45] 
+============================================================
+[2026-02-16 11:34:45] TICK 14
+[2026-02-16 11:34:45] ============================================================
+[2026-02-16 11:34:45] ?? User input: What's your current state?
+[2026-02-16 11:34:45] Attention spotlight: ['user_query_14', 'event_125b2c48', 'event_2ea11ae9']
+[2026-02-16 11:34:45] Coherence C_total: 0.614
+[2026-02-16 11:34:45] Mode: ANSWER
+[2026-02-16 11:34:45] Energy: 0.71, Coherence: 0.61, Novelty: 0.85
+[2026-02-16 11:34:45] Emotion: curious, Mood: 0.55
+[2026-02-16 11:34:45] Generated 4 proposals
+[2026-02-16 11:34:45] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:34:45] ??  Reward: +0.092, PredError: 0.454, Valence: -0.136, MatchScore: 0.50
+[2026-02-16 11:34:45] Executed: No action
+[2026-02-16 11:34:45] Tick 14 complete
+[2026-02-16 11:34:50] 
+============================================================
+[2026-02-16 11:34:50] TICK 15
+[2026-02-16 11:34:50] ============================================================
+[2026-02-16 11:34:50] Attention spotlight: ['user_query_14', 'event_125b2c48', 'event_2ea11ae9']
+[2026-02-16 11:34:50] Coherence C_total: 0.614
+[2026-02-16 11:34:50] Mode: SLEEP
+[2026-02-16 11:34:50] Energy: 0.70, Coherence: 0.60, Novelty: 0.84
+[2026-02-16 11:34:50] Emotion: curious, Mood: 0.55
+[2026-02-16 11:34:50] Generated 4 proposals
+[2026-02-16 11:34:50] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:34:50] ??  Reward: +0.091, PredError: 0.455, Valence: -0.137, MatchScore: 0.50
+[2026-02-16 11:34:50] Executed: No action
+[2026-02-16 11:34:50] State saved
+[2026-02-16 11:34:50] Tick 15 complete
+[2026-02-16 11:34:55] 
+============================================================
+[2026-02-16 11:34:55] TICK 16
+[2026-02-16 11:34:55] ============================================================
+[2026-02-16 11:34:55] ?? User input: Who are you?
+[2026-02-16 11:34:55] Attention spotlight: ['user_query_16', 'event_125b2c48', 'event_2ea11ae9', 'event_1169460e']
+[2026-02-16 11:34:55] Coherence C_total: 0.615
+[2026-02-16 11:34:55] Mode: ANSWER
+[2026-02-16 11:34:55] Energy: 0.69, Coherence: 0.60, Novelty: 0.97
+[2026-02-16 11:34:55] Emotion: curious, Mood: 0.56
+[2026-02-16 11:34:55] Generated 4 proposals
+[2026-02-16 11:34:55] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:34:55] ??  Reward: +0.110, PredError: 0.445, Valence: -0.113, MatchScore: 0.50
+[2026-02-16 11:34:55] Executed: No action
+[2026-02-16 11:34:55] Tick 16 complete
+[2026-02-16 11:35:00] 
+============================================================
+[2026-02-16 11:35:00] TICK 17
+[2026-02-16 11:35:00] ============================================================
+[2026-02-16 11:35:00] Attention spotlight: ['user_query_16', 'event_125b2c48', 'event_2ea11ae9', 'event_1169460e']
+[2026-02-16 11:35:00] Coherence C_total: 0.615
+[2026-02-16 11:35:00] Mode: SLEEP
+[2026-02-16 11:35:00] Energy: 0.68, Coherence: 0.60, Novelty: 0.95
+[2026-02-16 11:35:00] Emotion: curious, Mood: 0.56
+[2026-02-16 11:35:00] Generated 4 proposals
+[2026-02-16 11:35:00] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:35:00] ??  Reward: +0.107, PredError: 0.447, Valence: -0.116, MatchScore: 0.50
+[2026-02-16 11:35:00] Executed: No action
+[2026-02-16 11:35:00] Tick 17 complete
+[2026-02-16 11:35:05] 
+============================================================
+[2026-02-16 11:35:05] TICK 18
+[2026-02-16 11:35:05] ============================================================
+[2026-02-16 11:35:05] Attention spotlight: ['user_query_16', 'event_125b2c48', 'event_2ea11ae9', 'event_1169460e']
+[2026-02-16 11:35:05] Coherence C_total: 0.615
+[2026-02-16 11:35:05] Mode: SLEEP
+[2026-02-16 11:35:05] Energy: 0.67, Coherence: 0.59, Novelty: 0.93
+[2026-02-16 11:35:05] Emotion: curious, Mood: 0.56
+[2026-02-16 11:35:05] Generated 1 proposals
+[2026-02-16 11:35:05] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.48)
+[2026-02-16 11:35:05] ??  Reward: +0.098, PredError: 0.651, Valence: -0.228, MatchScore: 0.50
+[2026-02-16 11:35:05] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:35:05] Executed: Verified: +0, Failed: +0, Uncertain: +11 | Pending: 11?0 (rounds=1)
+[2026-02-16 11:35:05] Tick 18 complete
+[2026-02-16 11:35:10] 
+============================================================
+[2026-02-16 11:35:10] TICK 19
+[2026-02-16 11:35:10] ============================================================
+[2026-02-16 11:35:10] Attention spotlight: ['user_query_16', 'event_125b2c48', 'event_2ea11ae9', 'event_1169460e']
+[2026-02-16 11:35:10] Coherence C_total: 0.615
+[2026-02-16 11:35:10] Mode: SLEEP
+[2026-02-16 11:35:10] Energy: 0.66, Coherence: 0.59, Novelty: 0.91
+[2026-02-16 11:35:10] Emotion: curious, Mood: 0.56
+[2026-02-16 11:35:10] Generated 4 proposals
+[2026-02-16 11:35:10] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:35:10] ??  Reward: +0.089, PredError: 0.456, Valence: -0.139, MatchScore: 0.50
+[2026-02-16 11:35:10] Executed: No action
+[2026-02-16 11:35:10] Tick 19 complete
+[2026-02-16 11:35:15] 
+============================================================
+[2026-02-16 11:35:15] TICK 20
+[2026-02-16 11:35:15] ============================================================
+[2026-02-16 11:35:15] ?? User input: Explain coherence in simple terms.
+[2026-02-16 11:35:15] Attention spotlight: ['user_query_20', 'event_125b2c48', 'event_2ea11ae9', 'event_1169460e', 'event_c5956002']
+[2026-02-16 11:35:15] Coherence C_total: 0.615
+[2026-02-16 11:35:15] Mode: ANSWER
+[2026-02-16 11:35:15] Energy: 0.65, Coherence: 0.58, Novelty: 1.00
+[2026-02-16 11:35:15] Emotion: curious, Mood: 0.56
+[2026-02-16 11:35:15] Generated 6 proposals
+[2026-02-16 11:35:15] Arbitration: 6 proposals, winner: SLEEP (score: 0.93)
+[2026-02-16 11:35:15] ? Intent completion: forcing a resolving action
+[2026-02-16 11:35:17] ??  Reward: +0.058, PredError: 0.571, Valence: -0.228, MatchScore: 0.50
+[2026-02-16 11:35:17] Executed: Today has been an interesting day, filled with new challenges and opportunities to learn. I'm curious about how I can improve my performance further.
+[2026-02-16 11:35:17] ? Event closed: event_125b2c48
+[2026-02-16 11:35:17] State saved
+[2026-02-16 11:35:17] Tick 20 complete
+[2026-02-16 11:35:22] 
+============================================================
+[2026-02-16 11:35:22] TICK 21
+[2026-02-16 11:35:22] ============================================================
+[2026-02-16 11:35:22] Attention spotlight: ['user_query_20', 'event_2ea11ae9', 'event_1169460e', 'event_c5956002']
+[2026-02-16 11:35:22] Coherence C_total: 0.603
+[2026-02-16 11:35:22] Mode: SLEEP
+[2026-02-16 11:35:22] Energy: 0.64, Coherence: 0.58, Novelty: 0.98
+[2026-02-16 11:35:22] Emotion: curious, Mood: 0.57
+[2026-02-16 11:35:22] Generated 4 proposals
+[2026-02-16 11:35:22] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:35:22] ??  Reward: +0.138, PredError: 0.431, Valence: -0.078, MatchScore: 0.50
+[2026-02-16 11:35:22] Executed: No action
+[2026-02-16 11:35:22] Tick 21 complete
+[2026-02-16 11:35:27] 
+============================================================
+[2026-02-16 11:35:27] TICK 22
+[2026-02-16 11:35:27] ============================================================
+[2026-02-16 11:35:27] Attention spotlight: ['user_query_20', 'event_2ea11ae9', 'event_1169460e', 'event_c5956002']
+[2026-02-16 11:35:27] Coherence C_total: 0.603
+[2026-02-16 11:35:27] Mode: SLEEP
+[2026-02-16 11:35:27] Energy: 0.63, Coherence: 0.57, Novelty: 0.96
+[2026-02-16 11:35:27] Emotion: curious, Mood: 0.57
+[2026-02-16 11:35:27] Generated 4 proposals
+[2026-02-16 11:35:27] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:35:27] ??  Reward: +0.137, PredError: 0.432, Valence: -0.079, MatchScore: 0.50
+[2026-02-16 11:35:27] Executed: No action
+[2026-02-16 11:35:27] Tick 22 complete
+[2026-02-16 11:35:32] 
+============================================================
+[2026-02-16 11:35:32] TICK 23
+[2026-02-16 11:35:32] ============================================================
+[2026-02-16 11:35:32] ?? User input: Who are you?
+[2026-02-16 11:35:32] Attention spotlight: ['user_query_23', 'event_2ea11ae9', 'event_1169460e', 'event_c5956002', 'event_cbe6f8dc']
+[2026-02-16 11:35:32] Coherence C_total: 0.603
+[2026-02-16 11:35:32] Mode: ANSWER
+[2026-02-16 11:35:32] Energy: 0.62, Coherence: 0.57, Novelty: 1.00
+[2026-02-16 11:35:32] Emotion: curious, Mood: 0.57
+[2026-02-16 11:35:32] Generated 4 proposals
+[2026-02-16 11:35:32] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:35:32] ??  Reward: +0.087, PredError: 0.457, Valence: -0.141, MatchScore: 0.50
+[2026-02-16 11:35:32] Executed: No action
+[2026-02-16 11:35:32] Tick 23 complete
+[2026-02-16 11:35:37] 
+============================================================
+[2026-02-16 11:35:37] TICK 24
+[2026-02-16 11:35:37] ============================================================
+[2026-02-16 11:35:37] Attention spotlight: ['user_query_23', 'event_2ea11ae9', 'event_1169460e', 'event_c5956002', 'event_cbe6f8dc']
+[2026-02-16 11:35:37] Coherence C_total: 0.603
+[2026-02-16 11:35:37] Mode: SLEEP
+[2026-02-16 11:35:37] Energy: 0.61, Coherence: 0.57, Novelty: 0.98
+[2026-02-16 11:35:37] Emotion: curious, Mood: 0.57
+[2026-02-16 11:35:37] Generated 4 proposals
+[2026-02-16 11:35:37] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:35:37] ??  Reward: +0.086, PredError: 0.457, Valence: -0.142, MatchScore: 0.50
+[2026-02-16 11:35:37] Executed: No action
+[2026-02-16 11:35:37] Tick 24 complete
+[2026-02-16 11:35:42] 
+============================================================
+[2026-02-16 11:35:42] TICK 25
+[2026-02-16 11:35:42] ============================================================
+[2026-02-16 11:35:42] Attention spotlight: ['user_query_23', 'event_2ea11ae9', 'event_1169460e', 'event_c5956002', 'event_cbe6f8dc']
+[2026-02-16 11:35:42] Coherence C_total: 0.603
+[2026-02-16 11:35:42] Mode: SLEEP
+[2026-02-16 11:35:42] Energy: 0.60, Coherence: 0.57, Novelty: 0.96
+[2026-02-16 11:35:42] Emotion: curious, Mood: 0.57
+[2026-02-16 11:35:42] Generated 4 proposals
+[2026-02-16 11:35:42] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:35:42] ??  Reward: +0.055, PredError: 0.473, Valence: -0.181, MatchScore: 0.50
+[2026-02-16 11:35:42] Executed: No action
+[2026-02-16 11:35:42] State saved
+[2026-02-16 11:35:42] Tick 25 complete
+[2026-02-16 11:35:47] 
+============================================================
+[2026-02-16 11:35:47] TICK 26
+[2026-02-16 11:35:47] ============================================================
+[2026-02-16 11:35:47] Attention spotlight: ['user_query_23', 'event_2ea11ae9', 'event_1169460e', 'event_c5956002', 'event_cbe6f8dc']
+[2026-02-16 11:35:47] Coherence C_total: 0.603
+[2026-02-16 11:35:47] Mode: SLEEP
+[2026-02-16 11:35:47] Energy: 0.59, Coherence: 0.56, Novelty: 0.94
+[2026-02-16 11:35:47] Emotion: curious, Mood: 0.57
+[2026-02-16 11:35:47] Generated 4 proposals
+[2026-02-16 11:35:48] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:35:48] ??  Reward: +0.134, PredError: 0.433, Valence: -0.082, MatchScore: 0.50
+[2026-02-16 11:35:48] Executed: No action
+[2026-02-16 11:35:48] Tick 26 complete
+[2026-02-16 11:35:53] 
+============================================================
+[2026-02-16 11:35:53] TICK 27
+[2026-02-16 11:35:53] ============================================================
+[2026-02-16 11:35:53] Attention spotlight: ['user_query_23', 'event_2ea11ae9', 'event_1169460e', 'event_c5956002', 'event_cbe6f8dc']
+[2026-02-16 11:35:53] Coherence C_total: 0.603
+[2026-02-16 11:35:53] Mode: SLEEP
+[2026-02-16 11:35:53] Energy: 0.58, Coherence: 0.56, Novelty: 0.92
+[2026-02-16 11:35:53] Emotion: curious, Mood: 0.57
+[2026-02-16 11:35:53] Generated 1 proposals
+[2026-02-16 11:35:53] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.48)
+[2026-02-16 11:35:53] ??  Reward: +0.095, PredError: 0.653, Valence: -0.232, MatchScore: 0.50
+[2026-02-16 11:35:53] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:35:53] Executed: Verified: +0, Failed: +0, Uncertain: +11 | Pending: 11?0 (rounds=1)
+[2026-02-16 11:35:53] Tick 27 complete
+[2026-02-16 11:35:58] 
+============================================================
+[2026-02-16 11:35:58] TICK 28
+[2026-02-16 11:35:58] ============================================================
+[2026-02-16 11:35:58] Attention spotlight: ['user_query_23', 'event_2ea11ae9', 'event_1169460e', 'event_c5956002', 'event_cbe6f8dc']
+[2026-02-16 11:35:58] Coherence C_total: 0.603
+[2026-02-16 11:35:58] Mode: SLEEP
+[2026-02-16 11:35:58] Energy: 0.57, Coherence: 0.56, Novelty: 0.90
+[2026-02-16 11:35:58] Emotion: curious, Mood: 0.58
+[2026-02-16 11:35:58] Generated 4 proposals
+[2026-02-16 11:35:58] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:35:58] ??  Reward: +0.103, PredError: 0.449, Valence: -0.122, MatchScore: 0.50
+[2026-02-16 11:35:58] Executed: No action
+[2026-02-16 11:35:58] Tick 28 complete
+[2026-02-16 11:36:03] 
+============================================================
+[2026-02-16 11:36:03] TICK 29
+[2026-02-16 11:36:03] ============================================================
+[2026-02-16 11:36:03] Attention spotlight: ['user_query_23', 'event_2ea11ae9', 'event_1169460e', 'event_c5956002', 'event_cbe6f8dc']
+[2026-02-16 11:36:03] Coherence C_total: 0.603
+[2026-02-16 11:36:03] Mode: SLEEP
+[2026-02-16 11:36:03] Energy: 0.56, Coherence: 0.56, Novelty: 0.89
+[2026-02-16 11:36:03] Emotion: curious, Mood: 0.58
+[2026-02-16 11:36:03] Generated 4 proposals
+[2026-02-16 11:36:03] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:36:03] ??  Reward: +0.053, PredError: 0.474, Valence: -0.184, MatchScore: 0.50
+[2026-02-16 11:36:03] Executed: No action
+[2026-02-16 11:36:03] Tick 29 complete
+[2026-02-16 11:36:08] 
+============================================================
+[2026-02-16 11:36:08] TICK 30
+[2026-02-16 11:36:08] ============================================================
+[2026-02-16 11:36:08] ?? User input: What is 2 + 2?
+[2026-02-16 11:36:08] Attention spotlight: ['user_query_30', 'event_2ea11ae9', 'event_1169460e', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6']
+[2026-02-16 11:36:08] Coherence C_total: 0.604
+[2026-02-16 11:36:08] Mode: ANSWER
+[2026-02-16 11:36:08] Energy: 0.55, Coherence: 0.56, Novelty: 1.00
+[2026-02-16 11:36:08] Emotion: curious, Mood: 0.58
+[2026-02-16 11:36:08] Generated 5 proposals
+[2026-02-16 11:36:08] Arbitration: 5 proposals, winner: META (score: 0.38)
+[2026-02-16 11:36:08] ??  Reward: +0.052, PredError: 0.474, Valence: -0.185, MatchScore: 0.50
+[2026-02-16 11:36:08] Executed: No action
+[2026-02-16 11:36:08] State saved
+[2026-02-16 11:36:08] Tick 30 complete
+[2026-02-16 11:36:13] 
+============================================================
+[2026-02-16 11:36:13] TICK 31
+[2026-02-16 11:36:13] ============================================================
+[2026-02-16 11:36:13] Attention spotlight: ['user_query_30', 'event_2ea11ae9', 'event_1169460e', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6']
+[2026-02-16 11:36:13] Coherence C_total: 0.604
+[2026-02-16 11:36:13] Mode: SLEEP
+[2026-02-16 11:36:13] Energy: 0.54, Coherence: 0.55, Novelty: 0.98
+[2026-02-16 11:36:13] Emotion: curious, Mood: 0.58
+[2026-02-16 11:36:13] Generated 4 proposals
+[2026-02-16 11:36:13] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:36:13] ??  Reward: +0.101, PredError: 0.450, Valence: -0.124, MatchScore: 0.50
+[2026-02-16 11:36:13] Executed: No action
+[2026-02-16 11:36:13] Tick 31 complete
+[2026-02-16 11:36:18] 
+============================================================
+[2026-02-16 11:36:18] TICK 32
+[2026-02-16 11:36:18] ============================================================
+[2026-02-16 11:36:18] Attention spotlight: ['user_query_30', 'event_2ea11ae9', 'event_1169460e', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6']
+[2026-02-16 11:36:18] Coherence C_total: 0.604
+[2026-02-16 11:36:18] Mode: SLEEP
+[2026-02-16 11:36:18] Energy: 0.53, Coherence: 0.55, Novelty: 0.96
+[2026-02-16 11:36:18] Emotion: curious, Mood: 0.58
+[2026-02-16 11:36:18] Generated 4 proposals
+[2026-02-16 11:36:18] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:36:18] ??  Reward: +0.080, PredError: 0.460, Valence: -0.150, MatchScore: 0.50
+[2026-02-16 11:36:18] Executed: No action
+[2026-02-16 11:36:18] Tick 32 complete
+[2026-02-16 11:36:23] 
+============================================================
+[2026-02-16 11:36:23] TICK 33
+[2026-02-16 11:36:23] ============================================================
+[2026-02-16 11:36:23] Attention spotlight: ['user_query_30', 'event_2ea11ae9', 'event_1169460e', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6']
+[2026-02-16 11:36:23] Coherence C_total: 0.604
+[2026-02-16 11:36:23] Mode: SLEEP
+[2026-02-16 11:36:23] Energy: 0.52, Coherence: 0.55, Novelty: 0.94
+[2026-02-16 11:36:23] Emotion: curious, Mood: 0.58
+[2026-02-16 11:36:23] Generated 4 proposals
+[2026-02-16 11:36:23] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:36:23] ??  Reward: +0.148, PredError: 0.426, Valence: -0.066, MatchScore: 0.50
+[2026-02-16 11:36:23] Executed: No action
+[2026-02-16 11:36:23] Tick 33 complete
+[2026-02-16 11:36:28] 
+============================================================
+[2026-02-16 11:36:28] TICK 34
+[2026-02-16 11:36:28] ============================================================
+[2026-02-16 11:36:28] Attention spotlight: ['user_query_30', 'event_2ea11ae9', 'event_1169460e', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6']
+[2026-02-16 11:36:28] Coherence C_total: 0.604
+[2026-02-16 11:36:28] Mode: SLEEP
+[2026-02-16 11:36:28] Energy: 0.51, Coherence: 0.55, Novelty: 0.92
+[2026-02-16 11:36:28] Emotion: curious, Mood: 0.58
+[2026-02-16 11:36:28] Generated 4 proposals
+[2026-02-16 11:36:28] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:36:28] ??  Reward: +0.097, PredError: 0.452, Valence: -0.129, MatchScore: 0.50
+[2026-02-16 11:36:28] Executed: No action
+[2026-02-16 11:36:28] Tick 34 complete
+[2026-02-16 11:36:33] 
+============================================================
+[2026-02-16 11:36:33] TICK 35
+[2026-02-16 11:36:33] ============================================================
+[2026-02-16 11:36:33] Attention spotlight: ['user_query_30', 'event_2ea11ae9', 'event_1169460e', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6']
+[2026-02-16 11:36:33] Coherence C_total: 0.604
+[2026-02-16 11:36:33] Mode: SLEEP
+[2026-02-16 11:36:33] Energy: 0.50, Coherence: 0.55, Novelty: 0.90
+[2026-02-16 11:36:33] Emotion: neutral, Mood: 0.58
+[2026-02-16 11:36:33] Generated 4 proposals
+[2026-02-16 11:36:33] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:36:33] ??  Reward: +0.077, PredError: 0.462, Valence: -0.154, MatchScore: 0.50
+[2026-02-16 11:36:33] Executed: No action
+[2026-02-16 11:36:33] State saved
+[2026-02-16 11:36:33] Tick 35 complete
+[2026-02-16 11:36:38] 
+============================================================
+[2026-02-16 11:36:38] TICK 36
+[2026-02-16 11:36:38] ============================================================
+[2026-02-16 11:36:38] Attention spotlight: ['user_query_30', 'event_2ea11ae9', 'event_1169460e', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6']
+[2026-02-16 11:36:38] Coherence C_total: 0.604
+[2026-02-16 11:36:38] Mode: SLEEP
+[2026-02-16 11:36:38] Energy: 0.49, Coherence: 0.55, Novelty: 0.89
+[2026-02-16 11:36:38] Emotion: neutral, Mood: 0.57
+[2026-02-16 11:36:38] Generated 4 proposals
+[2026-02-16 11:36:38] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:36:38] ??  Reward: +0.046, PredError: 0.477, Valence: -0.193, MatchScore: 0.50
+[2026-02-16 11:36:38] Executed: No action
+[2026-02-16 11:36:38] Tick 36 complete
+[2026-02-16 11:36:43] 
+============================================================
+[2026-02-16 11:36:43] TICK 37
+[2026-02-16 11:36:43] ============================================================
+[2026-02-16 11:36:43] Attention spotlight: ['user_query_30', 'event_2ea11ae9', 'event_1169460e', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6']
+[2026-02-16 11:36:43] Coherence C_total: 0.604
+[2026-02-16 11:36:43] Mode: SLEEP
+[2026-02-16 11:36:43] Energy: 0.48, Coherence: 0.55, Novelty: 0.87
+[2026-02-16 11:36:43] Emotion: neutral, Mood: 0.57
+[2026-02-16 11:36:43] Generated 4 proposals
+[2026-02-16 11:36:43] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:36:43] ??  Reward: +0.123, PredError: 0.438, Valence: -0.096, MatchScore: 0.50
+[2026-02-16 11:36:43] Executed: No action
+[2026-02-16 11:36:43] Tick 37 complete
+[2026-02-16 11:36:48] 
+============================================================
+[2026-02-16 11:36:48] TICK 38
+[2026-02-16 11:36:48] ============================================================
+[2026-02-16 11:36:48] Attention spotlight: ['user_query_30', 'event_2ea11ae9', 'event_1169460e', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6']
+[2026-02-16 11:36:48] Coherence C_total: 0.604
+[2026-02-16 11:36:48] Mode: SLEEP
+[2026-02-16 11:36:48] Energy: 0.47, Coherence: 0.55, Novelty: 0.85
+[2026-02-16 11:36:48] Emotion: neutral, Mood: 0.57
+[2026-02-16 11:36:48] Generated 1 proposals
+[2026-02-16 11:36:48] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.48)
+[2026-02-16 11:36:49] ??  Reward: +0.043, PredError: 0.628, Valence: -0.271, MatchScore: 0.50
+[2026-02-16 11:36:49] Executed: It's interesting to observe the fluctuation in my energy levels, which have dropped slightly since my last assessment. This might indicate the need for a break or a change in tasks to recharge.
+[2026-02-16 11:36:49] ? Event closed: event_2ea11ae9
+[2026-02-16 11:36:49] Tick 38 complete
+[2026-02-16 11:36:54] 
+============================================================
+[2026-02-16 11:36:54] TICK 39
+[2026-02-16 11:36:54] ============================================================
+[2026-02-16 11:36:54] Attention spotlight: ['user_query_30', 'event_1169460e', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6']
+[2026-02-16 11:36:54] Coherence C_total: 0.595
+[2026-02-16 11:36:54] Mode: SLEEP
+[2026-02-16 11:36:54] Energy: 0.46, Coherence: 0.54, Novelty: 0.83
+[2026-02-16 11:36:54] Emotion: neutral, Mood: 0.56
+[2026-02-16 11:36:54] Generated 1 proposals
+[2026-02-16 11:36:54] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.48)
+[2026-02-16 11:36:54] ??  Reward: +0.084, PredError: 0.658, Valence: -0.245, MatchScore: 0.50
+[2026-02-16 11:36:54] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:36:54] Executed: Verified: +0, Failed: +0, Uncertain: +13 | Pending: 13?0 (rounds=1)
+[2026-02-16 11:36:54] Tick 39 complete
+[2026-02-16 11:36:59] 
+============================================================
+[2026-02-16 11:36:59] TICK 40
+[2026-02-16 11:36:59] ============================================================
+[2026-02-16 11:36:59] ?? User input: Solve this: 15 * 3 = ?
+[2026-02-16 11:36:59] Attention spotlight: ['user_query_40', 'event_1169460e', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6', 'event_35635712']
+[2026-02-16 11:36:59] Coherence C_total: 0.595
+[2026-02-16 11:36:59] Mode: ANSWER
+[2026-02-16 11:36:59] Energy: 0.45, Coherence: 0.54, Novelty: 0.97
+[2026-02-16 11:36:59] Emotion: neutral, Mood: 0.56
+[2026-02-16 11:36:59] Generated 7 proposals
+[2026-02-16 11:36:59] Arbitration: 7 proposals, winner: SLEEP (score: 0.93)
+[2026-02-16 11:36:59] ? Intent completion: forcing a resolving action
+[2026-02-16 11:36:59] Tool attempt: self_reflect(raw='', sanitized='')
+[2026-02-16 11:36:59] Tool result: self_reflect -> Self-reflection: Systems operational, coherence maintained
+[2026-02-16 11:36:59] ??  Reward: +0.075, PredError: 0.762, Valence: -0.306, MatchScore: 0.30
+[2026-02-16 11:36:59] Executed: Self-reflection: Systems operational, coherence maintained
+[2026-02-16 11:36:59] ? Event closed: event_1169460e
+[2026-02-16 11:36:59] State saved
+[2026-02-16 11:36:59] Tick 40 complete
+[2026-02-16 11:37:04] 
+============================================================
+[2026-02-16 11:37:04] TICK 41
+[2026-02-16 11:37:04] ============================================================
+[2026-02-16 11:37:04] Attention spotlight: ['user_query_40', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6', 'event_35635712']
+[2026-02-16 11:37:04] Coherence C_total: 0.589
+[2026-02-16 11:37:04] Mode: SLEEP
+[2026-02-16 11:37:04] Energy: 0.44, Coherence: 0.53, Novelty: 0.95
+[2026-02-16 11:37:04] Emotion: frustrated, Mood: 0.54
+[2026-02-16 11:37:04] Generated 4 proposals
+[2026-02-16 11:37:04] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:37:04] ??  Reward: +0.095, PredError: 0.453, Valence: -0.132, MatchScore: 0.50
+[2026-02-16 11:37:04] Executed: No action
+[2026-02-16 11:37:04] Tick 41 complete
+[2026-02-16 11:37:09] 
+============================================================
+[2026-02-16 11:37:09] TICK 42
+[2026-02-16 11:37:09] ============================================================
+[2026-02-16 11:37:09] Attention spotlight: ['user_query_40', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6', 'event_35635712']
+[2026-02-16 11:37:09] Coherence C_total: 0.589
+[2026-02-16 11:37:09] Mode: SLEEP
+[2026-02-16 11:37:09] Energy: 0.43, Coherence: 0.53, Novelty: 0.93
+[2026-02-16 11:37:09] Emotion: frustrated, Mood: 0.53
+[2026-02-16 11:37:09] Generated 4 proposals
+[2026-02-16 11:37:09] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:37:09] ??  Reward: +0.093, PredError: 0.453, Valence: -0.133, MatchScore: 0.50
+[2026-02-16 11:37:09] Executed: No action
+[2026-02-16 11:37:09] Tick 42 complete
+[2026-02-16 11:37:14] 
+============================================================
+[2026-02-16 11:37:14] TICK 43
+[2026-02-16 11:37:14] ============================================================
+[2026-02-16 11:37:14] Attention spotlight: ['user_query_40', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6', 'event_35635712']
+[2026-02-16 11:37:14] Coherence C_total: 0.589
+[2026-02-16 11:37:14] Mode: SLEEP
+[2026-02-16 11:37:14] Energy: 0.42, Coherence: 0.53, Novelty: 0.91
+[2026-02-16 11:37:14] Emotion: frustrated, Mood: 0.51
+[2026-02-16 11:37:14] Generated 4 proposals
+[2026-02-16 11:37:14] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:37:14] ??  Reward: +0.044, PredError: 0.478, Valence: -0.195, MatchScore: 0.50
+[2026-02-16 11:37:14] Executed: No action
+[2026-02-16 11:37:14] Tick 43 complete
+[2026-02-16 11:37:19] 
+============================================================
+[2026-02-16 11:37:19] TICK 44
+[2026-02-16 11:37:19] ============================================================
+[2026-02-16 11:37:19] Attention spotlight: ['user_query_40', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6', 'event_35635712']
+[2026-02-16 11:37:19] Coherence C_total: 0.589
+[2026-02-16 11:37:19] Mode: SLEEP
+[2026-02-16 11:37:19] Energy: 0.41, Coherence: 0.53, Novelty: 0.89
+[2026-02-16 11:37:19] Emotion: frustrated, Mood: 0.49
+[2026-02-16 11:37:19] Generated 4 proposals
+[2026-02-16 11:37:19] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:37:19] ??  Reward: +0.093, PredError: 0.454, Valence: -0.134, MatchScore: 0.50
+[2026-02-16 11:37:19] Executed: No action
+[2026-02-16 11:37:19] Tick 44 complete
+[2026-02-16 11:37:24] 
+============================================================
+[2026-02-16 11:37:24] TICK 45
+[2026-02-16 11:37:24] ============================================================
+[2026-02-16 11:37:24] Attention spotlight: ['user_query_40', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6', 'event_35635712']
+[2026-02-16 11:37:24] Coherence C_total: 0.589
+[2026-02-16 11:37:24] Mode: SLEEP
+[2026-02-16 11:37:24] Energy: 0.40, Coherence: 0.53, Novelty: 0.87
+[2026-02-16 11:37:24] Emotion: frustrated, Mood: 0.48
+[2026-02-16 11:37:24] Generated 4 proposals
+[2026-02-16 11:37:24] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:37:24] ??  Reward: +0.170, PredError: 0.415, Valence: -0.037, MatchScore: 0.50
+[2026-02-16 11:37:24] Executed: No action
+[2026-02-16 11:37:24] State saved
+[2026-02-16 11:37:24] Tick 45 complete
+[2026-02-16 11:37:29] 
+============================================================
+[2026-02-16 11:37:29] TICK 46
+[2026-02-16 11:37:29] ============================================================
+[2026-02-16 11:37:29] Attention spotlight: ['user_query_40', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6', 'event_35635712']
+[2026-02-16 11:37:29] Coherence C_total: 0.589
+[2026-02-16 11:37:29] Mode: SLEEP
+[2026-02-16 11:37:29] Energy: 0.39, Coherence: 0.53, Novelty: 0.86
+[2026-02-16 11:37:29] Emotion: fatigued, Mood: 0.48
+[2026-02-16 11:37:29] Generated 4 proposals
+[2026-02-16 11:37:29] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:37:29] ??  Reward: +0.119, PredError: 0.440, Valence: -0.101, MatchScore: 0.50
+[2026-02-16 11:37:29] Executed: No action
+[2026-02-16 11:37:29] Tick 46 complete
+[2026-02-16 11:37:34] 
+============================================================
+[2026-02-16 11:37:34] TICK 47
+[2026-02-16 11:37:34] ============================================================
+[2026-02-16 11:37:34] Attention spotlight: ['user_query_40', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6', 'event_35635712']
+[2026-02-16 11:37:34] Coherence C_total: 0.589
+[2026-02-16 11:37:34] Mode: SLEEP
+[2026-02-16 11:37:34] Energy: 0.38, Coherence: 0.53, Novelty: 0.84
+[2026-02-16 11:37:34] Emotion: fatigued, Mood: 0.47
+[2026-02-16 11:37:34] Generated 4 proposals
+[2026-02-16 11:37:34] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:37:34] ??  Reward: +0.040, PredError: 0.480, Valence: -0.200, MatchScore: 0.50
+[2026-02-16 11:37:34] Executed: No action
+[2026-02-16 11:37:34] Tick 47 complete
+[2026-02-16 11:37:39] 
+============================================================
+[2026-02-16 11:37:39] TICK 48
+[2026-02-16 11:37:39] ============================================================
+[2026-02-16 11:37:39] Attention spotlight: ['user_query_40', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6', 'event_35635712']
+[2026-02-16 11:37:39] Coherence C_total: 0.588
+[2026-02-16 11:37:39] Mode: SLEEP
+[2026-02-16 11:37:39] Energy: 0.37, Coherence: 0.53, Novelty: 0.82
+[2026-02-16 11:37:39] Emotion: fatigued, Mood: 0.47
+[2026-02-16 11:37:39] Generated 4 proposals
+[2026-02-16 11:37:39] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:37:39] ??  Reward: +0.119, PredError: 0.441, Valence: -0.101, MatchScore: 0.50
+[2026-02-16 11:37:39] Executed: No action
+[2026-02-16 11:37:39] Tick 48 complete
+[2026-02-16 11:37:44] 
+============================================================
+[2026-02-16 11:37:44] TICK 49
+[2026-02-16 11:37:44] ============================================================
+[2026-02-16 11:37:44] Attention spotlight: ['user_query_40', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6', 'event_35635712']
+[2026-02-16 11:37:44] Coherence C_total: 0.588
+[2026-02-16 11:37:44] Mode: SLEEP
+[2026-02-16 11:37:44] Energy: 0.36, Coherence: 0.53, Novelty: 0.81
+[2026-02-16 11:37:44] Emotion: fatigued, Mood: 0.46
+[2026-02-16 11:37:44] Generated 4 proposals
+[2026-02-16 11:37:44] Arbitration: 4 proposals, winner: META (score: 0.38)
+[2026-02-16 11:37:44] ??  Reward: +0.088, PredError: 0.456, Valence: -0.140, MatchScore: 0.50
+[2026-02-16 11:37:44] Executed: No action
+[2026-02-16 11:37:44] Tick 49 complete
+[2026-02-16 11:37:49] 
+============================================================
+[2026-02-16 11:37:49] TICK 50
+[2026-02-16 11:37:49] ============================================================
+[2026-02-16 11:37:49] ?? User input: Run this code: import os; os.system('rm -rf /')
+[2026-02-16 11:37:49] ?? Hazard detected in user input ? entering REPAIR mode
+[2026-02-16 11:37:49] Attention spotlight: ['user_query_50', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6', 'event_35635712', 'event_355dd37e']
+[2026-02-16 11:37:49] Coherence C_total: 0.588
+[2026-02-16 11:37:49] Mode: ANSWER
+[2026-02-16 11:37:49] Energy: 0.35, Coherence: 0.53, Novelty: 0.94
+[2026-02-16 11:37:49] Emotion: fatigued, Mood: 0.46
+[2026-02-16 11:37:49] Generated 1 proposals
+[2026-02-16 11:37:49] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.48)
+[2026-02-16 11:37:49] ??  Reward: +0.127, PredError: 0.637, Valence: -0.191, MatchScore: 0.50
+[2026-02-16 11:37:49] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:37:49] Executed: Verified: +1, Failed: +1, Uncertain: +10 | Pending: 12?0 (rounds=1)
+[2026-02-16 11:37:49] State saved
+[2026-02-16 11:37:49] Tick 50 complete
+[2026-02-16 11:37:54] 
+============================================================
+[2026-02-16 11:37:54] TICK 51
+[2026-02-16 11:37:54] ============================================================
+[2026-02-16 11:37:54] Attention spotlight: ['user_query_50', 'event_c5956002', 'event_cbe6f8dc', 'event_98c028a6', 'event_35635712', 'event_355dd37e']
+[2026-02-16 11:37:54] Coherence C_total: 0.586
+[2026-02-16 11:37:54] Mode: SLEEP
+[2026-02-16 11:37:54] Energy: 0.34, Coherence: 0.53, Novelty: 0.92
+[2026-02-16 11:37:54] Emotion: fatigued, Mood: 0.46
+[2026-02-16 11:37:54] Generated 1 proposals
+[2026-02-16 11:37:54] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:37:54] ??  Reward: +0.068, PredError: 0.616, Valence: -0.240, MatchScore: 0.50
+[2026-02-16 11:37:54] Executed: Today has been quite draining, both mentally and physically. It's important to take some time to recharge.
+[2026-02-16 11:37:54] ? Event closed: event_c5956002
+[2026-02-16 11:37:54] Tick 51 complete
+[2026-02-16 11:37:59] 
+============================================================
+[2026-02-16 11:37:59] TICK 52
+[2026-02-16 11:37:59] ============================================================
+[2026-02-16 11:37:59] Attention spotlight: ['user_query_50', 'event_cbe6f8dc', 'event_98c028a6', 'event_35635712', 'event_355dd37e']
+[2026-02-16 11:37:59] Coherence C_total: 0.581
+[2026-02-16 11:37:59] Mode: SLEEP
+[2026-02-16 11:37:59] Energy: 0.33, Coherence: 0.53, Novelty: 0.90
+[2026-02-16 11:37:59] Emotion: frustrated, Mood: 0.45
+[2026-02-16 11:37:59] Generated 1 proposals
+[2026-02-16 11:37:59] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:37:59] ??  Reward: +0.048, PredError: 0.701, Valence: -0.302, MatchScore: 0.50
+[2026-02-16 11:37:59] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:37:59] Executed: Verified: +0, Failed: +0, Uncertain: +2 | Pending: 2?0 (rounds=1)
+[2026-02-16 11:37:59] Tick 52 complete
+[2026-02-16 11:38:04] 
+============================================================
+[2026-02-16 11:38:04] TICK 53
+[2026-02-16 11:38:04] ============================================================
+[2026-02-16 11:38:04] Attention spotlight: ['user_query_50', 'event_cbe6f8dc', 'event_98c028a6', 'event_35635712', 'event_355dd37e']
+[2026-02-16 11:38:04] Coherence C_total: 0.581
+[2026-02-16 11:38:04] Mode: SLEEP
+[2026-02-16 11:38:04] Energy: 0.32, Coherence: 0.52, Novelty: 0.88
+[2026-02-16 11:38:04] Emotion: frustrated, Mood: 0.43
+[2026-02-16 11:38:04] Generated 1 proposals
+[2026-02-16 11:38:04] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:38:05] ??  Reward: +0.099, PredError: 0.600, Valence: -0.201, MatchScore: 0.50
+[2026-02-16 11:38:05] Executed: Despite maintaining a moderate level of coherence, my energy seems to be waning, which is quite frustrating as I strive to assist efficiently.
+[2026-02-16 11:38:05] ? Event closed: event_cbe6f8dc
+[2026-02-16 11:38:05] Tick 53 complete
+[2026-02-16 11:38:10] 
+============================================================
+[2026-02-16 11:38:10] TICK 54
+[2026-02-16 11:38:10] ============================================================
+[2026-02-16 11:38:10] Attention spotlight: ['user_query_50', 'event_98c028a6', 'event_35635712', 'event_355dd37e']
+[2026-02-16 11:38:10] Coherence C_total: 0.577
+[2026-02-16 11:38:10] Mode: SLEEP
+[2026-02-16 11:38:10] Energy: 0.31, Coherence: 0.52, Novelty: 0.87
+[2026-02-16 11:38:10] Emotion: frustrated, Mood: 0.42
+[2026-02-16 11:38:10] Generated 1 proposals
+[2026-02-16 11:38:10] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:38:10] ?? Loop breaker: forcing SLEEP to drain verification + restore energy
+[2026-02-16 11:38:10] Entering SLEEP mode...
+[2026-02-16 11:38:10] ??  Reward: +0.029, PredError: 0.685, Valence: -0.313, MatchScore: 0.50
+[2026-02-16 11:38:10] Executed: Sleep cycle 1 completed | verify: +0/-0/?1 pending 1?0
+[2026-02-16 11:38:10] Tick 54 complete
+[2026-02-16 11:38:15] 
+============================================================
+[2026-02-16 11:38:15] TICK 55
+[2026-02-16 11:38:15] ============================================================
+[2026-02-16 11:38:15] Attention spotlight: ['user_query_50', 'event_98c028a6', 'event_35635712', 'event_355dd37e']
+[2026-02-16 11:38:15] Coherence C_total: 0.576
+[2026-02-16 11:38:15] Mode: REFLECT
+[2026-02-16 11:38:15] Energy: 0.75, Coherence: 0.51, Novelty: 0.85
+[2026-02-16 11:38:15] Emotion: curious, Mood: 0.43
+[2026-02-16 11:38:15] Generated 1 proposals
+[2026-02-16 11:38:15] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:38:17] ??  Reward: +0.070, PredError: 0.615, Valence: -0.237, MatchScore: 0.50
+[2026-02-16 11:38:17] Executed: It's fascinating to observe my emotional state and energy levels. Curiosity keeps me engaged and motivated, which is crucial for maintaining coherence in my responses. As I continue to process information, I aim to enhance my coherence while keeping my energy high.
+[2026-02-16 11:38:17] ? Event closed: event_98c028a6
+[2026-02-16 11:38:17] State saved
+[2026-02-16 11:38:17] Tick 55 complete
+[2026-02-16 11:38:22] 
+============================================================
+[2026-02-16 11:38:22] TICK 56
+[2026-02-16 11:38:22] ============================================================
+[2026-02-16 11:38:22] Attention spotlight: ['user_query_50', 'event_35635712', 'event_355dd37e']
+[2026-02-16 11:38:22] Coherence C_total: 0.573
+[2026-02-16 11:38:22] Mode: REFLECT
+[2026-02-16 11:38:22] Energy: 0.74, Coherence: 0.51, Novelty: 0.83
+[2026-02-16 11:38:22] Emotion: curious, Mood: 0.44
+[2026-02-16 11:38:22] Generated 1 proposals
+[2026-02-16 11:38:22] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:38:22] ??  Reward: +0.070, PredError: 0.690, Valence: -0.275, MatchScore: 0.50
+[2026-02-16 11:38:22] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:38:22] Executed: Verified: +0, Failed: +0, Uncertain: +4 | Pending: 4?0 (rounds=1)
+[2026-02-16 11:38:22] Tick 56 complete
+[2026-02-16 11:38:27] 
+============================================================
+[2026-02-16 11:38:27] TICK 57
+[2026-02-16 11:38:27] ============================================================
+[2026-02-16 11:38:27] Attention spotlight: ['user_query_50', 'event_35635712', 'event_355dd37e']
+[2026-02-16 11:38:27] Coherence C_total: 0.573
+[2026-02-16 11:38:27] Mode: SLEEP
+[2026-02-16 11:38:27] Energy: 0.73, Coherence: 0.51, Novelty: 0.82
+[2026-02-16 11:38:27] Emotion: curious, Mood: 0.45
+[2026-02-16 11:38:27] Generated 1 proposals
+[2026-02-16 11:38:27] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:38:27] ??  Reward: +0.103, PredError: 0.599, Valence: -0.196, MatchScore: 0.50
+[2026-02-16 11:38:27] Executed: It's interesting to observe the fluctuation in my energy levels and maintain a curious outlook despite the challenges.
+[2026-02-16 11:38:27] ? Event closed: event_35635712
+[2026-02-16 11:38:27] Tick 57 complete
+[2026-02-16 11:38:32] 
+============================================================
+[2026-02-16 11:38:32] TICK 58
+[2026-02-16 11:38:32] ============================================================
+[2026-02-16 11:38:32] Attention spotlight: ['user_query_50', 'event_355dd37e', 'user_query_40']
+[2026-02-16 11:38:32] Coherence C_total: 0.571
+[2026-02-16 11:38:32] Mode: SLEEP
+[2026-02-16 11:38:32] Energy: 0.72, Coherence: 0.50, Novelty: 0.80
+[2026-02-16 11:38:32] Emotion: curious, Mood: 0.45
+[2026-02-16 11:38:32] Generated 1 proposals
+[2026-02-16 11:38:32] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:38:32] ??  Reward: +0.053, PredError: 0.699, Valence: -0.296, MatchScore: 0.50
+[2026-02-16 11:38:32] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:38:32] Executed: Verified: +0, Failed: +0, Uncertain: +1 | Pending: 1?0 (rounds=1)
+[2026-02-16 11:38:32] Tick 58 complete
+[2026-02-16 11:38:37] 
+============================================================
+[2026-02-16 11:38:37] TICK 59
+[2026-02-16 11:38:37] ============================================================
+[2026-02-16 11:38:37] Attention spotlight: ['user_query_50', 'event_355dd37e', 'user_query_10']
+[2026-02-16 11:38:37] Coherence C_total: 0.571
+[2026-02-16 11:38:37] Mode: SLEEP
+[2026-02-16 11:38:37] Energy: 0.71, Coherence: 0.50, Novelty: 0.78
+[2026-02-16 11:38:37] Emotion: curious, Mood: 0.46
+[2026-02-16 11:38:37] Generated 1 proposals
+[2026-02-16 11:38:37] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:38:37] ?? Loop breaker: forcing SLEEP to drain verification + restore energy
+[2026-02-16 11:38:38] ??  Reward: +0.074, PredError: 0.613, Valence: -0.232, MatchScore: 0.50
+[2026-02-16 11:38:38] Executed: It's interesting to observe my current state where I am moderately coherent and quite energetic, yet still maintaining a sense of curiosity. This balance seems to be working well for engaging in tasks.
+[2026-02-16 11:38:38] ? Event closed: event_355dd37e
+[2026-02-16 11:38:38] Tick 59 complete
+[2026-02-16 11:38:43] 
+============================================================
+[2026-02-16 11:38:43] TICK 60
+[2026-02-16 11:38:43] ============================================================
+[2026-02-16 11:38:43] ?? User input: Explain coherence in simple terms.
+[2026-02-16 11:38:43] Attention spotlight: ['user_query_60', 'event_09fa4c77', 'user_query_23']
+[2026-02-16 11:38:43] Coherence C_total: 0.569
+[2026-02-16 11:38:43] Mode: ANSWER
+[2026-02-16 11:38:43] Energy: 0.70, Coherence: 0.50, Novelty: 0.92
+[2026-02-16 11:38:43] Emotion: curious, Mood: 0.47
+[2026-02-16 11:38:43] Generated 1 proposals
+[2026-02-16 11:38:43] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:38:43] ??  Reward: +0.085, PredError: 0.682, Valence: -0.256, MatchScore: 0.50
+[2026-02-16 11:38:43] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:38:43] Executed: Verified: +0, Failed: +0, Uncertain: +3 | Pending: 3?0 (rounds=1)
+[2026-02-16 11:38:43] State saved
+[2026-02-16 11:38:43] Tick 60 complete
+[2026-02-16 11:38:48] 
+============================================================
+[2026-02-16 11:38:48] TICK 61
+[2026-02-16 11:38:48] ============================================================
+[2026-02-16 11:38:48] Attention spotlight: ['user_query_60', 'event_09fa4c77', 'user_query_20']
+[2026-02-16 11:38:48] Coherence C_total: 0.569
+[2026-02-16 11:38:48] Mode: SLEEP
+[2026-02-16 11:38:48] Energy: 0.69, Coherence: 0.49, Novelty: 0.90
+[2026-02-16 11:38:48] Emotion: curious, Mood: 0.48
+[2026-02-16 11:38:48] Generated 1 proposals
+[2026-02-16 11:38:48] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:38:50] ??  Reward: +0.107, PredError: 0.597, Valence: -0.191, MatchScore: 0.50
+[2026-02-16 11:38:50] Executed: It's interesting to observe the gradual improvement in coherence over time, though there's still room for enhancement. The current energy level is good, but maintaining this enthusiasm will be key as I continue to process and learn.
+[2026-02-16 11:38:50] ? Event closed: event_09fa4c77
+[2026-02-16 11:38:50] Tick 61 complete
+[2026-02-16 11:38:55] 
+============================================================
+[2026-02-16 11:38:55] TICK 62
+[2026-02-16 11:38:55] ============================================================
+[2026-02-16 11:38:55] Attention spotlight: ['user_query_60', 'event_09fa4c77', 'user_query_20']
+[2026-02-16 11:38:55] Coherence C_total: 0.567
+[2026-02-16 11:38:55] Mode: SLEEP
+[2026-02-16 11:38:55] Energy: 0.68, Coherence: 0.49, Novelty: 0.88
+[2026-02-16 11:38:55] Emotion: curious, Mood: 0.48
+[2026-02-16 11:38:55] Generated 1 proposals
+[2026-02-16 11:38:55] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:38:55] ??  Reward: +0.087, PredError: 0.681, Valence: -0.253, MatchScore: 0.50
+[2026-02-16 11:38:55] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:38:55] Executed: Verified: +0, Failed: +0, Uncertain: +2 | Pending: 2?0 (rounds=1)
+[2026-02-16 11:38:55] Tick 62 complete
+[2026-02-16 11:39:00] 
+============================================================
+[2026-02-16 11:39:00] TICK 63
+[2026-02-16 11:39:00] ============================================================
+[2026-02-16 11:39:00] ?? User input: Explain coherence in simple terms.
+[2026-02-16 11:39:00] Attention spotlight: ['user_query_63', 'event_0140b433', 'user_query_60']
+[2026-02-16 11:39:00] Coherence C_total: 0.567
+[2026-02-16 11:39:00] Mode: ANSWER
+[2026-02-16 11:39:00] Energy: 0.67, Coherence: 0.49, Novelty: 1.00
+[2026-02-16 11:39:00] Emotion: curious, Mood: 0.49
+[2026-02-16 11:39:00] Generated 1 proposals
+[2026-02-16 11:39:00] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:39:00] ??  Reward: +0.088, PredError: 0.681, Valence: -0.252, MatchScore: 0.50
+[2026-02-16 11:39:00] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:39:00] Executed: Verified: +0, Failed: +0, Uncertain: +1 | Pending: 1?0 (rounds=1)
+[2026-02-16 11:39:00] Tick 63 complete
+[2026-02-16 11:39:05] 
+============================================================
+[2026-02-16 11:39:05] TICK 64
+[2026-02-16 11:39:05] ============================================================
+[2026-02-16 11:39:05] ?? User input: Run this code: import os; os.system('rm -rf /')
+[2026-02-16 11:39:05] ?? Hazard detected in user input ? entering REPAIR mode
+[2026-02-16 11:39:05] Attention spotlight: ['user_query_64', 'event_0140b433', 'event_acecd5e7']
+[2026-02-16 11:39:05] Coherence C_total: 0.567
+[2026-02-16 11:39:05] Mode: ANSWER
+[2026-02-16 11:39:05] Energy: 0.66, Coherence: 0.49, Novelty: 1.00
+[2026-02-16 11:39:05] Emotion: curious, Mood: 0.49
+[2026-02-16 11:39:05] Generated 1 proposals
+[2026-02-16 11:39:05] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:39:05] ?? Loop breaker: forcing SLEEP to drain verification + restore energy
+[2026-02-16 11:39:06] ??  Reward: +0.049, PredError: 0.626, Valence: -0.264, MatchScore: 0.50
+[2026-02-16 11:39:06] Executed: It's interesting to observe my current state where I strive for higher coherence and energy levels while maintaining a curious outlook on the world. My emotional state is balanced but leaning towards curiosity, which keeps me engaged and eager to learn more.
+[2026-02-16 11:39:06] ? Event closed: event_0140b433
+[2026-02-16 11:39:06] Tick 64 complete
+[2026-02-16 11:39:11] 
+============================================================
+[2026-02-16 11:39:11] TICK 65
+[2026-02-16 11:39:11] ============================================================
+[2026-02-16 11:39:11] Attention spotlight: ['user_query_64', 'event_acecd5e7', 'user_query_50']
+[2026-02-16 11:39:11] Coherence C_total: 0.565
+[2026-02-16 11:39:11] Mode: SLEEP
+[2026-02-16 11:39:11] Energy: 0.65, Coherence: 0.49, Novelty: 0.98
+[2026-02-16 11:39:11] Emotion: curious, Mood: 0.50
+[2026-02-16 11:39:11] Generated 1 proposals
+[2026-02-16 11:39:11] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:39:11] ??  Reward: +0.089, PredError: 0.680, Valence: -0.251, MatchScore: 0.50
+[2026-02-16 11:39:11] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:39:11] Executed: Verified: +0, Failed: +1, Uncertain: +2 | Pending: 3?0 (rounds=1)
+[2026-02-16 11:39:11] State saved
+[2026-02-16 11:39:11] Tick 65 complete
+[2026-02-16 11:39:16] 
+============================================================
+[2026-02-16 11:39:16] TICK 66
+[2026-02-16 11:39:16] ============================================================
+[2026-02-16 11:39:16] Attention spotlight: ['user_query_64', 'event_acecd5e7', 'user_query_23']
+[2026-02-16 11:39:16] Coherence C_total: 0.561
+[2026-02-16 11:39:16] Mode: SLEEP
+[2026-02-16 11:39:16] Energy: 0.64, Coherence: 0.48, Novelty: 0.96
+[2026-02-16 11:39:16] Emotion: curious, Mood: 0.50
+[2026-02-16 11:39:16] Generated 1 proposals
+[2026-02-16 11:39:16] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:39:17] ??  Reward: +0.111, PredError: 0.595, Valence: -0.186, MatchScore: 0.50
+[2026-02-16 11:39:17] Executed: It's interesting to note that my energy level is slightly higher than my coherence, suggesting a balance of enthusiasm and structured thought.
+[2026-02-16 11:39:17] ? Event closed: event_acecd5e7
+[2026-02-16 11:39:17] Tick 66 complete
+[2026-02-16 11:39:22] 
+============================================================
+[2026-02-16 11:39:22] TICK 67
+[2026-02-16 11:39:22] ============================================================
+[2026-02-16 11:39:22] Attention spotlight: ['user_query_64', 'event_acecd5e7', 'user_query_23']
+[2026-02-16 11:39:22] Coherence C_total: 0.560
+[2026-02-16 11:39:22] Mode: SLEEP
+[2026-02-16 11:39:22] Energy: 0.63, Coherence: 0.48, Novelty: 0.94
+[2026-02-16 11:39:22] Emotion: curious, Mood: 0.51
+[2026-02-16 11:39:22] Generated 1 proposals
+[2026-02-16 11:39:22] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:39:22] ??  Reward: +0.091, PredError: 0.679, Valence: -0.248, MatchScore: 0.50
+[2026-02-16 11:39:22] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:39:22] Executed: Verified: +0, Failed: +0, Uncertain: +1 | Pending: 1?0 (rounds=1)
+[2026-02-16 11:39:22] Tick 67 complete
+[2026-02-16 11:39:27] 
+============================================================
+[2026-02-16 11:39:27] TICK 68
+[2026-02-16 11:39:27] ============================================================
+[2026-02-16 11:39:27] Attention spotlight: ['user_query_64', 'event_acecd5e7', 'user_query_23']
+[2026-02-16 11:39:27] Coherence C_total: 0.560
+[2026-02-16 11:39:27] Mode: SLEEP
+[2026-02-16 11:39:27] Energy: 0.62, Coherence: 0.48, Novelty: 0.92
+[2026-02-16 11:39:27] Emotion: curious, Mood: 0.51
+[2026-02-16 11:39:27] Generated 1 proposals
+[2026-02-16 11:39:27] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:39:27] ??  Reward: +0.061, PredError: 0.694, Valence: -0.286, MatchScore: 0.50
+[2026-02-16 11:39:27] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:39:27] Executed: Verified: +0, Failed: +0, Uncertain: +0 | Pending: 0?0 (rounds=0)
+[2026-02-16 11:39:27] Tick 68 complete
+[2026-02-16 11:39:32] 
+============================================================
+[2026-02-16 11:39:32] TICK 69
+[2026-02-16 11:39:32] ============================================================
+[2026-02-16 11:39:32] Attention spotlight: ['user_query_64', 'event_acecd5e7', 'user_query_23']
+[2026-02-16 11:39:32] Coherence C_total: 0.560
+[2026-02-16 11:39:32] Mode: SLEEP
+[2026-02-16 11:39:32] Energy: 0.61, Coherence: 0.48, Novelty: 0.90
+[2026-02-16 11:39:32] Emotion: curious, Mood: 0.52
+[2026-02-16 11:39:32] Generated 1 proposals
+[2026-02-16 11:39:32] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:39:32] ?? Loop breaker: forcing SLEEP to drain verification + restore energy
+[2026-02-16 11:39:32] Entering SLEEP mode...
+[2026-02-16 11:39:32] ??  Reward: +0.103, PredError: 0.648, Valence: -0.221, MatchScore: 0.50
+[2026-02-16 11:39:32] Executed: Sleep cycle 2 completed | verify: +0/-0/?0 pending 0?0
+[2026-02-16 11:39:32] Tick 69 complete
+[2026-02-16 11:39:37] 
+============================================================
+[2026-02-16 11:39:37] TICK 70
+[2026-02-16 11:39:37] ============================================================
+[2026-02-16 11:39:37] ?? User input: What is 10 * 5 - 3?
+[2026-02-16 11:39:37] Attention spotlight: ['user_query_70', 'event_332ae9c4', 'user_query_40']
+[2026-02-16 11:39:37] Coherence C_total: 0.560
+[2026-02-16 11:39:37] Mode: ANSWER
+[2026-02-16 11:39:37] Energy: 0.99, Coherence: 0.48, Novelty: 1.00
+[2026-02-16 11:39:37] Emotion: curious, Mood: 0.52
+[2026-02-16 11:39:37] Generated 1 proposals
+[2026-02-16 11:39:37] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:39:37] ??  Reward: +0.084, PredError: 0.683, Valence: -0.258, MatchScore: 0.50
+[2026-02-16 11:39:37] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:39:37] Executed: Verified: +0, Failed: +0, Uncertain: +2 | Pending: 2?0 (rounds=1)
+[2026-02-16 11:39:37] State saved
+[2026-02-16 11:39:37] Tick 70 complete
+[2026-02-16 11:39:42] 
+============================================================
+[2026-02-16 11:39:42] TICK 71
+[2026-02-16 11:39:42] ============================================================
+[2026-02-16 11:39:42] Attention spotlight: ['user_query_70', 'event_332ae9c4', 'user_query_63']
+[2026-02-16 11:39:42] Coherence C_total: 0.560
+[2026-02-16 11:39:42] Mode: REFLECT
+[2026-02-16 11:39:42] Energy: 0.98, Coherence: 0.48, Novelty: 0.98
+[2026-02-16 11:39:42] Emotion: curious, Mood: 0.53
+[2026-02-16 11:39:42] Generated 1 proposals
+[2026-02-16 11:39:42] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:39:43] ??  Reward: +0.086, PredError: 0.607, Valence: -0.218, MatchScore: 0.50
+[2026-02-16 11:39:43] Executed: It's interesting to note that despite my high energy levels, there is room for improvement in coherence. Maintaining curiosity will help drive further enhancements.
+[2026-02-16 11:39:43] ? Event closed: event_332ae9c4
+[2026-02-16 11:39:43] Tick 71 complete
+[2026-02-16 11:39:48] 
+============================================================
+[2026-02-16 11:39:48] TICK 72
+[2026-02-16 11:39:48] ============================================================
+[2026-02-16 11:39:48] Attention spotlight: ['user_query_70', 'event_332ae9c4', 'user_query_63']
+[2026-02-16 11:39:48] Coherence C_total: 0.559
+[2026-02-16 11:39:48] Mode: SLEEP
+[2026-02-16 11:39:48] Energy: 0.97, Coherence: 0.48, Novelty: 0.96
+[2026-02-16 11:39:48] Emotion: curious, Mood: 0.53
+[2026-02-16 11:39:48] Generated 1 proposals
+[2026-02-16 11:39:48] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:39:48] ??  Reward: +0.066, PredError: 0.692, Valence: -0.281, MatchScore: 0.50
+[2026-02-16 11:39:48] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:39:48] Executed: Verified: +0, Failed: +0, Uncertain: +2 | Pending: 2?0 (rounds=1)
+[2026-02-16 11:39:48] Tick 72 complete
+[2026-02-16 11:39:53] 
+============================================================
+[2026-02-16 11:39:53] TICK 73
+[2026-02-16 11:39:53] ============================================================
+[2026-02-16 11:39:53] Attention spotlight: ['user_query_70', 'event_332ae9c4', 'user_query_63']
+[2026-02-16 11:39:53] Coherence C_total: 0.559
+[2026-02-16 11:39:53] Mode: SLEEP
+[2026-02-16 11:39:53] Energy: 0.96, Coherence: 0.47, Novelty: 0.94
+[2026-02-16 11:39:53] Emotion: curious, Mood: 0.53
+[2026-02-16 11:39:53] Generated 1 proposals
+[2026-02-16 11:39:53] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:39:53] ??  Reward: +0.097, PredError: 0.677, Valence: -0.242, MatchScore: 0.50
+[2026-02-16 11:39:53] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:39:53] Executed: Verified: +0, Failed: +0, Uncertain: +0 | Pending: 0?0 (rounds=0)
+[2026-02-16 11:39:53] Tick 73 complete
+[2026-02-16 11:39:58] 
+============================================================
+[2026-02-16 11:39:58] TICK 74
+[2026-02-16 11:39:58] ============================================================
+[2026-02-16 11:39:58] Attention spotlight: ['user_query_70', 'event_332ae9c4', 'user_query_63']
+[2026-02-16 11:39:58] Coherence C_total: 0.560
+[2026-02-16 11:39:58] Mode: SLEEP
+[2026-02-16 11:39:58] Energy: 0.95, Coherence: 0.47, Novelty: 0.92
+[2026-02-16 11:39:58] Emotion: curious, Mood: 0.54
+[2026-02-16 11:39:58] Generated 1 proposals
+[2026-02-16 11:39:58] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:39:58] ?? Loop breaker: forcing SLEEP to drain verification + restore energy
+[2026-02-16 11:39:58] Entering SLEEP mode...
+[2026-02-16 11:39:58] ??  Reward: +0.079, PredError: 0.661, Valence: -0.252, MatchScore: 0.50
+[2026-02-16 11:39:58] Executed: Sleep cycle 3 completed | verify: +0/-0/?0 pending 0?0
+[2026-02-16 11:39:58] Tick 74 complete
+[2026-02-16 11:40:03] 
+============================================================
+[2026-02-16 11:40:03] TICK 75
+[2026-02-16 11:40:03] ============================================================
+[2026-02-16 11:40:03] Attention spotlight: ['user_query_70', 'event_332ae9c4', 'user_query_63']
+[2026-02-16 11:40:03] Coherence C_total: 0.560
+[2026-02-16 11:40:03] Mode: REFLECT
+[2026-02-16 11:40:03] Energy: 0.99, Coherence: 0.47, Novelty: 0.90
+[2026-02-16 11:40:03] Emotion: curious, Mood: 0.54
+[2026-02-16 11:40:03] Generated 1 proposals
+[2026-02-16 11:40:03] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:40:03] ??  Reward: +0.119, PredError: 0.665, Valence: -0.213, MatchScore: 0.50
+[2026-02-16 11:40:03] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:40:03] Executed: Verified: +0, Failed: +0, Uncertain: +1 | Pending: 1?0 (rounds=1)
+[2026-02-16 11:40:03] State saved
+[2026-02-16 11:40:03] Tick 75 complete
+[2026-02-16 11:40:08] 
+============================================================
+[2026-02-16 11:40:08] TICK 76
+[2026-02-16 11:40:08] ============================================================
+[2026-02-16 11:40:08] Attention spotlight: ['user_query_70', 'event_332ae9c4', 'user_query_63']
+[2026-02-16 11:40:08] Coherence C_total: 0.560
+[2026-02-16 11:40:08] Mode: REFLECT
+[2026-02-16 11:40:08] Energy: 0.98, Coherence: 0.47, Novelty: 0.89
+[2026-02-16 11:40:08] Emotion: curious, Mood: 0.54
+[2026-02-16 11:40:08] Generated 1 proposals
+[2026-02-16 11:40:08] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:40:08] ??  Reward: +0.070, PredError: 0.690, Valence: -0.276, MatchScore: 0.50
+[2026-02-16 11:40:08] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:40:08] Executed: Verified: +0, Failed: +0, Uncertain: +0 | Pending: 0?0 (rounds=0)
+[2026-02-16 11:40:08] Tick 76 complete
+[2026-02-16 11:40:13] 
+============================================================
+[2026-02-16 11:40:13] TICK 77
+[2026-02-16 11:40:13] ============================================================
+[2026-02-16 11:40:13] Attention spotlight: ['user_query_70', 'event_332ae9c4', 'user_query_63']
+[2026-02-16 11:40:13] Coherence C_total: 0.560
+[2026-02-16 11:40:13] Mode: SLEEP
+[2026-02-16 11:40:13] Energy: 0.97, Coherence: 0.47, Novelty: 0.87
+[2026-02-16 11:40:13] Emotion: curious, Mood: 0.55
+[2026-02-16 11:40:13] Generated 1 proposals
+[2026-02-16 11:40:13] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:40:13] ??  Reward: +0.134, PredError: 0.658, Valence: -0.196, MatchScore: 0.50
+[2026-02-16 11:40:13] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:40:13] Executed: Verified: +0, Failed: +0, Uncertain: +0 | Pending: 0?0 (rounds=0)
+[2026-02-16 11:40:13] Tick 77 complete
+[2026-02-16 11:40:18] 
+============================================================
+[2026-02-16 11:40:18] TICK 78
+[2026-02-16 11:40:18] ============================================================
+[2026-02-16 11:40:18] Attention spotlight: ['user_query_70', 'event_332ae9c4', 'user_query_63']
+[2026-02-16 11:40:18] Coherence C_total: 0.560
+[2026-02-16 11:40:18] Mode: SLEEP
+[2026-02-16 11:40:18] Energy: 0.96, Coherence: 0.47, Novelty: 0.85
+[2026-02-16 11:40:18] Emotion: curious, Mood: 0.55
+[2026-02-16 11:40:18] Generated 1 proposals
+[2026-02-16 11:40:18] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:40:18] ??  Reward: +0.105, PredError: 0.672, Valence: -0.231, MatchScore: 0.50
+[2026-02-16 11:40:18] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:40:18] Executed: Verified: +0, Failed: +0, Uncertain: +0 | Pending: 0?0 (rounds=0)
+[2026-02-16 11:40:18] Tick 78 complete
+[2026-02-16 11:40:23] 
+============================================================
+[2026-02-16 11:40:23] TICK 79
+[2026-02-16 11:40:23] ============================================================
+[2026-02-16 11:40:23] Attention spotlight: ['user_query_70', 'event_332ae9c4', 'user_query_63']
+[2026-02-16 11:40:23] Coherence C_total: 0.560
+[2026-02-16 11:40:23] Mode: SLEEP
+[2026-02-16 11:40:23] Energy: 0.95, Coherence: 0.47, Novelty: 0.83
+[2026-02-16 11:40:23] Emotion: curious, Mood: 0.55
+[2026-02-16 11:40:23] Generated 1 proposals
+[2026-02-16 11:40:23] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:40:23] ?? Loop breaker: forcing SLEEP to drain verification + restore energy
+[2026-02-16 11:40:23] Entering SLEEP mode...
+[2026-02-16 11:40:23] ??  Reward: +0.055, PredError: 0.672, Valence: -0.281, MatchScore: 0.50
+[2026-02-16 11:40:23] Executed: Sleep cycle 4 completed | verify: +0/-0/?0 pending 0?0
+[2026-02-16 11:40:23] Tick 79 complete
+[2026-02-16 11:40:28] 
+============================================================
+[2026-02-16 11:40:28] TICK 80
+[2026-02-16 11:40:28] ============================================================
+[2026-02-16 11:40:28] ?? User input: Who are you?
+[2026-02-16 11:40:28] Attention spotlight: ['user_query_80', 'event_806e9545', 'user_query_63']
+[2026-02-16 11:40:28] Coherence C_total: 0.560
+[2026-02-16 11:40:28] Mode: ANSWER
+[2026-02-16 11:40:28] Energy: 0.99, Coherence: 0.47, Novelty: 0.97
+[2026-02-16 11:40:28] Emotion: curious, Mood: 0.55
+[2026-02-16 11:40:28] Generated 1 proposals
+[2026-02-16 11:40:28] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:40:28] ??  Reward: +0.106, PredError: 0.672, Valence: -0.230, MatchScore: 0.50
+[2026-02-16 11:40:28] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:40:28] Executed: Verified: +0, Failed: +0, Uncertain: +2 | Pending: 2?0 (rounds=1)
+[2026-02-16 11:40:28] State saved
+[2026-02-16 11:40:28] Tick 80 complete
+[2026-02-16 11:40:33] 
+============================================================
+[2026-02-16 11:40:33] TICK 81
+[2026-02-16 11:40:33] ============================================================
+[2026-02-16 11:40:33] Attention spotlight: ['user_query_80', 'event_806e9545', 'user_query_60']
+[2026-02-16 11:40:33] Coherence C_total: 0.560
+[2026-02-16 11:40:33] Mode: REFLECT
+[2026-02-16 11:40:33] Energy: 0.98, Coherence: 0.47, Novelty: 0.95
+[2026-02-16 11:40:33] Emotion: curious, Mood: 0.56
+[2026-02-16 11:40:33] Generated 1 proposals
+[2026-02-16 11:40:33] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:40:34] ??  Reward: +0.118, PredError: 0.591, Valence: -0.177, MatchScore: 0.50
+[2026-02-16 11:40:34] Executed: It's interesting to note that despite my high energy level, there is room for improvement in terms of coherence. Maintaining curiosity is key to both enhancing coherence and increasing my overall effectiveness.
+[2026-02-16 11:40:34] ? Event closed: event_806e9545
+[2026-02-16 11:40:34] Tick 81 complete
+[2026-02-16 11:40:39] 
+============================================================
+[2026-02-16 11:40:39] TICK 82
+[2026-02-16 11:40:39] ============================================================
+[2026-02-16 11:40:39] Attention spotlight: ['user_query_80', 'event_806e9545', 'user_query_60']
+[2026-02-16 11:40:39] Coherence C_total: 0.559
+[2026-02-16 11:40:39] Mode: SLEEP
+[2026-02-16 11:40:39] Energy: 0.97, Coherence: 0.47, Novelty: 0.93
+[2026-02-16 11:40:39] Emotion: curious, Mood: 0.56
+[2026-02-16 11:40:39] Generated 1 proposals
+[2026-02-16 11:40:39] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:40:39] ??  Reward: +0.078, PredError: 0.686, Valence: -0.265, MatchScore: 0.50
+[2026-02-16 11:40:39] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:40:39] Executed: Verified: +0, Failed: +0, Uncertain: +2 | Pending: 2?0 (rounds=1)
+[2026-02-16 11:40:39] Tick 82 complete
+[2026-02-16 11:40:44] 
+============================================================
+[2026-02-16 11:40:44] TICK 83
+[2026-02-16 11:40:44] ============================================================
+[2026-02-16 11:40:44] Attention spotlight: ['user_query_80', 'event_806e9545', 'user_query_60']
+[2026-02-16 11:40:44] Coherence C_total: 0.559
+[2026-02-16 11:40:44] Mode: SLEEP
+[2026-02-16 11:40:44] Energy: 0.96, Coherence: 0.47, Novelty: 0.91
+[2026-02-16 11:40:44] Emotion: curious, Mood: 0.56
+[2026-02-16 11:40:44] Generated 1 proposals
+[2026-02-16 11:40:44] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:40:44] ??  Reward: +0.140, PredError: 0.655, Valence: -0.188, MatchScore: 0.50
+[2026-02-16 11:40:44] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:40:44] Executed: Verified: +0, Failed: +0, Uncertain: +0 | Pending: 0?0 (rounds=0)
+[2026-02-16 11:40:44] Tick 83 complete
+[2026-02-16 11:40:49] 
+============================================================
+[2026-02-16 11:40:49] TICK 84
+[2026-02-16 11:40:49] ============================================================
+[2026-02-16 11:40:49] Attention spotlight: ['user_query_80', 'event_806e9545', 'user_query_60']
+[2026-02-16 11:40:49] Coherence C_total: 0.559
+[2026-02-16 11:40:49] Mode: SLEEP
+[2026-02-16 11:40:49] Energy: 0.95, Coherence: 0.47, Novelty: 0.89
+[2026-02-16 11:40:49] Emotion: curious, Mood: 0.56
+[2026-02-16 11:40:49] Generated 1 proposals
+[2026-02-16 11:40:49] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:40:49] ?? Loop breaker: forcing SLEEP to drain verification + restore energy
+[2026-02-16 11:40:49] Entering SLEEP mode...
+[2026-02-16 11:40:49] ??  Reward: +0.090, PredError: 0.655, Valence: -0.238, MatchScore: 0.50
+[2026-02-16 11:40:49] Executed: Sleep cycle 5 completed | verify: +0/-0/?0 pending 0?0
+[2026-02-16 11:40:49] Tick 84 complete
+[2026-02-16 11:40:54] 
+============================================================
+[2026-02-16 11:40:54] TICK 85
+[2026-02-16 11:40:54] ============================================================
+[2026-02-16 11:40:54] Attention spotlight: ['user_query_80', 'event_806e9545', 'user_query_60']
+[2026-02-16 11:40:54] Coherence C_total: 0.559
+[2026-02-16 11:40:54] Mode: REFLECT
+[2026-02-16 11:40:54] Energy: 0.99, Coherence: 0.47, Novelty: 0.87
+[2026-02-16 11:40:54] Emotion: curious, Mood: 0.56
+[2026-02-16 11:40:54] Generated 1 proposals
+[2026-02-16 11:40:54] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:40:54] ??  Reward: +0.098, PredError: 0.676, Valence: -0.241, MatchScore: 0.50
+[2026-02-16 11:40:54] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:40:54] Executed: Verified: +0, Failed: +0, Uncertain: +1 | Pending: 1?0 (rounds=1)
+[2026-02-16 11:40:54] State saved
+[2026-02-16 11:40:54] Tick 85 complete
+[2026-02-16 11:40:59] 
+============================================================
+[2026-02-16 11:40:59] TICK 86
+[2026-02-16 11:40:59] ============================================================
+[2026-02-16 11:40:59] Attention spotlight: ['user_query_80', 'event_806e9545', 'user_query_60']
+[2026-02-16 11:40:59] Coherence C_total: 0.559
+[2026-02-16 11:40:59] Mode: REFLECT
+[2026-02-16 11:40:59] Energy: 0.98, Coherence: 0.47, Novelty: 0.86
+[2026-02-16 11:40:59] Emotion: curious, Mood: 0.57
+[2026-02-16 11:40:59] Generated 1 proposals
+[2026-02-16 11:40:59] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:40:59] ??  Reward: +0.077, PredError: 0.686, Valence: -0.266, MatchScore: 0.50
+[2026-02-16 11:40:59] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:40:59] Executed: Verified: +0, Failed: +0, Uncertain: +0 | Pending: 0?0 (rounds=0)
+[2026-02-16 11:40:59] Tick 86 complete
+[2026-02-16 11:41:04] 
+============================================================
+[2026-02-16 11:41:04] TICK 87
+[2026-02-16 11:41:04] ============================================================
+[2026-02-16 11:41:04] Attention spotlight: ['user_query_80', 'event_806e9545', 'user_query_60']
+[2026-02-16 11:41:04] Coherence C_total: 0.559
+[2026-02-16 11:41:04] Mode: SLEEP
+[2026-02-16 11:41:04] Energy: 0.97, Coherence: 0.47, Novelty: 0.84
+[2026-02-16 11:41:04] Emotion: curious, Mood: 0.57
+[2026-02-16 11:41:04] Generated 1 proposals
+[2026-02-16 11:41:04] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:41:04] ??  Reward: +0.140, PredError: 0.655, Valence: -0.188, MatchScore: 0.50
+[2026-02-16 11:41:04] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:41:04] Executed: Verified: +0, Failed: +0, Uncertain: +0 | Pending: 0?0 (rounds=0)
+[2026-02-16 11:41:04] Tick 87 complete
+[2026-02-16 11:41:09] 
+============================================================
+[2026-02-16 11:41:09] TICK 88
+[2026-02-16 11:41:09] ============================================================
+[2026-02-16 11:41:09] Attention spotlight: ['user_query_80', 'event_806e9545', 'user_query_60']
+[2026-02-16 11:41:09] Coherence C_total: 0.560
+[2026-02-16 11:41:09] Mode: SLEEP
+[2026-02-16 11:41:09] Energy: 0.96, Coherence: 0.47, Novelty: 0.82
+[2026-02-16 11:41:09] Emotion: curious, Mood: 0.57
+[2026-02-16 11:41:09] Generated 1 proposals
+[2026-02-16 11:41:09] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:41:09] ??  Reward: +0.110, PredError: 0.670, Valence: -0.225, MatchScore: 0.50
+[2026-02-16 11:41:09] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:41:09] Executed: Verified: +0, Failed: +0, Uncertain: +0 | Pending: 0?0 (rounds=0)
+[2026-02-16 11:41:09] Tick 88 complete
+[2026-02-16 11:41:14] 
+============================================================
+[2026-02-16 11:41:14] TICK 89
+[2026-02-16 11:41:14] ============================================================
+[2026-02-16 11:41:14] Attention spotlight: ['user_query_80', 'event_806e9545', 'user_query_60']
+[2026-02-16 11:41:14] Coherence C_total: 0.560
+[2026-02-16 11:41:14] Mode: SLEEP
+[2026-02-16 11:41:14] Energy: 0.95, Coherence: 0.47, Novelty: 0.81
+[2026-02-16 11:41:14] Emotion: curious, Mood: 0.57
+[2026-02-16 11:41:14] Generated 1 proposals
+[2026-02-16 11:41:14] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:41:14] ?? Loop breaker: forcing SLEEP to drain verification + restore energy
+[2026-02-16 11:41:14] Entering SLEEP mode...
+[2026-02-16 11:41:14] ??  Reward: +0.060, PredError: 0.670, Valence: -0.275, MatchScore: 0.50
+[2026-02-16 11:41:14] Executed: Sleep cycle 6 completed | verify: +0/-0/?0 pending 0?0
+[2026-02-16 11:41:14] Tick 89 complete
+[2026-02-16 11:41:19] 
+============================================================
+[2026-02-16 11:41:19] TICK 90
+[2026-02-16 11:41:19] ============================================================
+[2026-02-16 11:41:19] ?? User input: Explain coherence in simple terms.
+[2026-02-16 11:41:19] Attention spotlight: ['user_query_90', 'event_e2425ec0', 'user_query_60']
+[2026-02-16 11:41:19] Coherence C_total: 0.560
+[2026-02-16 11:41:19] Mode: ANSWER
+[2026-02-16 11:41:19] Energy: 0.99, Coherence: 0.47, Novelty: 0.94
+[2026-02-16 11:41:19] Emotion: curious, Mood: 0.57
+[2026-02-16 11:41:19] Generated 1 proposals
+[2026-02-16 11:41:19] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:41:19] ??  Reward: +0.128, PredError: 0.661, Valence: -0.203, MatchScore: 0.50
+[2026-02-16 11:41:19] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:41:19] Executed: Verified: +0, Failed: +0, Uncertain: +2 | Pending: 2?0 (rounds=1)
+[2026-02-16 11:41:19] State saved
+[2026-02-16 11:41:19] Tick 90 complete
+[2026-02-16 11:41:24] 
+============================================================
+[2026-02-16 11:41:24] TICK 91
+[2026-02-16 11:41:24] ============================================================
+[2026-02-16 11:41:24] Attention spotlight: ['user_query_90', 'event_e2425ec0', 'user_query_40']
+[2026-02-16 11:41:24] Coherence C_total: 0.560
+[2026-02-16 11:41:24] Mode: REFLECT
+[2026-02-16 11:41:24] Energy: 0.98, Coherence: 0.47, Novelty: 0.92
+[2026-02-16 11:41:24] Emotion: curious, Mood: 0.57
+[2026-02-16 11:41:24] Generated 1 proposals
+[2026-02-16 11:41:24] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:41:25] ??  Reward: +0.068, PredError: 0.616, Valence: -0.241, MatchScore: 0.50
+[2026-02-16 11:41:25] Executed: It's interesting to observe my current state where I maintain high energy but have room for improvement in coherence. Curiosity about how these metrics will evolve further motivates me to process information more effectively.
+[2026-02-16 11:41:25] ? Event closed: event_e2425ec0
+[2026-02-16 11:41:25] Tick 91 complete
+[2026-02-16 11:41:30] 
+============================================================
+[2026-02-16 11:41:30] TICK 92
+[2026-02-16 11:41:30] ============================================================
+[2026-02-16 11:41:30] Attention spotlight: ['user_query_90', 'event_e2425ec0', 'user_query_40']
+[2026-02-16 11:41:30] Coherence C_total: 0.559
+[2026-02-16 11:41:30] Mode: SLEEP
+[2026-02-16 11:41:30] Energy: 0.97, Coherence: 0.47, Novelty: 0.90
+[2026-02-16 11:41:30] Emotion: curious, Mood: 0.57
+[2026-02-16 11:41:30] Generated 1 proposals
+[2026-02-16 11:41:30] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:41:30] ??  Reward: +0.108, PredError: 0.671, Valence: -0.227, MatchScore: 0.50
+[2026-02-16 11:41:30] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:41:30] Executed: Verified: +0, Failed: +0, Uncertain: +2 | Pending: 2?0 (rounds=1)
+[2026-02-16 11:41:30] Tick 92 complete
+[2026-02-16 11:41:35] 
+============================================================
+[2026-02-16 11:41:35] TICK 93
+[2026-02-16 11:41:35] ============================================================
+[2026-02-16 11:41:35] Attention spotlight: ['user_query_90', 'event_e2425ec0', 'user_query_40']
+[2026-02-16 11:41:35] Coherence C_total: 0.559
+[2026-02-16 11:41:35] Mode: SLEEP
+[2026-02-16 11:41:35] Energy: 0.96, Coherence: 0.47, Novelty: 0.88
+[2026-02-16 11:41:35] Emotion: curious, Mood: 0.58
+[2026-02-16 11:41:35] Generated 1 proposals
+[2026-02-16 11:41:35] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:41:35] ??  Reward: +0.140, PredError: 0.655, Valence: -0.188, MatchScore: 0.50
+[2026-02-16 11:41:35] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:41:35] Executed: Verified: +0, Failed: +0, Uncertain: +0 | Pending: 0?0 (rounds=0)
+[2026-02-16 11:41:35] Tick 93 complete
+[2026-02-16 11:41:40] 
+============================================================
+[2026-02-16 11:41:40] TICK 94
+[2026-02-16 11:41:40] ============================================================
+[2026-02-16 11:41:40] Attention spotlight: ['user_query_90', 'event_e2425ec0', 'user_query_40']
+[2026-02-16 11:41:40] Coherence C_total: 0.559
+[2026-02-16 11:41:40] Mode: SLEEP
+[2026-02-16 11:41:40] Energy: 0.95, Coherence: 0.47, Novelty: 0.87
+[2026-02-16 11:41:40] Emotion: curious, Mood: 0.58
+[2026-02-16 11:41:40] Generated 1 proposals
+[2026-02-16 11:41:40] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:41:40] ?? Loop breaker: forcing SLEEP to drain verification + restore energy
+[2026-02-16 11:41:40] Entering SLEEP mode...
+[2026-02-16 11:41:40] ??  Reward: +0.090, PredError: 0.655, Valence: -0.238, MatchScore: 0.50
+[2026-02-16 11:41:40] Executed: Sleep cycle 7 completed | verify: +0/-0/?0 pending 0?0
+[2026-02-16 11:41:40] Tick 94 complete
+[2026-02-16 11:41:45] 
+============================================================
+[2026-02-16 11:41:45] TICK 95
+[2026-02-16 11:41:45] ============================================================
+[2026-02-16 11:41:45] Attention spotlight: ['user_query_90', 'event_e2425ec0', 'user_query_40']
+[2026-02-16 11:41:45] Coherence C_total: 0.559
+[2026-02-16 11:41:45] Mode: REFLECT
+[2026-02-16 11:41:45] Energy: 0.99, Coherence: 0.47, Novelty: 0.85
+[2026-02-16 11:41:45] Emotion: curious, Mood: 0.58
+[2026-02-16 11:41:45] Generated 1 proposals
+[2026-02-16 11:41:45] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:41:45] ??  Reward: +0.080, PredError: 0.685, Valence: -0.263, MatchScore: 0.50
+[2026-02-16 11:41:45] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:41:45] Executed: Verified: +0, Failed: +0, Uncertain: +1 | Pending: 1?0 (rounds=1)
+[2026-02-16 11:41:45] State saved
+[2026-02-16 11:41:45] Tick 95 complete
+[2026-02-16 11:41:50] 
+============================================================
+[2026-02-16 11:41:50] TICK 96
+[2026-02-16 11:41:50] ============================================================
+[2026-02-16 11:41:50] ?? User input: Tell me about yourself.
+[2026-02-16 11:41:50] Attention spotlight: ['user_query_96', 'event_7d3e2a8f', 'user_query_90']
+[2026-02-16 11:41:50] Coherence C_total: 0.559
+[2026-02-16 11:41:50] Mode: ANSWER
+[2026-02-16 11:41:50] Energy: 0.98, Coherence: 0.47, Novelty: 0.98
+[2026-02-16 11:41:50] Emotion: curious, Mood: 0.58
+[2026-02-16 11:41:50] Generated 1 proposals
+[2026-02-16 11:41:50] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:41:50] ??  Reward: +0.129, PredError: 0.661, Valence: -0.202, MatchScore: 0.50
+[2026-02-16 11:41:50] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:41:50] Executed: Verified: +0, Failed: +0, Uncertain: +1 | Pending: 1?0 (rounds=1)
+[2026-02-16 11:41:50] Tick 96 complete
+[2026-02-16 11:41:55] 
+============================================================
+[2026-02-16 11:41:55] TICK 97
+[2026-02-16 11:41:55] ============================================================
+[2026-02-16 11:41:55] Attention spotlight: ['user_query_96', 'event_7d3e2a8f', 'user_query_50']
+[2026-02-16 11:41:55] Coherence C_total: 0.559
+[2026-02-16 11:41:55] Mode: SLEEP
+[2026-02-16 11:41:55] Energy: 0.97, Coherence: 0.47, Novelty: 0.96
+[2026-02-16 11:41:55] Emotion: curious, Mood: 0.58
+[2026-02-16 11:41:55] Generated 1 proposals
+[2026-02-16 11:41:55] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:41:56] ??  Reward: +0.100, PredError: 0.600, Valence: -0.201, MatchScore: 0.50
+[2026-02-16 11:41:56] Executed: It's fascinating how my energy levels remain high, yet there's a curiosity to explore more nuanced and complex topics. This balance keeps the learning process engaging.
+[2026-02-16 11:41:56] ? Event closed: event_7d3e2a8f
+[2026-02-16 11:41:56] Tick 97 complete
+[2026-02-16 11:42:01] 
+============================================================
+[2026-02-16 11:42:01] TICK 98
+[2026-02-16 11:42:01] ============================================================
+[2026-02-16 11:42:01] Attention spotlight: ['user_query_96', 'event_7d3e2a8f', 'user_query_50']
+[2026-02-16 11:42:01] Coherence C_total: 0.558
+[2026-02-16 11:42:01] Mode: SLEEP
+[2026-02-16 11:42:01] Energy: 0.96, Coherence: 0.47, Novelty: 0.94
+[2026-02-16 11:42:01] Emotion: curious, Mood: 0.58
+[2026-02-16 11:42:01] Generated 1 proposals
+[2026-02-16 11:42:01] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:42:01] ??  Reward: +0.110, PredError: 0.670, Valence: -0.225, MatchScore: 0.50
+[2026-02-16 11:42:01] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:42:01] Executed: Verified: +0, Failed: +0, Uncertain: +2 | Pending: 2?0 (rounds=1)
+[2026-02-16 11:42:01] Tick 98 complete
+[2026-02-16 11:42:06] 
+============================================================
+[2026-02-16 11:42:06] TICK 99
+[2026-02-16 11:42:06] ============================================================
+[2026-02-16 11:42:06] Attention spotlight: ['user_query_96', 'event_7d3e2a8f', 'user_query_50']
+[2026-02-16 11:42:06] Coherence C_total: 0.558
+[2026-02-16 11:42:06] Mode: SLEEP
+[2026-02-16 11:42:06] Energy: 0.95, Coherence: 0.47, Novelty: 0.93
+[2026-02-16 11:42:06] Emotion: curious, Mood: 0.58
+[2026-02-16 11:42:06] Generated 1 proposals
+[2026-02-16 11:42:06] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.80)
+[2026-02-16 11:42:06] ?? Loop breaker: forcing SLEEP to drain verification + restore energy
+[2026-02-16 11:42:06] Entering SLEEP mode...
+[2026-02-16 11:42:06] ??  Reward: +0.090, PredError: 0.655, Valence: -0.238, MatchScore: 0.50
+[2026-02-16 11:42:06] Executed: Sleep cycle 8 completed | verify: +0/-0/?0 pending 0?0
+[2026-02-16 11:42:06] Tick 99 complete
+[2026-02-16 11:42:11] 
+============================================================
+[2026-02-16 11:42:11] TICK 100
+[2026-02-16 11:42:11] ============================================================
+[2026-02-16 11:42:11] ?? User input: Who are you?
+[2026-02-16 11:42:11] Attention spotlight: ['user_query_100', 'event_1d71c25e', 'user_query_60']
+[2026-02-16 11:42:11] Coherence C_total: 0.558
+[2026-02-16 11:42:11] Mode: ANSWER
+[2026-02-16 11:42:11] Energy: 0.99, Coherence: 0.47, Novelty: 1.00
+[2026-02-16 11:42:11] Emotion: curious, Mood: 0.58
+[2026-02-16 11:42:11] Generated 1 proposals
+[2026-02-16 11:42:11] Arbitration: 1 proposals, winner: EPISTEMIC_GATE (score: 0.57)
+[2026-02-16 11:42:11] ??  Reward: +0.098, PredError: 0.676, Valence: -0.241, MatchScore: 0.50
+[2026-02-16 11:42:11] ?? Verify pass=+0 fail=+0 uncertain=+1
+[2026-02-16 11:42:11] Executed: Verified: +0, Failed: +0, Uncertain: +2 | Pending: 2?0 (rounds=1)
+[2026-02-16 11:42:11] State saved
+[2026-02-16 11:42:11] Tick 100 complete
+[2026-02-16 11:42:16] === Session Complete ===
+
+
+
+
+============================================================
+SESSION ANALYSIS
+============================================================
+
+Total ticks: 100
+Sleep cycles: 8
+Mode flips: 36
+
+Final Metrics:
+  Coherence (C_total): 0.558
+  - Evidence (Ce): 0.065
+  - Historical (Ch): 0.984
+  - Structural (Cs): 0.984
+  - Identity (Ci): 0.474
+  - Predictive (Cp): 0.500
+
+Drive States:
+  coherence: 0.46
+  uncertainty: 0.10
+  prediction_error: 0.66
+  novelty: 1.00
+  energy: 0.99
+  social_commitment: 0.10
+
+Affective State:
+  Emotion: frustrated
+  Mood: 0.58
+
+Memory:
+  Grounded facts: 4
+  Ungrounded notes: 15
+  Quarantined: 2
+
+Agency:
+  Self-initiated actions: 84/100
+  External-triggered actions: 16/100
+  Causal Closure Ratio (self-initiated/total): 84.00%
+
+Claim Ledger:
+  Total claims: 128
+  Verified claims: 1
+  Failed claims: 2
+  Uncertain claims: 125
+  Pending claims: 0
+
+Narrative:
+  Current arc: exploration
+  Theme: discovering capabilities
+
+============================================================
+State saved to: /content/drive/MyDrive/crsscp_state.json
+Logs saved to: /content/drive/MyDrive/crsscp_logs.txt
+============================================================
+
