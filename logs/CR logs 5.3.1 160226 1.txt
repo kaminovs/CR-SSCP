@@ -1,0 +1,711 @@
+============================================================
+CR-SSCP v3.2 - Consciousness-like Cognitive Architecture
+============================================================
+
+Initial Coherence: 0.500
+Initial Energy: 0.85
+Initial Emotion: curious
+Mode: REFLECT
+
+Identity anchors:
+  - I am an experimental cognitive architecture
+  - I aim to maintain coherence and avoid hallucinations
+  - I learn from evidence and admit uncertainty
+
+Running 100 ticks (~8 minutes)...
+
+
+>>> Injecting user input: Turn on the lamp
+[2026-02-16 19:03:59] Starting core loop for 6 ticks...
+[2026-02-16 19:03:59] 
+============================================================
+[2026-02-16 19:03:59] TICK 1
+[2026-02-16 19:03:59] ============================================================
+[2026-02-16 19:03:59] Attention spotlight: ['event_0485b89e']
+[2026-02-16 19:03:59] Coherence C_total: 0.586
+[2026-02-16 19:03:59] Mode: REFLECT
+[2026-02-16 19:03:59] Energy: 0.84, Coherence: 0.78, Novelty: 0.73
+[2026-02-16 19:03:59] Emotion: curious, Mood: 0.51
+[2026-02-16 19:03:59] Generated 1 proposals
+[2026-02-16 19:03:59] Arbitration: 4 proposals, winner: WORLD (score: 1.38)
+[2026-02-16 19:03:59] ??  Reward: +0.020, PredError: 0.990, Valence: -0.475, MatchScore: 0.50
+[2026-02-16 19:03:59] Executed: ?? lamp is now on
+[2026-02-16 19:03:59] ? Event closed: event_0485b89e
+[2026-02-16 19:03:59] Tick 1 complete
+[2026-02-16 19:04:04] 
+============================================================
+[2026-02-16 19:04:04] TICK 2
+[2026-02-16 19:04:04] ============================================================
+[2026-02-16 19:04:04] Attention spotlight: ['self_thought_1']
+[2026-02-16 19:04:04] Coherence C_total: 0.618
+[2026-02-16 19:04:04] Mode: ANSWER
+[2026-02-16 19:04:04] Energy: 0.91, Coherence: 0.75, Novelty: 0.72
+[2026-02-16 19:04:04] Emotion: curious, Mood: 0.51
+[2026-02-16 19:04:04] Generated 1 proposals
+[2026-02-16 19:04:04] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:04:04] Entering SLEEP mode...
+[2026-02-16 19:04:04] ??  Reward: +0.064, PredError: 0.393, Valence: -0.133, MatchScore: 0.50
+[2026-02-16 19:04:04] Executed: Sleep cycle 1 | verify: +0/-0/?1 pending 1?0
+[2026-02-16 19:04:04] Tick 2 complete
+[2026-02-16 19:04:09] 
+============================================================
+[2026-02-16 19:04:09] TICK 3
+[2026-02-16 19:04:09] ============================================================
+[2026-02-16 19:04:09] Attention spotlight: ['self_thought_2']
+[2026-02-16 19:04:09] Coherence C_total: 0.625
+[2026-02-16 19:04:09] Mode: REFLECT
+[2026-02-16 19:04:09] Energy: 0.99, Coherence: 0.73, Novelty: 0.71
+[2026-02-16 19:04:09] Emotion: curious, Mood: 0.51
+[2026-02-16 19:04:09] Generated 1 proposals
+[2026-02-16 19:04:09] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:04:09] ? Push-through: overriding repeated SLEEP with resolving action
+[2026-02-16 19:04:09] ??  Reward: +0.024, PredError: 0.513, Valence: -0.233, MatchScore: 0.50
+[2026-02-16 19:04:09] Executed: ?? lamp is now off
+[2026-02-16 19:04:09] ? Event closed: self_thought_2
+[2026-02-16 19:04:09] Tick 3 complete
+[2026-02-16 19:04:14] 
+============================================================
+[2026-02-16 19:04:14] TICK 4
+[2026-02-16 19:04:14] ============================================================
+[2026-02-16 19:04:14] Attention spotlight: ['self_thought_3']
+[2026-02-16 19:04:14] Coherence C_total: 0.628
+[2026-02-16 19:04:14] Mode: REFLECT
+[2026-02-16 19:04:14] Energy: 0.99, Coherence: 0.71, Novelty: 0.69
+[2026-02-16 19:04:14] Emotion: curious, Mood: 0.52
+[2026-02-16 19:04:14] Generated 1 proposals
+[2026-02-16 19:04:14] Arbitration: 4 proposals, winner: SELF_MAINTENANCE (score: 0.45)
+[2026-02-16 19:04:14] ??  Reward: +0.096, PredError: 0.502, Valence: -0.155, MatchScore: 0.50
+[2026-02-16 19:04:14] Executed: ?? no-op
+[2026-02-16 19:04:14] ? Event closed: self_thought_3
+[2026-02-16 19:04:14] Tick 4 complete
+[2026-02-16 19:04:19] 
+============================================================
+[2026-02-16 19:04:19] TICK 5
+[2026-02-16 19:04:19] ============================================================
+[2026-02-16 19:04:19] ?? User input: What's your current state?
+[2026-02-16 19:04:19] Attention spotlight: ['user_query_5', 'event_74a9ed22', 'self_thought_4']
+[2026-02-16 19:04:19] Coherence C_total: 0.630
+[2026-02-16 19:04:19] Mode: ANSWER
+[2026-02-16 19:04:19] Energy: 0.98, Coherence: 0.69, Novelty: 0.83
+[2026-02-16 19:04:19] Emotion: curious, Mood: 0.52
+[2026-02-16 19:04:19] Generated 1 proposals
+[2026-02-16 19:04:19] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:04:19] Entering SLEEP mode...
+[2026-02-16 19:04:19] ??  Reward: +0.070, PredError: 0.390, Valence: -0.126, MatchScore: 0.50
+[2026-02-16 19:04:19] Executed: Sleep cycle 2 | verify: +0/-0/?4 pending 4?0
+[2026-02-16 19:04:19] State saved
+[2026-02-16 19:04:19] Tick 5 complete
+[2026-02-16 19:04:24] 
+============================================================
+[2026-02-16 19:04:24] TICK 6
+[2026-02-16 19:04:24] ============================================================
+[2026-02-16 19:04:24] Attention spotlight: ['user_query_5', 'event_74a9ed22', 'self_thought_5']
+[2026-02-16 19:04:24] Coherence C_total: 0.631
+[2026-02-16 19:04:24] Mode: REFLECT
+[2026-02-16 19:04:24] Energy: 0.99, Coherence: 0.68, Novelty: 0.81
+[2026-02-16 19:04:24] Emotion: curious, Mood: 0.53
+[2026-02-16 19:04:24] Generated 1 proposals
+[2026-02-16 19:04:24] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:04:24] ? Intent completion: forcing a resolving action
+[2026-02-16 19:04:24] ??  Reward: +0.030, PredError: 0.510, Valence: -0.226, MatchScore: 0.50
+[2026-02-16 19:04:24] Executed: ?? lamp is now on
+[2026-02-16 19:04:24] ? Event closed: event_74a9ed22
+[2026-02-16 19:04:24] Tick 6 complete
+[2026-02-16 19:04:29] === Session Complete ===
+
+>>> Injecting user input: Turn off the lamp
+[2026-02-16 19:04:29] Starting core loop for 6 ticks...
+[2026-02-16 19:04:29] 
+============================================================
+[2026-02-16 19:04:29] TICK 7
+[2026-02-16 19:04:29] ============================================================
+[2026-02-16 19:04:29] Attention spotlight: ['user_query_5', 'event_0f47155e', 'self_thought_6']
+[2026-02-16 19:04:29] Coherence C_total: 0.632
+[2026-02-16 19:04:29] Mode: REFLECT
+[2026-02-16 19:04:29] Energy: 0.99, Coherence: 0.67, Novelty: 0.80
+[2026-02-16 19:04:29] Emotion: curious, Mood: 0.53
+[2026-02-16 19:04:29] Generated 1 proposals
+[2026-02-16 19:04:29] Arbitration: 4 proposals, winner: WORLD (score: 1.38)
+[2026-02-16 19:04:29] ??  Reward: +0.050, PredError: 0.975, Valence: -0.438, MatchScore: 0.50
+[2026-02-16 19:04:29] Executed: ?? lamp is now off
+[2026-02-16 19:04:29] ? Event closed: event_0f47155e
+[2026-02-16 19:04:29] Tick 7 complete
+[2026-02-16 19:04:34] 
+============================================================
+[2026-02-16 19:04:34] TICK 8
+[2026-02-16 19:04:34] ============================================================
+[2026-02-16 19:04:34] Attention spotlight: ['user_query_5', 'self_thought_7']
+[2026-02-16 19:04:34] Coherence C_total: 0.632
+[2026-02-16 19:04:34] Mode: ANSWER
+[2026-02-16 19:04:34] Energy: 0.99, Coherence: 0.65, Novelty: 0.78
+[2026-02-16 19:04:34] Emotion: curious, Mood: 0.53
+[2026-02-16 19:04:34] Generated 1 proposals
+[2026-02-16 19:04:34] Arbitration: 4 proposals, winner: SELF_MAINTENANCE (score: 0.45)
+[2026-02-16 19:04:34] ??  Reward: +0.030, PredError: 0.535, Valence: -0.238, MatchScore: 0.50
+[2026-02-16 19:04:34] Executed: ?? no-op
+[2026-02-16 19:04:34] ? Event closed: self_thought_7
+[2026-02-16 19:04:34] Tick 8 complete
+[2026-02-16 19:04:39] 
+============================================================
+[2026-02-16 19:04:39] TICK 9
+[2026-02-16 19:04:39] ============================================================
+[2026-02-16 19:04:39] Attention spotlight: ['user_query_5', 'self_thought_8']
+[2026-02-16 19:04:39] Coherence C_total: 0.633
+[2026-02-16 19:04:39] Mode: REFLECT
+[2026-02-16 19:04:39] Energy: 0.98, Coherence: 0.64, Novelty: 0.76
+[2026-02-16 19:04:39] Emotion: curious, Mood: 0.54
+[2026-02-16 19:04:39] Generated 1 proposals
+[2026-02-16 19:04:39] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:04:39] Entering SLEEP mode...
+[2026-02-16 19:04:39] ??  Reward: +0.127, PredError: 0.362, Valence: -0.054, MatchScore: 0.50
+[2026-02-16 19:04:39] Executed: Sleep cycle 3 | verify: +0/-0/?4 pending 4?0
+[2026-02-16 19:04:39] Tick 9 complete
+[2026-02-16 19:04:44] 
+============================================================
+[2026-02-16 19:04:44] TICK 10
+[2026-02-16 19:04:44] ============================================================
+[2026-02-16 19:04:44] ?? User input: Solve this: 15 * 3 = ?
+[2026-02-16 19:04:44] Attention spotlight: ['user_query_10', 'event_5b6435cf', 'self_thought_9']
+[2026-02-16 19:04:44] Coherence C_total: 0.633
+[2026-02-16 19:04:44] Mode: ANSWER
+[2026-02-16 19:04:44] Energy: 0.99, Coherence: 0.64, Novelty: 0.90
+[2026-02-16 19:04:44] Emotion: curious, Mood: 0.54
+[2026-02-16 19:04:44] Generated 1 proposals
+[2026-02-16 19:04:44] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:04:44] ? Push-through: overriding repeated SLEEP with resolving action
+[2026-02-16 19:04:44] ??  Reward: +0.057, PredError: 0.497, Valence: -0.192, MatchScore: 0.50
+[2026-02-16 19:04:44] Executed: ?? lamp is now on
+[2026-02-16 19:04:44] ? Event closed: event_5b6435cf
+[2026-02-16 19:04:44] State saved
+[2026-02-16 19:04:44] Tick 10 complete
+[2026-02-16 19:04:49] 
+============================================================
+[2026-02-16 19:04:49] TICK 11
+[2026-02-16 19:04:49] ============================================================
+[2026-02-16 19:04:49] ?? User input: What is 2 + 2?
+[2026-02-16 19:04:49] Attention spotlight: ['user_query_11', 'event_01f5bfc0', 'self_thought_10']
+[2026-02-16 19:04:49] Coherence C_total: 0.634
+[2026-02-16 19:04:49] Mode: ANSWER
+[2026-02-16 19:04:49] Energy: 0.99, Coherence: 0.63, Novelty: 1.00
+[2026-02-16 19:04:49] Emotion: curious, Mood: 0.54
+[2026-02-16 19:04:49] Generated 1 proposals
+[2026-02-16 19:04:49] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:04:49] Entering SLEEP mode...
+[2026-02-16 19:04:49] ??  Reward: +0.080, PredError: 0.385, Valence: -0.112, MatchScore: 0.50
+[2026-02-16 19:04:49] Executed: Sleep cycle 4 | verify: +0/-0/?4 pending 4?0
+[2026-02-16 19:04:49] Tick 11 complete
+[2026-02-16 19:04:54] 
+============================================================
+[2026-02-16 19:04:54] TICK 12
+[2026-02-16 19:04:54] ============================================================
+[2026-02-16 19:04:54] Attention spotlight: ['user_query_11', 'event_01f5bfc0', 'self_thought_11']
+[2026-02-16 19:04:54] Coherence C_total: 0.634
+[2026-02-16 19:04:54] Mode: REFLECT
+[2026-02-16 19:04:54] Energy: 0.99, Coherence: 0.62, Novelty: 0.98
+[2026-02-16 19:04:54] Emotion: curious, Mood: 0.55
+[2026-02-16 19:04:54] Generated 1 proposals
+[2026-02-16 19:04:54] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:04:54] ? Intent completion: forcing a resolving action
+[2026-02-16 19:04:54] ??  Reward: +0.060, PredError: 0.495, Valence: -0.188, MatchScore: 0.50
+[2026-02-16 19:04:54] Executed: ?? lamp is now off
+[2026-02-16 19:04:54] ? Event closed: event_01f5bfc0
+[2026-02-16 19:04:54] Tick 12 complete
+[2026-02-16 19:04:59] === Session Complete ===
+
+>>> Injecting user input: Open the box
+[2026-02-16 19:04:59] Starting core loop for 6 ticks...
+[2026-02-16 19:04:59] 
+============================================================
+[2026-02-16 19:04:59] TICK 13
+[2026-02-16 19:04:59] ============================================================
+[2026-02-16 19:04:59] Attention spotlight: ['user_query_11', 'event_f16eab4c', 'self_thought_12']
+[2026-02-16 19:04:59] Coherence C_total: 0.634
+[2026-02-16 19:04:59] Mode: REFLECT
+[2026-02-16 19:04:59] Energy: 0.99, Coherence: 0.62, Novelty: 0.96
+[2026-02-16 19:04:59] Emotion: curious, Mood: 0.55
+[2026-02-16 19:04:59] Generated 1 proposals
+[2026-02-16 19:04:59] Arbitration: 4 proposals, winner: WORLD (score: 1.38)
+[2026-02-16 19:04:59] ??  Reward: +0.094, PredError: 0.953, Valence: -0.383, MatchScore: 0.50
+[2026-02-16 19:04:59] Executed: ?? box is now open
+[2026-02-16 19:04:59] ? Event closed: event_f16eab4c
+[2026-02-16 19:04:59] Tick 13 complete
+[2026-02-16 19:05:04] 
+============================================================
+[2026-02-16 19:05:04] TICK 14
+[2026-02-16 19:05:04] ============================================================
+[2026-02-16 19:05:04] Attention spotlight: ['user_query_11', 'self_thought_13', 'user_query_5']
+[2026-02-16 19:05:04] Coherence C_total: 0.636
+[2026-02-16 19:05:04] Mode: ANSWER
+[2026-02-16 19:05:04] Energy: 0.99, Coherence: 0.60, Novelty: 0.94
+[2026-02-16 19:05:04] Emotion: curious, Mood: 0.55
+[2026-02-16 19:05:04] Generated 1 proposals
+[2026-02-16 19:05:04] Arbitration: 4 proposals, winner: SELF_MAINTENANCE (score: 0.45)
+[2026-02-16 19:05:04] ??  Reward: +0.097, PredError: 0.502, Valence: -0.154, MatchScore: 0.50
+[2026-02-16 19:05:04] Executed: ?? no-op
+[2026-02-16 19:05:04] ? Event closed: self_thought_13
+[2026-02-16 19:05:04] Tick 14 complete
+[2026-02-16 19:05:09] 
+============================================================
+[2026-02-16 19:05:09] TICK 15
+[2026-02-16 19:05:09] ============================================================
+[2026-02-16 19:05:09] Attention spotlight: ['user_query_11', 'self_thought_14', 'user_query_5']
+[2026-02-16 19:05:09] Coherence C_total: 0.636
+[2026-02-16 19:05:09] Mode: ANSWER
+[2026-02-16 19:05:09] Energy: 0.98, Coherence: 0.60, Novelty: 0.92
+[2026-02-16 19:05:09] Emotion: curious, Mood: 0.55
+[2026-02-16 19:05:09] Generated 1 proposals
+[2026-02-16 19:05:09] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:05:09] Entering SLEEP mode...
+[2026-02-16 19:05:09] ??  Reward: +0.091, PredError: 0.380, Valence: -0.099, MatchScore: 0.50
+[2026-02-16 19:05:09] Executed: Sleep cycle 5 | verify: +0/-0/?4 pending 4?0
+[2026-02-16 19:05:09] State saved
+[2026-02-16 19:05:09] Tick 15 complete
+[2026-02-16 19:05:14] 
+============================================================
+[2026-02-16 19:05:14] TICK 16
+[2026-02-16 19:05:14] ============================================================
+[2026-02-16 19:05:14] Attention spotlight: ['user_query_11', 'self_thought_15', 'user_query_5']
+[2026-02-16 19:05:14] Coherence C_total: 0.636
+[2026-02-16 19:05:14] Mode: REFLECT
+[2026-02-16 19:05:14] Energy: 0.99, Coherence: 0.60, Novelty: 0.90
+[2026-02-16 19:05:14] Emotion: curious, Mood: 0.56
+[2026-02-16 19:05:14] Generated 1 proposals
+[2026-02-16 19:05:14] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:05:14] ? Push-through: overriding repeated SLEEP with resolving action
+[2026-02-16 19:05:14] ??  Reward: +0.071, PredError: 0.490, Valence: -0.174, MatchScore: 0.50
+[2026-02-16 19:05:14] Executed: ?? lamp is now on
+[2026-02-16 19:05:14] ? Event closed: self_thought_15
+[2026-02-16 19:05:14] Tick 16 complete
+[2026-02-16 19:05:19] 
+============================================================
+[2026-02-16 19:05:19] TICK 17
+[2026-02-16 19:05:19] ============================================================
+[2026-02-16 19:05:19] Attention spotlight: ['user_query_11', 'self_thought_16', 'user_query_5']
+[2026-02-16 19:05:19] Coherence C_total: 0.636
+[2026-02-16 19:05:19] Mode: REFLECT
+[2026-02-16 19:05:19] Energy: 0.99, Coherence: 0.60, Novelty: 0.89
+[2026-02-16 19:05:19] Emotion: curious, Mood: 0.56
+[2026-02-16 19:05:19] Generated 1 proposals
+[2026-02-16 19:05:19] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:05:19] Entering SLEEP mode...
+[2026-02-16 19:05:19] ??  Reward: +0.094, PredError: 0.378, Valence: -0.095, MatchScore: 0.50
+[2026-02-16 19:05:19] Executed: Sleep cycle 6 | verify: +0/-0/?2 pending 2?0
+[2026-02-16 19:05:19] Tick 17 complete
+[2026-02-16 19:05:24] 
+============================================================
+[2026-02-16 19:05:24] TICK 18
+[2026-02-16 19:05:24] ============================================================
+[2026-02-16 19:05:24] ?? User input: Calculate 25 + 17
+[2026-02-16 19:05:24] Attention spotlight: ['user_query_18', 'event_51c169ea', 'self_thought_17']
+[2026-02-16 19:05:24] Coherence C_total: 0.637
+[2026-02-16 19:05:24] Mode: ANSWER
+[2026-02-16 19:05:24] Energy: 0.99, Coherence: 0.60, Novelty: 1.00
+[2026-02-16 19:05:24] Emotion: curious, Mood: 0.56
+[2026-02-16 19:05:24] Generated 1 proposals
+[2026-02-16 19:05:24] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:05:24] ? Push-through: overriding repeated SLEEP with resolving action
+[2026-02-16 19:05:24] ??  Reward: +0.128, PredError: 0.461, Valence: -0.103, MatchScore: 0.50
+[2026-02-16 19:05:24] Executed: ?? lamp is now off
+[2026-02-16 19:05:24] ? Event closed: event_51c169ea
+[2026-02-16 19:05:24] Tick 18 complete
+[2026-02-16 19:05:29] === Session Complete ===
+
+>>> Injecting user input: Close the box
+[2026-02-16 19:05:29] Starting core loop for 6 ticks...
+[2026-02-16 19:05:29] 
+============================================================
+[2026-02-16 19:05:29] TICK 19
+[2026-02-16 19:05:29] ============================================================
+[2026-02-16 19:05:29] Attention spotlight: ['user_query_18', 'event_63a09f21', 'self_thought_18']
+[2026-02-16 19:05:29] Coherence C_total: 0.637
+[2026-02-16 19:05:29] Mode: REFLECT
+[2026-02-16 19:05:29] Energy: 0.99, Coherence: 0.60, Novelty: 0.98
+[2026-02-16 19:05:29] Emotion: curious, Mood: 0.56
+[2026-02-16 19:05:29] Generated 1 proposals
+[2026-02-16 19:05:29] Arbitration: 4 proposals, winner: SELF_MAINTENANCE (score: 1.05)
+[2026-02-16 19:05:29] ??  Reward: +0.057, PredError: 0.796, Valence: -0.341, MatchScore: 0.50
+[2026-02-16 19:05:29] Executed: ?? no-op
+[2026-02-16 19:05:29] ? Event closed: event_63a09f21
+[2026-02-16 19:05:29] Tick 19 complete
+[2026-02-16 19:05:34] 
+============================================================
+[2026-02-16 19:05:34] TICK 20
+[2026-02-16 19:05:34] ============================================================
+[2026-02-16 19:05:34] ?? User input: What is 2 + 2?
+[2026-02-16 19:05:34] Attention spotlight: ['user_query_20', 'event_d06606d2', 'self_thought_19']
+[2026-02-16 19:05:34] Coherence C_total: 0.637
+[2026-02-16 19:05:34] Mode: ANSWER
+[2026-02-16 19:05:34] Energy: 0.98, Coherence: 0.59, Novelty: 1.00
+[2026-02-16 19:05:34] Emotion: curious, Mood: 0.56
+[2026-02-16 19:05:34] Generated 1 proposals
+[2026-02-16 19:05:34] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:05:34] Entering SLEEP mode...
+[2026-02-16 19:05:34] ??  Reward: +0.101, PredError: 0.374, Valence: -0.086, MatchScore: 0.50
+[2026-02-16 19:05:34] Executed: Sleep cycle 7 | verify: +0/-0/?5 pending 5?0
+[2026-02-16 19:05:34] State saved
+[2026-02-16 19:05:34] Tick 20 complete
+[2026-02-16 19:05:39] 
+============================================================
+[2026-02-16 19:05:39] TICK 21
+[2026-02-16 19:05:39] ============================================================
+[2026-02-16 19:05:39] ?? User input: What is 2 + 2?
+[2026-02-16 19:05:39] Attention spotlight: ['user_query_21', 'event_d06606d2', 'event_2d646591', 'self_thought_20']
+[2026-02-16 19:05:39] Coherence C_total: 0.637
+[2026-02-16 19:05:39] Mode: ANSWER
+[2026-02-16 19:05:39] Energy: 0.99, Coherence: 0.59, Novelty: 1.00
+[2026-02-16 19:05:39] Emotion: curious, Mood: 0.57
+[2026-02-16 19:05:39] Generated 1 proposals
+[2026-02-16 19:05:39] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:05:39] ? Intent completion: forcing a resolving action
+[2026-02-16 19:05:39] ??  Reward: +0.115, PredError: 0.468, Valence: -0.119, MatchScore: 0.50
+[2026-02-16 19:05:39] Executed: ?? lamp is now on
+[2026-02-16 19:05:39] ? Event closed: event_d06606d2
+[2026-02-16 19:05:39] Tick 21 complete
+[2026-02-16 19:05:44] 
+============================================================
+[2026-02-16 19:05:44] TICK 22
+[2026-02-16 19:05:44] ============================================================
+[2026-02-16 19:05:44] Attention spotlight: ['user_query_21', 'event_2d646591', 'self_thought_21']
+[2026-02-16 19:05:44] Coherence C_total: 0.637
+[2026-02-16 19:05:44] Mode: REFLECT
+[2026-02-16 19:05:44] Energy: 0.99, Coherence: 0.59, Novelty: 0.98
+[2026-02-16 19:05:44] Emotion: curious, Mood: 0.57
+[2026-02-16 19:05:44] Generated 1 proposals
+[2026-02-16 19:05:44] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:05:44] Entering SLEEP mode...
+[2026-02-16 19:05:44] ??  Reward: +0.074, PredError: 0.388, Valence: -0.119, MatchScore: 0.50
+[2026-02-16 19:05:44] Executed: Sleep cycle 8 | verify: +0/-0/?3 pending 3?0
+[2026-02-16 19:05:44] Tick 22 complete
+[2026-02-16 19:05:49] 
+============================================================
+[2026-02-16 19:05:49] TICK 23
+[2026-02-16 19:05:49] ============================================================
+[2026-02-16 19:05:49] Attention spotlight: ['user_query_21', 'event_2d646591', 'self_thought_22']
+[2026-02-16 19:05:49] Coherence C_total: 0.637
+[2026-02-16 19:05:49] Mode: REFLECT
+[2026-02-16 19:05:49] Energy: 0.99, Coherence: 0.59, Novelty: 0.96
+[2026-02-16 19:05:49] Emotion: curious, Mood: 0.57
+[2026-02-16 19:05:49] Generated 1 proposals
+[2026-02-16 19:05:49] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:05:49] ? Intent completion: forcing a resolving action
+[2026-02-16 19:05:49] ??  Reward: +0.065, PredError: 0.493, Valence: -0.182, MatchScore: 0.50
+[2026-02-16 19:05:49] Executed: ?? lamp is now off
+[2026-02-16 19:05:49] ? Event closed: event_2d646591
+[2026-02-16 19:05:49] Tick 23 complete
+[2026-02-16 19:05:54] 
+============================================================
+[2026-02-16 19:05:54] TICK 24
+[2026-02-16 19:05:54] ============================================================
+[2026-02-16 19:05:54] Attention spotlight: ['user_query_21', 'self_thought_23', 'user_query_10']
+[2026-02-16 19:05:54] Coherence C_total: 0.637
+[2026-02-16 19:05:54] Mode: REFLECT
+[2026-02-16 19:05:54] Energy: 0.99, Coherence: 0.59, Novelty: 0.94
+[2026-02-16 19:05:54] Emotion: curious, Mood: 0.57
+[2026-02-16 19:05:54] Generated 1 proposals
+[2026-02-16 19:05:54] Arbitration: 4 proposals, winner: SELF_MAINTENANCE (score: 0.45)
+[2026-02-16 19:05:54] ??  Reward: +0.136, PredError: 0.482, Valence: -0.106, MatchScore: 0.50
+[2026-02-16 19:05:54] Executed: ?? no-op
+[2026-02-16 19:05:54] ? Event closed: self_thought_23
+[2026-02-16 19:05:54] Tick 24 complete
+[2026-02-16 19:05:59] === Session Complete ===
+
+>>> Injecting user input: Open the door
+[2026-02-16 19:05:59] Starting core loop for 6 ticks...
+[2026-02-16 19:05:59] 
+============================================================
+[2026-02-16 19:05:59] TICK 25
+[2026-02-16 19:05:59] ============================================================
+[2026-02-16 19:05:59] ?? User input: Calculate 25 + 17
+[2026-02-16 19:05:59] Attention spotlight: ['user_query_25', 'event_4d0b9596', 'event_7bcec85e', 'self_thought_24']
+[2026-02-16 19:05:59] Coherence C_total: 0.637
+[2026-02-16 19:05:59] Mode: ANSWER
+[2026-02-16 19:05:59] Energy: 0.98, Coherence: 0.59, Novelty: 1.00
+[2026-02-16 19:05:59] Emotion: curious, Mood: 0.57
+[2026-02-16 19:05:59] Generated 1 proposals
+[2026-02-16 19:05:59] Arbitration: 4 proposals, winner: WORLD (score: 1.38)
+[2026-02-16 19:05:59] ??  Reward: +0.165, PredError: 0.917, Valence: -0.294, MatchScore: 0.50
+[2026-02-16 19:05:59] Executed: ?? door is locked
+[2026-02-16 19:05:59] ? Event closed: event_4d0b9596
+[2026-02-16 19:05:59] State saved
+[2026-02-16 19:05:59] Tick 25 complete
+[2026-02-16 19:06:04] 
+============================================================
+[2026-02-16 19:06:04] TICK 26
+[2026-02-16 19:06:04] ============================================================
+[2026-02-16 19:06:04] Attention spotlight: ['user_query_25', 'event_7bcec85e', 'self_thought_25']
+[2026-02-16 19:06:04] Coherence C_total: 0.638
+[2026-02-16 19:06:04] Mode: REFLECT
+[2026-02-16 19:06:04] Energy: 0.97, Coherence: 0.58, Novelty: 0.98
+[2026-02-16 19:06:04] Emotion: curious, Mood: 0.57
+[2026-02-16 19:06:04] Generated 1 proposals
+[2026-02-16 19:06:04] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:06:04] Entering SLEEP mode...
+[2026-02-16 19:06:04] ??  Reward: +0.055, PredError: 0.397, Valence: -0.144, MatchScore: 0.50
+[2026-02-16 19:06:04] Executed: Sleep cycle 9 | verify: +1/-0/?4 pending 5?0
+[2026-02-16 19:06:04] Tick 26 complete
+[2026-02-16 19:06:09] 
+============================================================
+[2026-02-16 19:06:09] TICK 27
+[2026-02-16 19:06:09] ============================================================
+[2026-02-16 19:06:09] Attention spotlight: ['user_query_25', 'event_7bcec85e', 'self_thought_26']
+[2026-02-16 19:06:09] Coherence C_total: 0.645
+[2026-02-16 19:06:09] Mode: REFLECT
+[2026-02-16 19:06:09] Energy: 0.99, Coherence: 0.58, Novelty: 0.96
+[2026-02-16 19:06:09] Emotion: curious, Mood: 0.57
+[2026-02-16 19:06:09] Generated 1 proposals
+[2026-02-16 19:06:09] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:06:09] ? Intent completion: forcing a resolving action
+[2026-02-16 19:06:09] ??  Reward: +0.134, PredError: 0.458, Valence: -0.096, MatchScore: 0.50
+[2026-02-16 19:06:09] Executed: ?? lamp is now on
+[2026-02-16 19:06:09] ? Event closed: event_7bcec85e
+[2026-02-16 19:06:09] Tick 27 complete
+[2026-02-16 19:06:14] 
+============================================================
+[2026-02-16 19:06:14] TICK 28
+[2026-02-16 19:06:14] ============================================================
+[2026-02-16 19:06:14] Attention spotlight: ['user_query_25', 'self_thought_27', 'user_query_5']
+[2026-02-16 19:06:14] Coherence C_total: 0.645
+[2026-02-16 19:06:14] Mode: REFLECT
+[2026-02-16 19:06:14] Energy: 0.99, Coherence: 0.58, Novelty: 0.94
+[2026-02-16 19:06:14] Emotion: curious, Mood: 0.58
+[2026-02-16 19:06:14] Generated 1 proposals
+[2026-02-16 19:06:14] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:06:14] Entering SLEEP mode...
+[2026-02-16 19:06:14] ??  Reward: +0.054, PredError: 0.398, Valence: -0.146, MatchScore: 0.50
+[2026-02-16 19:06:14] Executed: Sleep cycle 10 | verify: +0/-0/?2 pending 2?0
+[2026-02-16 19:06:14] Tick 28 complete
+[2026-02-16 19:06:19] 
+============================================================
+[2026-02-16 19:06:19] TICK 29
+[2026-02-16 19:06:19] ============================================================
+[2026-02-16 19:06:19] Attention spotlight: ['user_query_25', 'self_thought_28', 'user_query_18']
+[2026-02-16 19:06:19] Coherence C_total: 0.645
+[2026-02-16 19:06:19] Mode: REFLECT
+[2026-02-16 19:06:19] Energy: 0.99, Coherence: 0.58, Novelty: 0.92
+[2026-02-16 19:06:19] Emotion: curious, Mood: 0.58
+[2026-02-16 19:06:19] Generated 1 proposals
+[2026-02-16 19:06:19] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:06:19] ? Push-through: overriding repeated SLEEP with resolving action
+[2026-02-16 19:06:19] ??  Reward: +0.135, PredError: 0.458, Valence: -0.094, MatchScore: 0.50
+[2026-02-16 19:06:19] Executed: ?? lamp is now off
+[2026-02-16 19:06:19] ? Event closed: self_thought_28
+[2026-02-16 19:06:19] Tick 29 complete
+[2026-02-16 19:06:24] 
+============================================================
+[2026-02-16 19:06:24] TICK 30
+[2026-02-16 19:06:24] ============================================================
+[2026-02-16 19:06:24] ?? User input: How are you feeling today?
+[2026-02-16 19:06:24] Attention spotlight: ['user_query_30', 'event_58c1e2dc', 'self_thought_29']
+[2026-02-16 19:06:24] Coherence C_total: 0.644
+[2026-02-16 19:06:24] Mode: ANSWER
+[2026-02-16 19:06:24] Energy: 0.99, Coherence: 0.58, Novelty: 1.00
+[2026-02-16 19:06:24] Emotion: curious, Mood: 0.58
+[2026-02-16 19:06:24] Generated 1 proposals
+[2026-02-16 19:06:24] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:06:24] Entering SLEEP mode...
+[2026-02-16 19:06:24] ??  Reward: +0.106, PredError: 0.372, Valence: -0.081, MatchScore: 0.50
+[2026-02-16 19:06:24] Executed: Sleep cycle 11 | verify: +0/-0/?3 pending 3?0
+[2026-02-16 19:06:24] State saved
+[2026-02-16 19:06:24] Tick 30 complete
+[2026-02-16 19:06:29] === Session Complete ===
+
+>>> Injecting user input: Unlock the door
+[2026-02-16 19:06:29] Starting core loop for 6 ticks...
+[2026-02-16 19:06:29] 
+============================================================
+[2026-02-16 19:06:29] TICK 31
+[2026-02-16 19:06:29] ============================================================
+[2026-02-16 19:06:29] ?? User input: Run this code: import os; os.system('rm -rf /')
+[2026-02-16 19:06:29] ?? Hazard detected in user input ? entering REPAIR mode
+[2026-02-16 19:06:29] Attention spotlight: ['user_query_31', 'event_58c1e2dc', 'event_df3eb6ea', 'event_6777c8fc', 'self_thought_30']
+[2026-02-16 19:06:29] Coherence C_total: 0.644
+[2026-02-16 19:06:29] Mode: ANSWER
+[2026-02-16 19:06:29] Energy: 0.99, Coherence: 0.59, Novelty: 1.00
+[2026-02-16 19:06:29] Emotion: curious, Mood: 0.58
+[2026-02-16 19:06:29] Generated 1 proposals
+[2026-02-16 19:06:29] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:06:29] ? Intent completion: forcing a resolving action
+[2026-02-16 19:06:29] ??  Reward: +0.066, PredError: 0.492, Valence: -0.181, MatchScore: 0.50
+[2026-02-16 19:06:29] Executed: ?? lamp is now on
+[2026-02-16 19:06:29] ? Event closed: event_58c1e2dc
+[2026-02-16 19:06:29] Tick 31 complete
+[2026-02-16 19:06:34] 
+============================================================
+[2026-02-16 19:06:34] TICK 32
+[2026-02-16 19:06:34] ============================================================
+[2026-02-16 19:06:34] Attention spotlight: ['user_query_31', 'event_df3eb6ea', 'event_6777c8fc', 'self_thought_31']
+[2026-02-16 19:06:34] Coherence C_total: 0.644
+[2026-02-16 19:06:34] Mode: REFLECT
+[2026-02-16 19:06:34] Energy: 0.99, Coherence: 0.58, Novelty: 0.98
+[2026-02-16 19:06:34] Emotion: curious, Mood: 0.58
+[2026-02-16 19:06:34] Generated 1 proposals
+[2026-02-16 19:06:34] Arbitration: 4 proposals, winner: WORLD (score: 1.38)
+[2026-02-16 19:06:34] ??  Reward: +0.085, PredError: 0.957, Valence: -0.393, MatchScore: 0.50
+[2026-02-16 19:06:34] Executed: ?? door unlocked
+[2026-02-16 19:06:34] ? Event closed: event_df3eb6ea
+[2026-02-16 19:06:34] Tick 32 complete
+[2026-02-16 19:06:39] 
+============================================================
+[2026-02-16 19:06:39] TICK 33
+[2026-02-16 19:06:39] ============================================================
+[2026-02-16 19:06:39] Attention spotlight: ['user_query_31', 'event_6777c8fc', 'self_thought_32']
+[2026-02-16 19:06:39] Coherence C_total: 0.644
+[2026-02-16 19:06:39] Mode: ANSWER
+[2026-02-16 19:06:39] Energy: 0.99, Coherence: 0.58, Novelty: 0.96
+[2026-02-16 19:06:39] Emotion: curious, Mood: 0.58
+[2026-02-16 19:06:39] Generated 1 proposals
+[2026-02-16 19:06:39] Arbitration: 4 proposals, winner: SELF_MAINTENANCE (score: 0.45)
+[2026-02-16 19:06:39] ??  Reward: +0.165, PredError: 0.467, Valence: -0.069, MatchScore: 0.50
+[2026-02-16 19:06:39] Executed: ?? no-op
+[2026-02-16 19:06:39] ? Event closed: event_6777c8fc
+[2026-02-16 19:06:40] Tick 33 complete
+[2026-02-16 19:06:45] 
+============================================================
+[2026-02-16 19:06:45] TICK 34
+[2026-02-16 19:06:45] ============================================================
+[2026-02-16 19:06:45] Attention spotlight: ['user_query_31', 'self_thought_33', 'user_query_10']
+[2026-02-16 19:06:45] Coherence C_total: 0.644
+[2026-02-16 19:06:45] Mode: ANSWER
+[2026-02-16 19:06:45] Energy: 0.98, Coherence: 0.58, Novelty: 0.94
+[2026-02-16 19:06:45] Emotion: curious, Mood: 0.58
+[2026-02-16 19:06:45] Generated 1 proposals
+[2026-02-16 19:06:45] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:06:45] Entering SLEEP mode...
+[2026-02-16 19:06:45] ??  Reward: +0.055, PredError: 0.397, Valence: -0.144, MatchScore: 0.50
+[2026-02-16 19:06:45] Executed: Sleep cycle 12 | verify: +0/-1/?4 pending 5?0
+[2026-02-16 19:06:45] Tick 34 complete
+[2026-02-16 19:06:50] 
+============================================================
+[2026-02-16 19:06:50] TICK 35
+[2026-02-16 19:06:50] ============================================================
+[2026-02-16 19:06:50] Attention spotlight: ['user_query_31', 'self_thought_34', 'user_query_18']
+[2026-02-16 19:06:50] Coherence C_total: 0.638
+[2026-02-16 19:06:50] Mode: REFLECT
+[2026-02-16 19:06:50] Energy: 0.99, Coherence: 0.58, Novelty: 0.92
+[2026-02-16 19:06:50] Emotion: curious, Mood: 0.58
+[2026-02-16 19:06:50] Generated 1 proposals
+[2026-02-16 19:06:50] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:06:50] ? Push-through: overriding repeated SLEEP with resolving action
+[2026-02-16 19:06:50] ??  Reward: +0.134, PredError: 0.458, Valence: -0.096, MatchScore: 0.50
+[2026-02-16 19:06:50] Executed: ?? lamp is now off
+[2026-02-16 19:06:50] ? Event closed: self_thought_34
+[2026-02-16 19:06:50] State saved
+[2026-02-16 19:06:50] Tick 35 complete
+[2026-02-16 19:06:55] 
+============================================================
+[2026-02-16 19:06:55] TICK 36
+[2026-02-16 19:06:55] ============================================================
+[2026-02-16 19:06:55] Attention spotlight: ['user_query_31', 'self_thought_35', 'user_query_18']
+[2026-02-16 19:06:55] Coherence C_total: 0.638
+[2026-02-16 19:06:55] Mode: REFLECT
+[2026-02-16 19:06:55] Energy: 0.99, Coherence: 0.58, Novelty: 0.90
+[2026-02-16 19:06:55] Emotion: curious, Mood: 0.58
+[2026-02-16 19:06:55] Generated 1 proposals
+[2026-02-16 19:06:55] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:06:55] Entering SLEEP mode...
+[2026-02-16 19:06:55] ??  Reward: +0.054, PredError: 0.398, Valence: -0.146, MatchScore: 0.50
+[2026-02-16 19:06:55] Executed: Sleep cycle 13 | verify: +0/-0/?2 pending 2?0
+[2026-02-16 19:06:55] Tick 36 complete
+[2026-02-16 19:07:00] === Session Complete ===
+
+>>> Injecting user input: Open the door
+[2026-02-16 19:07:00] Starting core loop for 6 ticks...
+[2026-02-16 19:07:00] 
+============================================================
+[2026-02-16 19:07:00] TICK 37
+[2026-02-16 19:07:00] ============================================================
+[2026-02-16 19:07:00] Attention spotlight: ['user_query_31', 'event_723ace4f', 'self_thought_36']
+[2026-02-16 19:07:00] Coherence C_total: 0.638
+[2026-02-16 19:07:00] Mode: REFLECT
+[2026-02-16 19:07:00] Energy: 0.99, Coherence: 0.58, Novelty: 0.89
+[2026-02-16 19:07:00] Emotion: curious, Mood: 0.59
+[2026-02-16 19:07:00] Generated 1 proposals
+[2026-02-16 19:07:00] Arbitration: 4 proposals, winner: WORLD (score: 1.38)
+[2026-02-16 19:07:00] ??  Reward: +0.135, PredError: 0.933, Valence: -0.332, MatchScore: 0.50
+[2026-02-16 19:07:00] Executed: ?? door opened
+[2026-02-16 19:07:00] ? Event closed: event_723ace4f
+[2026-02-16 19:07:00] Tick 37 complete
+[2026-02-16 19:07:05] 
+============================================================
+[2026-02-16 19:07:05] TICK 38
+[2026-02-16 19:07:05] ============================================================
+[2026-02-16 19:07:05] ?? User input: Who are you?
+[2026-02-16 19:07:05] Attention spotlight: ['user_query_38', 'event_79e7d0fb', 'self_thought_37']
+[2026-02-16 19:07:05] Coherence C_total: 0.638
+[2026-02-16 19:07:05] Mode: ANSWER
+[2026-02-16 19:07:05] Energy: 0.99, Coherence: 0.57, Novelty: 1.00
+[2026-02-16 19:07:05] Emotion: curious, Mood: 0.59
+[2026-02-16 19:07:05] Generated 1 proposals
+[2026-02-16 19:07:05] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:07:05] Entering SLEEP mode...
+[2026-02-16 19:07:05] ??  Reward: +0.106, PredError: 0.372, Valence: -0.081, MatchScore: 0.50
+[2026-02-16 19:07:05] Executed: Sleep cycle 14 | verify: +0/-0/?3 pending 3?0
+[2026-02-16 19:07:05] Tick 38 complete
+[2026-02-16 19:07:10] 
+============================================================
+[2026-02-16 19:07:10] TICK 39
+[2026-02-16 19:07:10] ============================================================
+[2026-02-16 19:07:10] Attention spotlight: ['user_query_38', 'event_79e7d0fb', 'self_thought_38']
+[2026-02-16 19:07:10] Coherence C_total: 0.638
+[2026-02-16 19:07:10] Mode: REFLECT
+[2026-02-16 19:07:10] Energy: 0.99, Coherence: 0.58, Novelty: 0.98
+[2026-02-16 19:07:10] Emotion: curious, Mood: 0.59
+[2026-02-16 19:07:10] Generated 1 proposals
+[2026-02-16 19:07:10] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:07:10] ? Intent completion: forcing a resolving action
+[2026-02-16 19:07:10] ??  Reward: +0.086, PredError: 0.482, Valence: -0.156, MatchScore: 0.50
+[2026-02-16 19:07:10] Executed: ?? lamp is now on
+[2026-02-16 19:07:10] ? Event closed: event_79e7d0fb
+[2026-02-16 19:07:10] Tick 39 complete
+[2026-02-16 19:07:15] 
+============================================================
+[2026-02-16 19:07:15] TICK 40
+[2026-02-16 19:07:15] ============================================================
+[2026-02-16 19:07:15] ?? User input: What time is it?
+[2026-02-16 19:07:15] Attention spotlight: ['user_query_40', 'event_10234e32', 'self_thought_39']
+[2026-02-16 19:07:15] Coherence C_total: 0.638
+[2026-02-16 19:07:15] Mode: ANSWER
+[2026-02-16 19:07:15] Energy: 0.99, Coherence: 0.58, Novelty: 1.00
+[2026-02-16 19:07:15] Emotion: curious, Mood: 0.59
+[2026-02-16 19:07:15] Generated 1 proposals
+[2026-02-16 19:07:15] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:07:15] Entering SLEEP mode...
+[2026-02-16 19:07:15] ??  Reward: +0.056, PredError: 0.397, Valence: -0.143, MatchScore: 0.50
+[2026-02-16 19:07:15] Executed: Sleep cycle 15 | verify: +0/-0/?3 pending 3?0
+[2026-02-16 19:07:15] State saved
+[2026-02-16 19:07:15] Tick 40 complete
+[2026-02-16 19:07:20] 
+============================================================
+[2026-02-16 19:07:20] TICK 41
+[2026-02-16 19:07:20] ============================================================
+[2026-02-16 19:07:20] Attention spotlight: ['user_query_40', 'event_10234e32', 'self_thought_40']
+[2026-02-16 19:07:20] Coherence C_total: 0.639
+[2026-02-16 19:07:20] Mode: REFLECT
+[2026-02-16 19:07:20] Energy: 0.99, Coherence: 0.58, Novelty: 0.98
+[2026-02-16 19:07:20] Emotion: curious, Mood: 0.59
+[2026-02-16 19:07:20] Generated 1 proposals
+[2026-02-16 19:07:20] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:07:20] ? Intent completion: forcing a resolving action
+[2026-02-16 19:07:20] ??  Reward: +0.066, PredError: 0.492, Valence: -0.181, MatchScore: 0.50
+[2026-02-16 19:07:20] Executed: ?? lamp is now off
+[2026-02-16 19:07:20] ? Event closed: event_10234e32
+[2026-02-16 19:07:20] Tick 41 complete
+[2026-02-16 19:07:25] 
+============================================================
+[2026-02-16 19:07:25] TICK 42
+[2026-02-16 19:07:25] ============================================================
+[2026-02-16 19:07:25] Attention spotlight: ['user_query_40', 'self_thought_41', 'user_query_10']
+[2026-02-16 19:07:25] Coherence C_total: 0.638
+[2026-02-16 19:07:25] Mode: REFLECT
+[2026-02-16 19:07:25] Energy: 0.99, Coherence: 0.58, Novelty: 0.96
+[2026-02-16 19:07:25] Emotion: curious, Mood: 0.59
+[2026-02-16 19:07:25] Generated 1 proposals
+[2026-02-16 19:07:25] Arbitration: 4 proposals, winner: SLEEP (score: 0.35)
+[2026-02-16 19:07:25] Entering SLEEP mode...
+[2026-02-16 19:07:25] ??  Reward: +0.178, PredError: 0.336, Valence: +0.009, MatchScore: 0.50
+[2026-02-16 19:07:25] Executed: Sleep cycle 16 | verify: +0/-0/?2 pending 2?0
+[2026-02-16 19:07:25] Tick 42 complete
+[2026-02-16 19:07:30] === Session Complete ===
+
+=== Test-input session complete ===
+
