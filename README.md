@@ -224,7 +224,7 @@ User: "Open the door"
 ### Model
 - **LLM**: Qwen2.5-7B-Instruct (4-bit quantization)
 - **Context**: 8K tokens
-- **Inference**: ~2-5 seconds per tick on T4 GPU
+- **Inference**: ~1-2 seconds per tick on H100 GPU
 
 ### Performance
 - **Coherence**: Typically 0.50 → 0.65 over 50 ticks
