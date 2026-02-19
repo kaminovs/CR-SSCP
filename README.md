@@ -30,15 +30,13 @@ If you see “Invalid Notebook”, remove `metadata.widgets` from the `.ipynb` J
 
 **v5.7.10** — A minimal, fully runnable, tick-based cognitive architecture that turns a standard LLM into a **persistent, self-regulating agent** with internal coherence, event lifecycle, active inference, and real embodied actions in a sandbox world.
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaminovs/CR-SSCP/blob/main/CR_SSCP_v5_7_10_ROUTING_TASKFRAMES.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaminovs/CR-SSCP/notebooks/CR_SSCP_v5_7_10_ROUTING_TASKFRAMES.ipynb)
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 > "I act, I feel the outcome, I update my coherence — and I remember."
 
 
-## License
-MIT
 
 ## Citations
 
