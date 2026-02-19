@@ -156,13 +156,13 @@ It gives you a **concrete, observable, minimal system** where you can watch:
 
 ```
 CR-SSCP/
-├── CR_SSCP_v5_7_10_ROUTING_TASKFRAMES.ipynb  # Main notebook (run this!)
+├── notebooks/
+│   ├── CR_SSCP_v5_7_10_ROUTING_TASKFRAMES.ipynb  # Main notebook (run this!)
 ├── logs/
 │   ├── CR_logs_5_7_10_190226.pdf             # Example run (37 ticks)
 │   └── CR_logs_5_7_2_170226.docx             # Earlier version comparison
 ├── README.md                                  # This file
-├── LICENSE                                    # MIT License
-└── requirements.txt                           # Python dependencies
+└──LICENSE                                    # MIT License
 ```
 
 ---
