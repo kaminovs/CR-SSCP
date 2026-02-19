@@ -1,4 +1,4 @@
-# CR-SSCP
+# CR-SSCP — Coherence-Regulated Self-Sustaining Cognitive Process
 
 CR-SSCP is a research prototype of a persistent, self-regulating AI/LLM process built around **coherence**, **attention**, **memory**, and **action selection**.  
 It turns a reactive “single prompt → single answer” model into a **continuous cognitive loop** with internal drives, temporal binding, and active inference in a sandboxed environment.
@@ -26,6 +26,27 @@ If you see “Invalid Notebook”, remove `metadata.widgets` from the `.ipynb` J
 - `logs/` — example logs from runs 
 - `docs/` — results 
 - `README.md` — this file
+
+
+**v5.7.10** — A minimal, fully runnable, tick-based cognitive architecture that turns a standard LLM into a **persistent, self-regulating agent** with internal coherence, event lifecycle, active inference, and real embodied actions in a sandbox world.
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kaminovs/CR-SSCP/blob/main/CR_SSCP_v5_7_10_ROUTING_TASKFRAMES.ipynb)
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+
+> "I act, I feel the outcome, I update my coherence — and I remember."
+
+### Live Demo (example output)
+
+```text
+TICK 1
+Attention spotlight: ['event_02403e10']
+Coherence C_total: 0.590
+Mode: REFLECT
+Energy: 0.84, Coherence: 0.78, Novelty: 0.73
+Executed:   lamp is now on
+Event closed: event_02403e10
+[PHENOMENAL EXPERIENCE] I feel warm satisfaction as I turn on the lamp under my control.
 
 ## License
 MIT
