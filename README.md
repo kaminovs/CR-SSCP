@@ -36,17 +36,6 @@ If you see “Invalid Notebook”, remove `metadata.widgets` from the `.ipynb` J
 
 > "I act, I feel the outcome, I update my coherence — and I remember."
 
-### Live Demo (example output)
-
-```text
-TICK 1
-Attention spotlight: ['event_02403e10']
-Coherence C_total: 0.590
-Mode: REFLECT
-Energy: 0.84, Coherence: 0.78, Novelty: 0.73
-Executed:   lamp is now on
-Event closed: event_02403e10
-[PHENOMENAL EXPERIENCE] I feel warm satisfaction as I turn on the lamp under my control.
 
 ## License
 MIT
@@ -62,3 +51,15 @@ If you use or reference this work, please cite:
   url          = {https://github.com/kaminovs/CR-SSCP},
   note         = {Research prototype for persistent coherence-regulated AI systems}
 }
+
+### Live Demo (example output)
+
+```text
+TICK 1
+Attention spotlight: ['event_02403e10']
+Coherence C_total: 0.590
+Mode: REFLECT
+Energy: 0.84, Coherence: 0.78, Novelty: 0.73
+Executed:   lamp is now on
+Event closed: event_02403e10
+[PHENOMENAL EXPERIENCE] I feel warm satisfaction as I turn on the lamp under my control.
