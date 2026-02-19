@@ -6,6 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 ![Status](https://img.shields.io/badge/Status-Experimental-orange)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18697547.svg)](https://doi.org/10.5281/zenodo.18697547)
 
 > *"I act, I feel the outcome, I update my coherence — and I remember."*
 
